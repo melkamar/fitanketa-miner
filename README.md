@@ -34,3 +34,4 @@ information to the `courses.json` file. The file has following structure:
 ```
 
 The keys in the dict are UTC timestamps of the associated data. The rest is pretty self-explanatory.
+

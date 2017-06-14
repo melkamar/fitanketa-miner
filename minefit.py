@@ -8,11 +8,11 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-import matplotlib
+# import matplotlib
 
-matplotlib.use('Agg')
-import matplotlib.dates
-import matplotlib.pyplot as plt
+# matplotlib.use('Agg')
+# import matplotlib.dates
+# import matplotlib.pyplot as plt
 
 
 def parse_page(page: str) -> Dict:
@@ -138,20 +138,20 @@ def get_day_changes(courses):
     return res
 
 
-def plot_dates_values(date_val_dict: Dict[datetime.datetime, int], fn):
-    """
-
-    :param date_val_dict: Dictionary {datetime: num, datetime: num, datetime: num}
-    :return:
-    """
-    if not os.path.exists('figs'):
-        os.mkdir('figs')
-
-    dates = matplotlib.dates.date2num(list(date_val_dict.keys()))
-    vals = list(date_val_dict.values())
-    plt.plot_date(dates, vals, linestyle='solid')
-    plt.ylabel('Počet studentů')
-    plt.savefig(f'figs/{fn}.png')
+# def plot_dates_values(date_val_dict: Dict[datetime.datetime, int], fn):
+#     """
+#
+#     :param date_val_dict: Dictionary {datetime: num, datetime: num, datetime: num}
+#     :return:
+#     """
+#     if not os.path.exists('figs'):
+#         os.mkdir('figs')
+#
+#     dates = matplotlib.dates.date2num(list(date_val_dict.keys()))
+#     vals = list(date_val_dict.values())
+#     plt.plot_date(dates, vals, linestyle='solid')
+#     plt.ylabel('Počet studentů')
+#     plt.savefig(f'figs/{fn}.png')
 
 
 def make_md_table(course_datevals: Dict[datetime.datetime, Dict]):
@@ -178,7 +178,11 @@ def make_md_table(course_datevals: Dict[datetime.datetime, Dict]):
     """
 
 
+import util
 def main():
+    print(util.get_semester(datetime.datetime.strptime("%D %M")))
+    exit()
+
     # courses = fetch_courses()
     # combined = combine_courses(courses)
     # save_courses(combined)

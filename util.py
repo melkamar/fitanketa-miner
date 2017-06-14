@@ -11,10 +11,8 @@ def get_semester(date: datetime.datetime) -> str:
         October-December year X  -> winter semester of year X/(X+1)
     :return: String representing the semester, such as B161.
     """
-
-    now_date = datetime.datetime.now()
-    year = now_date.year % 1000
-    month = now_date.month
+    year = date.year % 1000
+    month = date.month
 
     if month in [1, 2]:
         return f"B{year-1}1"

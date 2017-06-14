@@ -1,18 +1,12 @@
-from pprint import pprint
-from typing import Dict
 import json
-import time
 import os
 import re
+import time
+import datetime
+from typing import Dict
 
 import requests
 from bs4 import BeautifulSoup
-
-# import matplotlib
-
-# matplotlib.use('Agg')
-# import matplotlib.dates
-# import matplotlib.pyplot as plt
 
 
 def parse_page(page: str) -> Dict:
@@ -75,6 +69,9 @@ def read_data(fn):
 
 
 def save_data(fn, data):
+    if not os.path.exists(os.path.dirname(fn)):
+        os.mkdir(os.path.dirname(fn))
+
     with open(f"{fn}.temp", 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -96,66 +93,44 @@ def combine_courses(courses, fn='courses.json'):
     return data
 
 
-def save_courses(data, fn='courses.json'):
-    save_data(fn, data)
-
-
-import datetime
-
-
-def get_day_changes(courses):
-    """
-    Transform given courses data into a dict:
-    {
-        course_id: {
-            day: course_data,    # day is datetime object
-            day: course_data ...
-        }
-    }
-    :param courses:
-    :return:
-    """
-    res = {}
-
-    for ts, content in courses.items():
-        ts_date = datetime.datetime.fromtimestamp(int(ts))
-
-        for course_id, course_data in content.items():
-            if course_id not in res:
-                res[course_id] = {}
-
-            # Join timestamp on days
-            day_date = ts_date + datetime.timedelta(
-                # hours=-ts_date.hour,
-                minutes=-ts_date.minute,
-                seconds=-ts_date.second
-            )
-            if day_date not in res[course_id]:
-                res[course_id][day_date] = 0
-
-            res[course_id][day_date] = course_data
-
-    return res
-
-
-# def plot_dates_values(date_val_dict: Dict[datetime.datetime, int], fn):
+# def get_day_changes(courses):
 #     """
-#
-#     :param date_val_dict: Dictionary {datetime: num, datetime: num, datetime: num}
+#     Transform given courses data into a dict:
+#     {
+#         course_id: {
+#             day: course_data,    # day is datetime object
+#             day: course_data ...
+#         }
+#     }
+#     :param courses:
 #     :return:
 #     """
-#     if not os.path.exists('figs'):
-#         os.mkdir('figs')
+#     res = {}
 #
-#     dates = matplotlib.dates.date2num(list(date_val_dict.keys()))
-#     vals = list(date_val_dict.values())
-#     plt.plot_date(dates, vals, linestyle='solid')
-#     plt.ylabel('Počet studentů')
-#     plt.savefig(f'figs/{fn}.png')
+#     for ts, content in courses.items():
+#         ts_date = datetime.datetime.fromtimestamp(int(ts))
+#
+#         for course_id, course_data in content.items():
+#             if course_id not in res:
+#                 res[course_id] = {}
+#
+#             # Join timestamp on days
+#             day_date = ts_date + datetime.timedelta(
+#                 # hours=-ts_date.hour,
+#                 minutes=-ts_date.minute,
+#                 seconds=-ts_date.second
+#             )
+#             if day_date not in res[course_id]:
+#                 res[course_id][day_date] = 0
+#
+#             res[course_id][day_date] = course_data
+#
+#     return res
 
 
 def make_md_table(course_datevals: Dict[datetime.datetime, Dict]):
     """ Make markdown table with student data"""
+    # TODO use data from generated JSON to create MD table
     if not course_datevals:
         return ""
 
@@ -178,23 +153,69 @@ def make_md_table(course_datevals: Dict[datetime.datetime, Dict]):
     """
 
 
+def load_semester(semester: str):
+    fn = f'data/{semester.upper()}.json'
+    if not os.path.exists(fn):
+        return {}
+
+    return read_data(fn)
+
+
+def parse_course_data(course_id: str, data):
+    study_programme = course_id.split('-', maxsplit=1)[0]
+    if not data:
+        return []
+
+    try:
+        course_data = data[study_programme]
+        course_data = course_data[course_id]
+        return course_data
+    except KeyError:
+        return []
+
+
+def merge_single_course(new_course_data, original_data, timestamp):
+    new_course_id = new_course_data['course_id']
+    new_course_data['timestamp'] = timestamp
+
+    original_course_data = parse_course_data(new_course_id, original_data)
+    study_programme = new_course_id.split('-', maxsplit=1)[0]
+
+    if not original_course_data:
+        # create course data
+        if study_programme not in original_data:
+            original_data[study_programme] = {}
+
+        original_data[study_programme][new_course_id] = [new_course_data]
+
+    else:
+        # there already is some data for this course
+        # check if this new data adds anything of value and add it only if necessary
+        data = original_data[study_programme][new_course_id][-1]
+        finished_original = data['finished']
+        finished_new = new_course_data['finished']
+        if finished_new != finished_original:
+            original_data[study_programme][new_course_id].append(new_course_data)
+
+
+def add_new_course_data(new_data, original_data, timestamp):
+    for course_data in new_data.values():
+        merge_single_course(course_data, original_data, timestamp)
+
+
 import util
+
+
 def main():
-    print(util.get_semester(datetime.datetime.strptime("%D %M")))
-    exit()
+    now = datetime.datetime.now()
+    semester = util.get_semester(now)
 
-    # courses = fetch_courses()
-    # combined = combine_courses(courses)
-    # save_courses(combined)
+    old_data = load_semester(semester)
+    courses = fetch_courses()
+    add_new_course_data(courses, old_data, now.timestamp())
 
-    combined = combine_courses({})
-
-    changes = get_day_changes(combined)
-    print(changes['BI-LIN'])
-
-    for course_id, course_data in changes.items():
-        make_md_table(course_data)
-        break
+    fn = f'data/{semester.upper()}.json'
+    save_data(fn, old_data)
 
 
 if __name__ == '__main__':

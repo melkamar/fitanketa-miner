@@ -22,6 +22,16 @@ def get_semester(date: datetime.datetime) -> str:
         return f"B{year}1"
 
 
+def semester_id_to_str(semester_id):
+    year = semester_id[1:3]
+    wintersummer_flag = int(semester_id[3])
+
+    year_full = 2000 + int(year)
+    winsum_str = "zimní" if wintersummer_flag == 1 else "letní"
+
+    return f'{winsum_str.capitalize()} semestr {year_full}/{year_full+1}'
+
+
 def timestamp_to_date_str(timestamp: float) -> str:
     return datetime.datetime.fromtimestamp(timestamp).strftime("%d.%m.%Y %H:%M")
 

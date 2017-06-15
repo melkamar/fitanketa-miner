@@ -1,5 +1,8 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
+---
+title: Sometitle
+---
 
 # Letní semestr 2016/2017 - předměty programu BI
 

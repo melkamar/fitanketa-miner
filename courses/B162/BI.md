@@ -1,5 +1,6 @@
 ---
 title: Sometitle
+permalink: courses/B162/BI.md
 ---
 
 # Letní semestr 2016/2017 - předměty programu BI

@@ -24,3 +24,7 @@ def get_semester(date: datetime.datetime) -> str:
 
 def timestamp_to_date_str(timestamp: float) -> str:
     return datetime.datetime.fromtimestamp(timestamp).strftime("%d.%m.%Y %H:%M")
+
+
+def sanitize_fn(fn: str) -> str:
+    return "".join([c for c in fn if c.isalpha() or c.isdigit() or c == ' ']).rstrip()

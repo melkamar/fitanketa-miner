@@ -1,12 +1,14 @@
+import datetime
 import json
 import os
 import re
 import time
-import datetime
 from typing import Dict, List, Union
 
 import requests
 from bs4 import BeautifulSoup
+
+import util
 
 
 def parse_page(page: str) -> Dict:
@@ -93,7 +95,7 @@ def combine_courses(courses, fn='courses.json'):
     return data
 
 
-def make_md_table(semester: str, course_semester_data: List[Dict[str, Union[str, int, float]]]):
+def make_md_table(semester: str, study_programme: str, course_semester_data: List[Dict[str, Union[str, int, float]]]):
     """ Make markdown table from data of a single semester-course. """
     if not course_semester_data:
         return ""
@@ -118,17 +120,18 @@ def make_md_table(semester: str, course_semester_data: List[Dict[str, Union[str,
 
     for datapoint in course_semester_data:
         row_data_headers.append(util.timestamp_to_date_str(datapoint['timestamp']))
-        row_data_separator.append("-"*20)
+        row_data_separator.append("-" * 20)
 
         new_completed = datapoint['finished']
         new_completed_percent = datapoint['percent_finished']
-        completed_delta = new_completed-previous_completed
-        completed_percent_delta = new_completed_percent-previous_completed_percent
+        completed_delta = new_completed - previous_completed
+        completed_percent_delta = new_completed_percent - previous_completed_percent
         previous_completed = new_completed
         previous_completed_percent = new_completed_percent
 
         row_data_compl_total.append(f'''{new_completed} ({completed_delta:+})''')
-        row_data_compl_total_percent.append(f'''{datapoint['percent_finished']*100:.0f}% ({completed_percent_delta*100:+.0f}%)''')
+        row_data_compl_total_percent.append(
+            f'''{datapoint['percent_finished']*100:.0f}% ({completed_percent_delta*100:+.0f}%)''')
 
     print("ha")
     md = f"""## {course_name} ({course_id})
@@ -142,6 +145,11 @@ def make_md_table(semester: str, course_semester_data: List[Dict[str, Union[str,
 {row_completed_total}{"|".join(row_data_compl_total)}|
 {row_completed_total_percent}{"|".join(row_data_compl_total_percent)}|
 """
+
+    # tgt_dir = os.path.join('page', semester, study_programme)
+    # os.makedirs(tgt_dir, exist_ok=True)
+    # with open(os.path.join(tgt_dir, util.sanitize_fn(course_id) + '.md'), 'w', encoding='utf-8') as f:
+    #     f.write(md)
 
     return md
 
@@ -196,7 +204,13 @@ def add_new_course_data(new_data, original_data, timestamp):
         merge_single_course(course_data, original_data, timestamp)
 
 
-import util
+# def make_index(semester_id, courses_data):
+#     # TODO - všechny předměty ze semestru a studijního programu BI/MI atd dát na jednu stránku pod sebe - appendnout tables
+#     # TODO - udělat anchors
+#     tgt_dir = os.path.join('page', semester_id, study_programme)
+#     os.makedirs(tgt_dir, exist_ok=True)
+#     with open(os.path.join(tgt_dir, util.sanitize_fn(course_id) + '.md'), 'w', encoding='utf-8') as f:
+#         f.write(md)
 
 
 def main():
@@ -210,11 +224,19 @@ def main():
     fn = f'data/{semester.upper()}.json'
     save_data(fn, old_data)
 
+    # make_index(semester, old_data.items())
+
     for semester_programme, semester_courses in old_data.items():
+        programme_tables = ""
         for course_id, course_data in semester_courses.items():
-            md_page = make_md_table(semester, course_data)
-            print(md_page)
-            return
+            md_page = make_md_table(semester, semester_programme, course_data)
+            programme_tables += md_page
+            programme_tables += "\n"
+
+        tgt_dir = os.path.join('page', semester)
+        os.makedirs(tgt_dir, exist_ok=True)
+        with open(os.path.join(tgt_dir, util.sanitize_fn(semester_programme) + '.md'), 'w', encoding='utf-8') as f:
+            f.write(programme_tables)
 
 
 if __name__ == '__main__':

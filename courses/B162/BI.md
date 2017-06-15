@@ -1,7 +1,3 @@
----
-title: Sometitle
----
-
 # Letní semestr 2016/2017 - předměty programu BI
 
 ## Programovací praktika (BI-ACM2)

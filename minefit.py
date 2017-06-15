@@ -101,31 +101,44 @@ def make_md_table(semester: str, course_semester_data: List[Dict[str, Union[str,
     data_item = course_semester_data[0]
     course_id = data_item['course_id']
     course_name = data_item['course_name']
+    enrolled_total = data_item['enrolled']
 
     row_headers = '|                          |'
     row_separator = '|--------------------------|'
-    row_completed_interval = "|**Splněno v období**      |"
     row_completed_total = "|**Splněno celkem**        |"
     row_completed_total_percent = "|**Splněno celkem procent**|"
 
     row_data_headers = []
     row_data_separator = []
-    row_data_compl_interval = []
     row_data_compl_total = []
     row_data_compl_total_percent = []
+
+    previous_completed = 0
+    previous_completed_percent = 0
+
     for datapoint in course_semester_data:
         row_data_headers.append(util.timestamp_to_date_str(datapoint['timestamp']))
         row_data_separator.append("-"*20)
-        row_data_compl_interval.append("?")
-        row_data_compl_total.append("?")
-        row_data_compl_total_percent.append("?")
 
-    md = f"""##{course_name} ({course_id})
-####Semestr {semester}
+        new_completed = datapoint['finished']
+        new_completed_percent = datapoint['percent_finished']
+        completed_delta = new_completed-previous_completed
+        completed_percent_delta = new_completed_percent-previous_completed_percent
+        previous_completed = new_completed
+        previous_completed_percent = new_completed_percent
+
+        row_data_compl_total.append(f'''{new_completed} ({completed_delta:+})''')
+        row_data_compl_total_percent.append(f'''{datapoint['percent_finished']*100:.0f}% ({completed_percent_delta*100:+.0f}%)''')
+
+    print("ha")
+    md = f"""## {course_name} ({course_id})
+
+**Semestr**: {semester}
+
+**Přihlášeno studentů**: {enrolled_total}
 
 {row_headers}{"|".join(row_data_headers)}|
 {row_separator}{"|".join(row_data_separator)}|
-{row_completed_interval}{"|".join(row_data_compl_interval)}|
 {row_completed_total}{"|".join(row_data_compl_total)}|
 {row_completed_total_percent}{"|".join(row_data_compl_total_percent)}|
 """

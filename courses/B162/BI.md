@@ -1,3 +1,6 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+
 # Letní semestr 2016/2017 - předměty programu BI
 
 ## Programovací praktika (BI-ACM2)

@@ -46,10 +46,20 @@
         "course_id": "BI-ACM2",
         "course_name": "Programovací praktika",
         "enrolled": 36,
-        "finished": 35,
+        "finished": 34,
         "submitted_survey": 5,
         "percent_finished": 0.9722222222222222,
         "timestamp": 1497478977.248815
+      },
+      {
+        "department": 18101,
+        "course_id": "BI-ACM2",
+        "course_name": "Programovací praktika",
+        "enrolled": 36,
+        "finished": 35,
+        "submitted_survey": 5,
+        "percent_finished": 0.9722222222222222,
+        "timestamp": 1497514297.630005
       }
     ],
     "BI-AG2": [

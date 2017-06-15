@@ -20,3 +20,7 @@ def get_semester(date: datetime.datetime) -> str:
         return f"B{year-1}2"
     elif month in [10, 11, 12]:
         return f"B{year}1"
+
+
+def timestamp_to_date_str(timestamp: float) -> str:
+    return datetime.datetime.fromtimestamp(timestamp).strftime("%d.%m.%Y %H:%M")

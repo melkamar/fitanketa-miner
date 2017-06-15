@@ -3,7 +3,7 @@ import os
 import re
 import time
 import datetime
-from typing import Dict
+from typing import Dict, List, Union
 
 import requests
 from bs4 import BeautifulSoup
@@ -93,48 +93,12 @@ def combine_courses(courses, fn='courses.json'):
     return data
 
 
-# def get_day_changes(courses):
-#     """
-#     Transform given courses data into a dict:
-#     {
-#         course_id: {
-#             day: course_data,    # day is datetime object
-#             day: course_data ...
-#         }
-#     }
-#     :param courses:
-#     :return:
-#     """
-#     res = {}
-#
-#     for ts, content in courses.items():
-#         ts_date = datetime.datetime.fromtimestamp(int(ts))
-#
-#         for course_id, course_data in content.items():
-#             if course_id not in res:
-#                 res[course_id] = {}
-#
-#             # Join timestamp on days
-#             day_date = ts_date + datetime.timedelta(
-#                 # hours=-ts_date.hour,
-#                 minutes=-ts_date.minute,
-#                 seconds=-ts_date.second
-#             )
-#             if day_date not in res[course_id]:
-#                 res[course_id][day_date] = 0
-#
-#             res[course_id][day_date] = course_data
-#
-#     return res
-
-
-def make_md_table(course_datevals: Dict[datetime.datetime, Dict]):
-    """ Make markdown table with student data"""
-    # TODO use data from generated JSON to create MD table
-    if not course_datevals:
+def make_md_table(semester: str, course_semester_data: List[Dict[str, Union[str, int, float]]]):
+    """ Make markdown table from data of a single semester-course. """
+    if not course_semester_data:
         return ""
 
-    data_item = next(iter(course_datevals.values()))
+    data_item = course_semester_data[0]
     course_id = data_item['course_id']
     course_name = data_item['course_name']
 
@@ -144,13 +108,29 @@ def make_md_table(course_datevals: Dict[datetime.datetime, Dict]):
     row_completed_total = "|**Splněno celkem**        |"
     row_completed_total_percent = "|**Splněno celkem procent**|"
 
+    row_data_headers = []
+    row_data_separator = []
+    row_data_compl_interval = []
+    row_data_compl_total = []
+    row_data_compl_total_percent = []
+    for datapoint in course_semester_data:
+        row_data_headers.append(util.timestamp_to_date_str(datapoint['timestamp']))
+        row_data_separator.append("-"*20)
+        row_data_compl_interval.append("?")
+        row_data_compl_total.append("?")
+        row_data_compl_total_percent.append("?")
+
     md = f"""##{course_name} ({course_id})
-{row_headers}
-{row_separator}
-{row_completed_interval}
-{row_completed_total}
-{row_completed_total_percent}
-    """
+####Semestr {semester}
+
+{row_headers}{"|".join(row_data_headers)}|
+{row_separator}{"|".join(row_data_separator)}|
+{row_completed_interval}{"|".join(row_data_compl_interval)}|
+{row_completed_total}{"|".join(row_data_compl_total)}|
+{row_completed_total_percent}{"|".join(row_data_compl_total_percent)}|
+"""
+
+    return md
 
 
 def load_semester(semester: str):
@@ -216,6 +196,12 @@ def main():
 
     fn = f'data/{semester.upper()}.json'
     save_data(fn, old_data)
+
+    for semester_programme, semester_courses in old_data.items():
+        for course_id, course_data in semester_courses.items():
+            md_page = make_md_table(semester, course_data)
+            print(md_page)
+            return
 
 
 if __name__ == '__main__':

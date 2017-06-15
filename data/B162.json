@@ -224,10 +224,20 @@
         "course_id": "BI-PA2",
         "course_name": "Programování a algoritmizace 2",
         "enrolled": 581,
-        "finished": 145,
+        "finished": 256,
         "submitted_survey": 28,
         "percent_finished": 0.2495697074010327,
         "timestamp": 1497478926.557467
+      },
+      {
+        "department": 18101,
+        "course_id": "BI-PA2",
+        "course_name": "Programování a algoritmizace 2",
+        "enrolled": 581,
+        "finished": 145,
+        "submitted_survey": 29,
+        "percent_finished": 0.2495697074010327,
+        "timestamp": 1497547795.361089
       }
     ],
     "BI-PJP": [

@@ -202,11 +202,14 @@ def add_new_course_data(new_data, original_data, timestamp):
         merge_single_course(course_data, original_data, timestamp)
 
 
-def make_index(root):
+def make_index(index_root, courses_root):
+    if not os.path.exists(courses_root):
+        raise ValueError("Specified root directory does not exist.")
+
     index_md = "# Přehled splněných předmětů\n"
     programme_semesters_dict = {}
-    for semester in os.listdir(root):
-        for programme in os.listdir(os.path.join(root, semester)):
+    for semester in os.listdir(courses_root):
+        for programme in os.listdir(os.path.join(courses_root, semester)):
             # print(f"{semester} -> {programme}")
             if programme not in programme_semesters_dict:
                 programme_semesters_dict[programme] = []
@@ -214,13 +217,16 @@ def make_index(root):
             programme_semesters_dict[programme].append(semester)
 
     for programme, semesters in programme_semesters_dict.items():
-        index_md += f'## Program {programme.rsplit(".", 1)[0]}\n'
+        programme_name_no_ext = programme.rsplit(".", 1)[0]
+
+        index_md += f'## Program {programme_name_no_ext}\n'
         for semester in semesters:
-            index_md += f'- [{util.semester_id_to_str(semester)}]({os.path.join(root,semester,programme)})\n'
+            index_md += f'- [{util.semester_id_to_str(semester)}]({os.path.join(os.path.relpath(courses_root, index_root),semester,programme_name_no_ext)})\n'
 
         index_md += '\n\n'
 
-    print(index_md)
+    with open(os.path.join(index_root, 'README.md'), 'w', encoding='utf-8') as f:
+        f.write(index_md)
 
 
 # # TODO - všechny předměty ze semestru a studijního programu BI/MI atd dát na jednu stránku pod sebe - appendnout tables
@@ -229,6 +235,21 @@ def make_index(root):
 #     os.makedirs(tgt_dir, exist_ok=True)
 #     with open(os.path.join(tgt_dir, util.sanitize_fn(course_id) + '.md'), 'w', encoding='utf-8') as f:
 #         f.write(md)
+
+def make_pages(data, semester, root='page'):
+    for semester_programme, semester_courses in data.items():
+        programme_md_heading = f"# {util.semester_id_to_str(semester)} - předměty programu {semester_programme}"
+        programme_md_tables = ""
+        for course_id, course_data in semester_courses.items():
+            md_page = make_md_table(semester, semester_programme, course_data)
+            programme_md_tables += md_page
+            programme_md_tables += "\n"
+
+        tgt_dir = os.path.join(root, semester)
+        os.makedirs(tgt_dir, exist_ok=True)
+        with open(os.path.join(tgt_dir, util.sanitize_fn(semester_programme) + '.md'), 'w', encoding='utf-8') as f:
+            f.write(programme_md_heading + "\n\n")
+            f.write(programme_md_tables)
 
 
 def main():
@@ -242,30 +263,12 @@ def main():
     fn = f'data/{semester.upper()}.json'
     save_data(fn, old_data)
 
-    # make_index(semester, old_data.items())
+    make_pages(old_data, semester, 'page/courses')
+    make_index('page', 'page/courses')
 
-    for semester_programme, semester_courses in old_data.items():
-        programme_md_heading = f"# {util.semester_id_to_str(semester)} - předměty programu {semester_programme}"
-        programme_md_tables = ""
-        for course_id, course_data in semester_courses.items():
-            md_page = make_md_table(semester, semester_programme, course_data)
-            programme_md_tables += md_page
-            programme_md_tables += "\n"
-
-        tgt_dir = os.path.join('page', semester)
-        os.makedirs(tgt_dir, exist_ok=True)
-        with open(os.path.join(tgt_dir, util.sanitize_fn(semester_programme) + '.md'), 'w', encoding='utf-8') as f:
-            f.write(programme_md_heading + "\n\n")
-            f.write(programme_md_tables)
+    import publisher
+    publisher.publish('page')
 
 
 if __name__ == '__main__':
-    # print(util.semester_id_to_str("B161"))
-    # print(util.semester_id_to_str("B162"))
-    # print(util.semester_id_to_str("B172"))
-    # print(util.semester_id_to_str("B171"))
-    # main()
-    # for root,subdirs,files in os.walk('page'):
-    #     print(f"{root}  {subdirs}  {files}")
-
-    make_index('page')
+    main()

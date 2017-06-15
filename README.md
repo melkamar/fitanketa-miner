@@ -1,6 +1,6 @@
 # Přehled splněných předmětů
 ## Program BI
-- [Letní semestr 2016/2017](courses\B162\BI.md)
+- [Letní semestr 2016/2017](courses\B162\BI)
 
 
 ## Program BIE

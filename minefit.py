@@ -247,8 +247,7 @@ def make_page_heading_index(index_columns, courses_data):
         anchor_link = f'#{course_name.lower()}-{course_id.lower()}'.replace(' ', '-').replace('.', '')
         anchor_full = f'[{course_id}]({anchor_link})'
 
-        cur_row = i % index_rows
-        cur_col = i/index_rows
+        cur_row = i // index_columns
 
         index_matrix[cur_row].append(anchor_full)
 

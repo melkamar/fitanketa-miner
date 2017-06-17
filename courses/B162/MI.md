@@ -1,13 +1,15 @@
 # Letní semestr 2016/2017 - předměty programu MI
 
 
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-|[MI-ADM.16](#algoritmy-data-miningu-mi-adm.16) | [MI-DDW.16](#dolování-dat-z-webu-mi-ddw.16) | [MI-GEN](#generování-kódu-mi-gen) | [MI-IOT](#internet-of-things-mi-iot) | [MI-MVI.16](#metody-výpočetní-inteligence-mi-mvi.16) | [MI-PAP.16](#paralelní-architektury-počítačů-mi-pap.16) | [MI-PRC](#programování-v-cuda-mi-prc) | [MI-SYB.16](#systémová-bezpečnost-mi-syb.16)|
-|[MI-AVY](#automaty-ve-vyhledávání-v-textech-mi-avy) | [MI-DSP](#databázové-systémy-v-praxi-mi-dsp) | [MI-GLR](#games-and-reinforcement-learning-mi-glr) | [MI-KOD.16](#komprese-dat-mi-kod.16) | [MI-MZI](#matematika-pro-znalostní-inženýrství-mi-mzi) | [MI-PCM.16](#projektové-a-změnové-řízení-mi-pcm.16) | [MI-PSL](#programování-v-jazyku-scala-mi-psl) | [MI-TS4](#teoretický-seminář-magisterský-iv-mi-ts4)|
-|[MI-BHW.16](#bezpečnost-a-technické-prostředky-mi-bhw.16) | [MI-DZO](#digitální-zpracování-obrazu-mi-dzo) | [MI-HWB.16](#hardwarová-bezpečnost-mi-hwb.16) | [MI-MAI](#multimedia-a-internet-mi-mai) | [MI-NSS.16](#normalized-software-systems-mi-nss.16) | [MI-PDP.16](#paralelní-a-distribuované-programování-mi-pdp.16) | [MI-RRI](#řízení-rizik-v-informatice-mi-rri) | [MI-W20.16](#web-2.0-mi-w20.16)|
-|[MI-BKO.16](#bezpečnostní-kódy-mi-bko.16) | [MI-FLP](#funkcionální-a-logické-programování-mi-flp) | [MI-IKM](#-internet-a-klasifikační-metody-mi-ikm) | [MI-MBI.16](#řízení-podnikové-informatiky-mi-mbi.16) | [MI-PAL](#pokročilá-algoritmizace-mi-pal) | [MI-PIS.16](#pokročilé-informační-systémy-mi-pis.16) | [MI-SIN](#integrace-v-informačních-systémech-mi-sin)|
-|[MI-BPS](#bezdrátové-počítačové-sítě-mi-bps) | [MI-FME.16](#formální-metody-a-specifikace-mi-fme.16) | [MI-IOS](#pokročilé-techniky-v-ios-aplikacích-mi-ios) | [MI-MKY.16](#matematika-pro-kryptologii-mi-mky.16) | [MI-PAM](#efektivni-předzpracování-a-parametrizované-algoritmy-mi-pam) | [MI-POA.16](#pokročilé-architektury-počítačových-systémů-mi-poa.16) | [MI-SPI.16](#statistika-pro-informatiku-mi-spi.16)|
+| | | | | | |
+|-|-|-|-|-|-|
+|[MI-ADM.16](#algoritmy-data-miningu-mi-adm16) | [MI-DZO](#digitální-zpracování-obrazu-mi-dzo) | [MI-IOS](#pokročilé-techniky-v-ios-aplikacích-mi-ios) | [MI-MZI](#matematika-pro-znalostní-inženýrství-mi-mzi) | [MI-PIS.16](#pokročilé-informační-systémy-mi-pis16) | [MI-SYB.16](#systémová-bezpečnost-mi-syb16)|
+|[MI-AVY](#automaty-ve-vyhledávání-v-textech-mi-avy) | [MI-FLP](#funkcionální-a-logické-programování-mi-flp) | [MI-IOT](#internet-of-things-mi-iot) | [MI-NSS.16](#normalized-software-systems-mi-nss16) | [MI-POA.16](#pokročilé-architektury-počítačových-systémů-mi-poa16) | [MI-TS4](#teoretický-seminář-magisterský-iv-mi-ts4)|
+|[MI-BHW.16](#bezpečnost-a-technické-prostředky-mi-bhw16) | [MI-FME.16](#formální-metody-a-specifikace-mi-fme16) | [MI-KOD.16](#komprese-dat-mi-kod16) | [MI-PAL](#pokročilá-algoritmizace-mi-pal) | [MI-PRC](#programování-v-cuda-mi-prc) | [MI-W20.16](#web-20-mi-w2016)|
+|[MI-BKO.16](#bezpečnostní-kódy-mi-bko16) | [MI-GEN](#generování-kódu-mi-gen) | [MI-MAI](#multimedia-a-internet-mi-mai) | [MI-PAM](#efektivni-předzpracování-a-parametrizované-algoritmy-mi-pam) | [MI-PSL](#programování-v-jazyku-scala-mi-psl)|
+|[MI-BPS](#bezdrátové-počítačové-sítě-mi-bps) | [MI-GLR](#games-and-reinforcement-learning-mi-glr) | [MI-MBI.16](#řízení-podnikové-informatiky-mi-mbi16) | [MI-PAP.16](#paralelní-architektury-počítačů-mi-pap16) | [MI-RRI](#řízení-rizik-v-informatice-mi-rri)|
+|[MI-DDW.16](#dolování-dat-z-webu-mi-ddw16) | [MI-HWB.16](#hardwarová-bezpečnost-mi-hwb16) | [MI-MKY.16](#matematika-pro-kryptologii-mi-mky16) | [MI-PCM.16](#projektové-a-změnové-řízení-mi-pcm16) | [MI-SIN](#integrace-v-informačních-systémech-mi-sin)|
+|[MI-DSP](#databázové-systémy-v-praxi-mi-dsp) | [MI-IKM](#-internet-a-klasifikační-metody-mi-ikm) | [MI-MVI.16](#metody-výpočetní-inteligence-mi-mvi16) | [MI-PDP.16](#paralelní-a-distribuované-programování-mi-pdp16) | [MI-SPI.16](#statistika-pro-informatiku-mi-spi16)|
 
     
 
@@ -355,4 +357,4 @@
 
 
 
-*Stav k 17.06.2017 19:42:37*
+*Stav k 17.06.2017 20:47:26*

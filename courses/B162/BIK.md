@@ -1,11 +1,12 @@
 # Letní semestr 2016/2017 - předměty programu BIK
 
 
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-|[BIK-ADU.1](#administrace-os-unix-bik-adu.1) | [BIK-BEZ](#bezpečnost-bik-bez) | [BIK-HMI](#historie-matematiky-a-informatiky-bik-hmi) | [BIK-MEK](#makroekonomické-souvislosti-domácí-a-světové-ekonomiky-bik-mek) | [BIK-PJP](#programovací-jazyky-a-překladače-bik-pjp) | [BIK-PS2](#programování-v-shellu-2-bik-ps2) | [BIK-SI1.2](#softwarové-inženýrství-i-bik-si1.2) | [BIK-TUR](#tvorba-uživatelského-rozhraní-bik-tur)|
-|[BIK-AWD](#administrace-webového-a-db-serveru-bik-awd) | [BIK-DBS](#databázové-systémy-bik-dbs) | [BIK-KSA](#úvod-do-kulturní-a-sociální-antropologie-bik-ksa) | [BIK-OSY](#operační-systémy-bik-osy) | [BIK-PPR](#projekt,-prezentace-a-rétorika-bik-ppr) | [BIK-PSI](#počítačové-sítě-bik-psi) | [BIK-SP1](#softwarový-týmový-projekt-1-bik-sp1)|
-|[BIK-BEK](#bezpečný-kód-bik-bek) | [BIK-GRA](#grafové-algoritmy-a-základy-teorie-složitosti-bik-gra) | [BIK-LIN](#lineární-algebra-bik-lin) | [BIK-PA2](#programování-a-algoritmizace-2-bik-pa2) | [BIK-PRP](#právo-a-podnikání-bik-prp) | [BIK-SAP](#struktura-a-architektura-počítačů-bik-sap) | [BIK-SQL.1](#jazyk-sql,-pokročilý-bik-sql.1)|
+| | | | | | |
+|-|-|-|-|-|-|
+|[BIK-ADU.1](#administrace-os-unix-bik-adu1) | [BIK-DBS](#databázové-systémy-bik-dbs) | [BIK-LIN](#lineární-algebra-bik-lin) | [BIK-PJP](#programovací-jazyky-a-překladače-bik-pjp) | [BIK-PSI](#počítačové-sítě-bik-psi) | [BIK-SQL.1](#jazyk-sql,-pokročilý-bik-sql1)|
+|[BIK-AWD](#administrace-webového-a-db-serveru-bik-awd) | [BIK-GRA](#grafové-algoritmy-a-základy-teorie-složitosti-bik-gra) | [BIK-MEK](#makroekonomické-souvislosti-domácí-a-světové-ekonomiky-bik-mek) | [BIK-PPR](#projekt,-prezentace-a-rétorika-bik-ppr) | [BIK-SAP](#struktura-a-architektura-počítačů-bik-sap) | [BIK-TUR](#tvorba-uživatelského-rozhraní-bik-tur)|
+|[BIK-BEK](#bezpečný-kód-bik-bek) | [BIK-HMI](#historie-matematiky-a-informatiky-bik-hmi) | [BIK-OSY](#operační-systémy-bik-osy) | [BIK-PRP](#právo-a-podnikání-bik-prp) | [BIK-SI1.2](#softwarové-inženýrství-i-bik-si12)|
+|[BIK-BEZ](#bezpečnost-bik-bez) | [BIK-KSA](#úvod-do-kulturní-a-sociální-antropologie-bik-ksa) | [BIK-PA2](#programování-a-algoritmizace-2-bik-pa2) | [BIK-PS2](#programování-v-shellu-2-bik-ps2) | [BIK-SP1](#softwarový-týmový-projekt-1-bik-sp1)|
 
     
 
@@ -209,4 +210,4 @@
 
 
 
-*Stav k 17.06.2017 19:42:37*
+*Stav k 17.06.2017 20:47:26*

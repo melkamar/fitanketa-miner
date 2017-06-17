@@ -1,12 +1,13 @@
 # Letní semestr 2016/2017 - předměty programu BIE
 
 
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-|[BIE-3DT.1](#3d-printing-bie-3dt.1) | [BIE-BEK](#secure-code-bie-bek) | [BIE-EMP](#economic-and-management-principles-bie-emp) | [BIE-OSY](#operating-systems-bie-osy) | [BIE-PS2](#programming-in-shell-2-bie-ps2) | [BIE-SP1](#team-software-project-1-bie-sp1) | [BIE-ZUM](#artificial-intelligence-fundamentals-bie-zum)|
-|[BIE-ADU.1](#unix-administration-bie-adu.1) | [BIE-BEZ](#security-bie-bez) | [BIE-EPR](#economic-project-bie-epr) | [BIE-PA2](#programming-and-algorithmics-2-bie-pa2) | [BIE-PSI](#computer-networks-bie-psi) | [BIE-TUR](#user-interface-design-bie-tur) | [BIE-ZWU](#introduction-to-web-and-user-interfaces-bie-zwu)|
-|[BIE-AG2](#algorithms-and-graphs-2-bie-ag2) | [BIE-DBS](#database-systems-bie-dbs) | [BIE-GRA](#graph-algorithms-and-complexity-theory-bie-gra) | [BIE-PJP](#programming-languages-and-compilers-bie-pjp) | [BIE-SAP](#computer-structures-and-architectures-bie-sap) | [BIE-VZD](#data-mining-bie-vzd)|
-|[BIE-AWD](#web-and-database-server-administration-bie-awd) | [BIE-EHD](#introduction-to-european-economic-history-bie-ehd) | [BIE-LIN](#linear-algebra-bie-lin) | [BIE-PJV](#programming-in-java-bie-pjv) | [BIE-SI1.2](#software-engineering-i-bie-si1.2) | [BIE-ZRS](#basics-of-system-control-bie-zrs)|
+| | | | | | |
+|-|-|-|-|-|-|
+|[BIE-3DT.1](#3d-printing-bie-3dt1) | [BIE-BEZ](#security-bie-bez) | [BIE-GRA](#graph-algorithms-and-complexity-theory-bie-gra) | [BIE-PJV](#programming-in-java-bie-pjv) | [BIE-SP1](#team-software-project-1-bie-sp1) | [BIE-ZWU](#introduction-to-web-and-user-interfaces-bie-zwu)|
+|[BIE-ADU.1](#unix-administration-bie-adu1) | [BIE-DBS](#database-systems-bie-dbs) | [BIE-LIN](#linear-algebra-bie-lin) | [BIE-PS2](#programming-in-shell-2-bie-ps2) | [BIE-TUR](#user-interface-design-bie-tur)|
+|[BIE-AG2](#algorithms-and-graphs-2-bie-ag2) | [BIE-EHD](#introduction-to-european-economic-history-bie-ehd) | [BIE-OSY](#operating-systems-bie-osy) | [BIE-PSI](#computer-networks-bie-psi) | [BIE-VZD](#data-mining-bie-vzd)|
+|[BIE-AWD](#web-and-database-server-administration-bie-awd) | [BIE-EMP](#economic-and-management-principles-bie-emp) | [BIE-PA2](#programming-and-algorithmics-2-bie-pa2) | [BIE-SAP](#computer-structures-and-architectures-bie-sap) | [BIE-ZRS](#basics-of-system-control-bie-zrs)|
+|[BIE-BEK](#secure-code-bie-bek) | [BIE-EPR](#economic-project-bie-epr) | [BIE-PJP](#programming-languages-and-compilers-bie-pjp) | [BIE-SI1.2](#software-engineering-i-bie-si12) | [BIE-ZUM](#artificial-intelligence-fundamentals-bie-zum)|
 
     
 
@@ -246,4 +247,4 @@
 
 
 
-*Stav k 17.06.2017 19:42:37*
+*Stav k 17.06.2017 20:47:26*

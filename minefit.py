@@ -335,7 +335,7 @@ def main():
         if not args.continuous:
             break
 
-        time.sleep(args.interval)
+        time.sleep(int(args.interval))
 
 
 if __name__ == '__main__':

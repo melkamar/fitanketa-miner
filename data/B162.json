@@ -1660,6 +1660,16 @@
         "submitted_survey": 12,
         "percent_finished": 0.4811320754716981,
         "timestamp": 1497701667.861465
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-SI1.2",
+        "course_name": "Softwarové inženýrství I",
+        "enrolled": 212,
+        "finished": 105,
+        "submitted_survey": 12,
+        "percent_finished": 0.49528301886792453,
+        "timestamp": 1497730171.778695
       }
     ],
     "BI-SP1": [
@@ -4166,6 +4176,16 @@
         "submitted_survey": 1,
         "percent_finished": 0.2857142857142857,
         "timestamp": 1497478926.557467
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-AWD",
+        "course_name": "Administrace webového a DB serveru",
+        "enrolled": 7,
+        "finished": 3,
+        "submitted_survey": 1,
+        "percent_finished": 0.42857142857142855,
+        "timestamp": 1497730171.778695
       }
     ],
     "BIK-DBS": [
@@ -4208,6 +4228,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.08888888888888889,
         "timestamp": 1497478926.557467
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-DBS",
+        "course_name": "Databázové systémy",
+        "enrolled": 45,
+        "finished": 13,
+        "submitted_survey": 0,
+        "percent_finished": 0.28888888888888886,
+        "timestamp": 1497730171.778695
       }
     ],
     "BIK-KSA": [
@@ -4544,6 +4574,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1497478926.557467
+      },
+      {
+        "department": 18103,
+        "course_id": "BIK-SAP",
+        "course_name": "Struktura a architektura počítačů",
+        "enrolled": 41,
+        "finished": 1,
+        "submitted_survey": 0,
+        "percent_finished": 0.024390243902439025,
+        "timestamp": 1497730171.778695
       }
     ],
     "BIK-TUR": [
@@ -4586,6 +4626,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.16216216216216217,
         "timestamp": 1497478926.557467
+      },
+      {
+        "department": 18103,
+        "course_id": "BIK-TUR",
+        "course_name": "Tvorba uživatelského rozhraní",
+        "enrolled": 37,
+        "finished": 8,
+        "submitted_survey": 0,
+        "percent_finished": 0.21621621621621623,
+        "timestamp": 1497730171.778695
       }
     ],
     "BIK-ADU.1": [
@@ -4764,6 +4814,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.1111111111111111,
         "timestamp": 1497478926.557467
+      },
+      {
+        "department": 18104,
+        "course_id": "BIK-OSY",
+        "course_name": "Operační systémy",
+        "enrolled": 27,
+        "finished": 6,
+        "submitted_survey": 0,
+        "percent_finished": 0.2222222222222222,
+        "timestamp": 1497730171.778695
       }
     ],
     "BIK-PSI": [
@@ -5710,6 +5770,16 @@
         "submitted_survey": 1,
         "percent_finished": 0.4714285714285714,
         "timestamp": 1497478926.557467
+      },
+      {
+        "department": 18102,
+        "course_id": "MI-NSS.16",
+        "course_name": "Normalized Software Systems",
+        "enrolled": 70,
+        "finished": 53,
+        "submitted_survey": 1,
+        "percent_finished": 0.7571428571428571,
+        "timestamp": 1497730171.778695
       }
     ],
     "MI-PCM.16": [
@@ -6266,6 +6336,16 @@
         "submitted_survey": 3,
         "percent_finished": 0.2561576354679803,
         "timestamp": 1497478926.557467
+      },
+      {
+        "department": 18104,
+        "course_id": "MI-PDP.16",
+        "course_name": "Paralelní a distribuované programování",
+        "enrolled": 203,
+        "finished": 79,
+        "submitted_survey": 3,
+        "percent_finished": 0.3891625615763547,
+        "timestamp": 1497730171.778695
       }
     ],
     "MI-POA.16": [

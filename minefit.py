@@ -1,3 +1,6 @@
+import argparse
+import logging
+import time
 import datetime
 import json
 import math
@@ -301,18 +304,38 @@ def publish(root, temp_checkout_folder='checkouted_page'):
     repo.remote().push()
 
 
+def parse_args():
+    parser = argparse.ArgumentParser('Gather stats about passed courses from anketa FIT ČVUT')
+    parser.add_argument('--continuous', help='Run continuously in a loop, repeat in intervals specified '
+                                             'by the argument --interval.', action='store_true')
+    parser.add_argument('--interval', help='Interval in minutes for repeated stats gathering.', default=15)
+    return parser.parse_args()
+
+
 def main():
-    now = datetime.datetime.now()
-    semester = util.get_semester(now)
+    args = parse_args()
 
-    miner = SurveyMiner()
-    miner.update_data(semester)
-    semester_data = miner.get_semester_data(semester)
+    while True:
+        try:
+            now = datetime.datetime.now()
+            semester = util.get_semester(now)
 
-    generator = SiteGenerator('page', 'page/courses', semester_data, semester)
-    generator.generate_page()
+            miner = SurveyMiner()
+            miner.update_data(semester)
+            semester_data = miner.get_semester_data(semester)
 
-    publish('page')
+            generator = SiteGenerator('page', 'page/courses', semester_data, semester)
+            generator.generate_page()
+
+            publish('page')
+
+        except Exception as e:
+            logging.exception(e)
+
+        if not args.continuous:
+            break
+
+        time.sleep(args.interval)
 
 
 if __name__ == '__main__':

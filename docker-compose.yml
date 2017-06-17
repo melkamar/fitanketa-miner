@@ -6,4 +6,4 @@ services:
       context: .
       dockerfile: docker/Dockerfile
     volumes:
-      /apps/.ssh/fitanketa-miner/id_rsa:/root/.ssh/id_rsa
+      - /apps/.ssh/fitanketa-miner/id_rsa:/root/.ssh/id_rsa

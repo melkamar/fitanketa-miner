@@ -1,9 +1,9 @@
 # Letní semestr 2016/2017 - předměty programu MIE
 
 
-    | | | | | | |
-    |-|-|-|-|-|-|
-    |[MIE-AVY](#automata-in-text-pattern-matching-mie-avy) | [MIE-BHW.16](#security-and-hardware-mie-bhw16) | [MIE-BKO.16](#error-control-codes-mie-bko16) | [MIE-BPS](#wireless-computer-networks-mie-bps) | [MIE-DDW](#web-data-mining-mie-ddw) | [MIE-FLP](#functional-and-logical-programming-mie-flp)|
+| | | | | | |
+|-|-|-|-|-|-|
+|[MIE-AVY](#automata-in-text-pattern-matching-mie-avy) | [MIE-BHW.16](#security-and-hardware-mie-bhw16) | [MIE-BKO.16](#error-control-codes-mie-bko16) | [MIE-BPS](#wireless-computer-networks-mie-bps) | [MIE-DDW](#web-data-mining-mie-ddw) | [MIE-FLP](#functional-and-logical-programming-mie-flp)|
 |[MIE-FME.16](#formal-methods-and-specifications-mie-fme16) | [MIE-HWB.16](#hardware-security-mie-hwb16) | [MIE-KOD](#data-compression-mie-kod) | [MIE-MKY.16](#mathematics-for-cryptology-mie-mky16) | [MIE-MZI](#mathematics-for-data-science-mie-mzi) | [MIE-PAP.16](#parallel-computer-architectures-mie-pap16)|
 |[MIE-PDB](#advanced-database-systems-mie-pdb) | [MIE-PDP.16](#parallel-and-distributed-programming-mie-pdp16) | [MIE-PIS.16](#advanced-information-systems-mie-pis16) | [MIE-PPR.2](#parallel--programming-mie-ppr2) | [MIE-ROZ](#pattern-recognition-mie-roz) | [MIE-SPI.16](#statistics-for-informatics-mie-spi16)|
 |[MIE-SWE.16](#semantic-web-mie-swe16) | [MIE-SYB.16](#system-security-mie-syb16) | [MIE-W20](#web-20-mie-w20)|
@@ -201,4 +201,4 @@
 
 
 
-*Stav k 17.06.2017 21:57:47*
+*Stav k 17.06.2017 22:00:15*

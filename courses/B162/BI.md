@@ -1,9 +1,9 @@
 # Letní semestr 2016/2017 - předměty programu BI
 
 
-    | | | | | | |
-    |-|-|-|-|-|-|
-    |[BI-3DT.1](#3d-tisk-bi-3dt1) | [BI-A0L](#anglický-jazyk-0-2-bi-a0l) | [BI-A1L](#anglický-jazyk-1-2-bi-a1l) | [BI-A2L](#anglický-jazyk-pro-it-bi-a2l) | [BI-ACM2](#programovací-praktika-bi-acm2) | [BI-ADU.1](#administrace-os-unix-bi-adu1)|
+| | | | | | |
+|-|-|-|-|-|-|
+|[BI-3DT.1](#3d-tisk-bi-3dt1) | [BI-A0L](#anglický-jazyk-0-2-bi-a0l) | [BI-A1L](#anglický-jazyk-1-2-bi-a1l) | [BI-A2L](#anglický-jazyk-pro-it-bi-a2l) | [BI-ACM2](#programovací-praktika-bi-acm2) | [BI-ADU.1](#administrace-os-unix-bi-adu1)|
 |[BI-AG2](#algoritmy-a-grafy-2-bi-ag2) | [BI-ALO](#algebra-a-logika-bi-alo) | [BI-AND](#programování-pro-operační-systém-android-bi-and) | [BI-ANG](#zkouška-z-angličtiny-po-zápočtu-z-bi-a2l-bi-ang) | [BI-ANG1](#zkouška-z-angličtiny-bez-přípravných-kurzů-bi-ang1) | [BI-ARD](#interaktivní-aplikace-s-arduinem-bi-ard)|
 |[BI-AWD](#administrace-webového-a-db-serveru-bi-awd) | [BI-BEK](#bezpečný-kód-bi-bek) | [BI-BEZ](#bezpečnost-bi-bez) | [BI-CS1](#programování-v-c#-bi-cs1) | [BI-CS3](#jazyk-c#---tvorba-webových-aplikací-bi-cs3) | [BI-DBS](#databázové-systémy-bi-dbs)|
 |[BI-EHA](#etické-hackování,-ethical-hacking-bi-eha) | [BI-EJA](#enterprise-java-bi-eja) | [BI-EMP](#ekonomické-a-manažerské-principy-bi-emp) | [BI-EP2](#efektivní-programování-2-bi-ep2) | [BI-FIP](#účetnictví-a-finance-podniku-bi-fip) | [BI-GIT](#systém-pro-správu-verzí-git-bi-git)|
@@ -577,4 +577,4 @@
 
 
 
-*Stav k 17.06.2017 21:57:47*
+*Stav k 17.06.2017 22:00:15*

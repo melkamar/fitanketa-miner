@@ -1,9 +1,9 @@
 # Letní semestr 2016/2017 - předměty programu MI
 
 
-    | | | | | | |
-    |-|-|-|-|-|-|
-    |[MI-ADM.16](#algoritmy-data-miningu-mi-adm16) | [MI-AVY](#automaty-ve-vyhledávání-v-textech-mi-avy) | [MI-BHW.16](#bezpečnost-a-technické-prostředky-mi-bhw16) | [MI-BKO.16](#bezpečnostní-kódy-mi-bko16) | [MI-BPS](#bezdrátové-počítačové-sítě-mi-bps) | [MI-DDW.16](#dolování-dat-z-webu-mi-ddw16)|
+| | | | | | |
+|-|-|-|-|-|-|
+|[MI-ADM.16](#algoritmy-data-miningu-mi-adm16) | [MI-AVY](#automaty-ve-vyhledávání-v-textech-mi-avy) | [MI-BHW.16](#bezpečnost-a-technické-prostředky-mi-bhw16) | [MI-BKO.16](#bezpečnostní-kódy-mi-bko16) | [MI-BPS](#bezdrátové-počítačové-sítě-mi-bps) | [MI-DDW.16](#dolování-dat-z-webu-mi-ddw16)|
 |[MI-DSP](#databázové-systémy-v-praxi-mi-dsp) | [MI-DZO](#digitální-zpracování-obrazu-mi-dzo) | [MI-FLP](#funkcionální-a-logické-programování-mi-flp) | [MI-FME.16](#formální-metody-a-specifikace-mi-fme16) | [MI-GEN](#generování-kódu-mi-gen) | [MI-GLR](#games-and-reinforcement-learning-mi-glr)|
 |[MI-HWB.16](#hardwarová-bezpečnost-mi-hwb16) | [MI-IKM](#-internet-a-klasifikační-metody-mi-ikm) | [MI-IOS](#pokročilé-techniky-v-ios-aplikacích-mi-ios) | [MI-IOT](#internet-of-things-mi-iot) | [MI-KOD.16](#komprese-dat-mi-kod16) | [MI-MAI](#multimedia-a-internet-mi-mai)|
 |[MI-MBI.16](#řízení-podnikové-informatiky-mi-mbi16) | [MI-MKY.16](#matematika-pro-kryptologii-mi-mky16) | [MI-MVI.16](#metody-výpočetní-inteligence-mi-mvi16) | [MI-MZI](#matematika-pro-znalostní-inženýrství-mi-mzi) | [MI-NSS.16](#normalized-software-systems-mi-nss16) | [MI-PAL](#pokročilá-algoritmizace-mi-pal)|
@@ -357,4 +357,4 @@
 
 
 
-*Stav k 17.06.2017 21:57:47*
+*Stav k 17.06.2017 22:00:15*

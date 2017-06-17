@@ -1,9 +1,9 @@
 # Letní semestr 2016/2017 - předměty programu BIK
 
 
-    | | | | | | |
-    |-|-|-|-|-|-|
-    |[BIK-ADU.1](#administrace-os-unix-bik-adu1) | [BIK-AWD](#administrace-webového-a-db-serveru-bik-awd) | [BIK-BEK](#bezpečný-kód-bik-bek) | [BIK-BEZ](#bezpečnost-bik-bez) | [BIK-DBS](#databázové-systémy-bik-dbs) | [BIK-GRA](#grafové-algoritmy-a-základy-teorie-složitosti-bik-gra)|
+| | | | | | |
+|-|-|-|-|-|-|
+|[BIK-ADU.1](#administrace-os-unix-bik-adu1) | [BIK-AWD](#administrace-webového-a-db-serveru-bik-awd) | [BIK-BEK](#bezpečný-kód-bik-bek) | [BIK-BEZ](#bezpečnost-bik-bez) | [BIK-DBS](#databázové-systémy-bik-dbs) | [BIK-GRA](#grafové-algoritmy-a-základy-teorie-složitosti-bik-gra)|
 |[BIK-HMI](#historie-matematiky-a-informatiky-bik-hmi) | [BIK-KSA](#úvod-do-kulturní-a-sociální-antropologie-bik-ksa) | [BIK-LIN](#lineární-algebra-bik-lin) | [BIK-MEK](#makroekonomické-souvislosti-domácí-a-světové-ekonomiky-bik-mek) | [BIK-OSY](#operační-systémy-bik-osy) | [BIK-PA2](#programování-a-algoritmizace-2-bik-pa2)|
 |[BIK-PJP](#programovací-jazyky-a-překladače-bik-pjp) | [BIK-PPR](#projekt,-prezentace-a-rétorika-bik-ppr) | [BIK-PRP](#právo-a-podnikání-bik-prp) | [BIK-PS2](#programování-v-shellu-2-bik-ps2) | [BIK-PSI](#počítačové-sítě-bik-psi) | [BIK-SAP](#struktura-a-architektura-počítačů-bik-sap)|
 |[BIK-SI1.2](#softwarové-inženýrství-i-bik-si12) | [BIK-SP1](#softwarový-týmový-projekt-1-bik-sp1) | [BIK-SQL.1](#jazyk-sql,-pokročilý-bik-sql1) | [BIK-TUR](#tvorba-uživatelského-rozhraní-bik-tur)|
@@ -210,4 +210,4 @@
 
 
 
-*Stav k 17.06.2017 21:57:47*
+*Stav k 17.06.2017 22:00:15*

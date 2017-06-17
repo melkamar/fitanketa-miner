@@ -1,0 +1,9 @@
+version: '2'
+services:
+  fitminer:
+    container_name: fitminer
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    volumes:
+      /apps/.ssh/fitanketa-miner/id_rsa:/root/.ssh/id_rsa

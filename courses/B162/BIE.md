@@ -1,15 +1,15 @@
 # Letní semestr 2016/2017 - předměty programu BIE
 
 
-| | | | | | |
-|-|-|-|-|-|-|
-|[BIE-3DT.1](#3d-printing-bie-3dt1) | [BIE-ADU.1](#unix-administration-bie-adu1) | [BIE-AG2](#algorithms-and-graphs-2-bie-ag2) | [BIE-AWD](#web-and-database-server-administration-bie-awd) | [BIE-BEK](#secure-code-bie-bek) | [BIE-BEZ](#security-bie-bez)|
+    | | | | | | |
+    |-|-|-|-|-|-|
+    |[BIE-3DT.1](#3d-printing-bie-3dt1) | [BIE-ADU.1](#unix-administration-bie-adu1) | [BIE-AG2](#algorithms-and-graphs-2-bie-ag2) | [BIE-AWD](#web-and-database-server-administration-bie-awd) | [BIE-BEK](#secure-code-bie-bek) | [BIE-BEZ](#security-bie-bez)|
 |[BIE-DBS](#database-systems-bie-dbs) | [BIE-EHD](#introduction-to-european-economic-history-bie-ehd) | [BIE-EMP](#economic-and-management-principles-bie-emp) | [BIE-EPR](#economic-project-bie-epr) | [BIE-GRA](#graph-algorithms-and-complexity-theory-bie-gra) | [BIE-LIN](#linear-algebra-bie-lin)|
 |[BIE-OSY](#operating-systems-bie-osy) | [BIE-PA2](#programming-and-algorithmics-2-bie-pa2) | [BIE-PJP](#programming-languages-and-compilers-bie-pjp) | [BIE-PJV](#programming-in-java-bie-pjv) | [BIE-PS2](#programming-in-shell-2-bie-ps2) | [BIE-PSI](#computer-networks-bie-psi)|
 |[BIE-SAP](#computer-structures-and-architectures-bie-sap) | [BIE-SI1.2](#software-engineering-i-bie-si12) | [BIE-SP1](#team-software-project-1-bie-sp1) | [BIE-TUR](#user-interface-design-bie-tur) | [BIE-VZD](#data-mining-bie-vzd) | [BIE-ZRS](#basics-of-system-control-bie-zrs)|
 |[BIE-ZUM](#artificial-intelligence-fundamentals-bie-zum) | [BIE-ZWU](#introduction-to-web-and-user-interfaces-bie-zwu)|
 
-    
+        
 
 ## Algorithms and Graphs 2 (BIE-AG2)
 
@@ -247,4 +247,4 @@
 
 
 
-*Stav k 17.06.2017 20:54:06*
+*Stav k 17.06.2017 21:57:47*

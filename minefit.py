@@ -1,4 +1,5 @@
 import datetime
+import math
 import json
 import os
 import re
@@ -8,6 +9,7 @@ from typing import Dict, List, Union
 import requests
 from bs4 import BeautifulSoup
 
+import publisher
 import util
 
 
@@ -15,7 +17,8 @@ def parse_page(page: str) -> Dict:
     result = {}
     page = page.decode('utf-8')
 
-    # Fix page first - there are missing opening <tr> tags
+    # Fix page first - there are mi
+    # ssing opening <tr> tags
     page = re.sub(r'</tr>', '</tr><tr>', page)
 
     soup = BeautifulSoup(page, "html.parser")
@@ -133,7 +136,6 @@ def make_md_table(semester: str, study_programme: str, course_semester_data: Lis
         row_data_compl_total_percent.append(
             f'''{datapoint['percent_finished']*100:.0f}% ({completed_percent_delta*100:+.0f}%)''')
 
-    print("ha")
     md = f"""## {course_name} ({course_id})
 
 **Přihlášeno studentů**: {enrolled_total}
@@ -229,17 +231,53 @@ def make_index(index_root, courses_root):
         f.write(index_md)
 
 
-# # TODO - všechny předměty ze semestru a studijního programu BI/MI atd dát na jednu stránku pod sebe - appendnout tables
-#     # TODO - udělat anchors
-#     tgt_dir = os.path.join('page', semester_id, study_programme)
-#     os.makedirs(tgt_dir, exist_ok=True)
-#     with open(os.path.join(tgt_dir, util.sanitize_fn(course_id) + '.md'), 'w', encoding='utf-8') as f:
-#         f.write(md)
+def make_page_heading_index(index_columns, courses_data):
+    """Create index of anchor links to given courses."""
+    # {course_name} ({course_id})
 
-def make_pages(data, semester, root='page'):
+    index_matrix = []
+    index_rows = math.ceil(len(courses_data) / index_columns)
+    [index_matrix.append([]) for _ in range(index_rows)]
+
+    sorted_courses_data = sorted(courses_data, key=lambda item: item[0]['course_id'])
+    for i, course_data in enumerate(sorted_courses_data):
+        course_id = course_data[0]['course_id']
+        course_name = course_data[0]['course_name']
+        print(course_id)
+        anchor_link = f'#{course_name.lower()}-{course_id.lower()}'.replace(' ', '-').replace('.', '')
+        anchor_full = f'[{course_id}]({anchor_link})'
+
+        cur_row = i % index_rows
+        cur_col = i/index_rows
+
+        index_matrix[cur_row].append(anchor_full)
+
+    from pprint import pprint
+    pprint(index_matrix)
+    md_heading = f'{"| "*index_columns}|'
+    md_separator = md_heading.replace(' ', '-')
+    md_content = ''
+
+    for row in index_matrix:
+        md_content += f'|{" | ".join(row)}|\n'
+
+    md_index = f'''
+{md_heading}
+{md_separator}
+{md_content}
+    '''
+    print(md_index)
+    return md_index
+
+
+def make_pages(data, semester, root='page', index_columns=6):
     for semester_programme, semester_courses in data.items():
         programme_md_heading = f"# {util.semester_id_to_str(semester)} - předměty programu {semester_programme}"
         programme_md_tables = ""
+        programme_md_footer = f'\n\n*Stav k {datetime.datetime.now().strftime("%d.%m.%Y %H:%M:%S")}*'
+
+        programme_md_heading_index = make_page_heading_index(index_columns, semester_courses.values())
+
         for course_id, course_data in semester_courses.items():
             md_page = make_md_table(semester, semester_programme, course_data)
             programme_md_tables += md_page
@@ -249,7 +287,9 @@ def make_pages(data, semester, root='page'):
         os.makedirs(tgt_dir, exist_ok=True)
         with open(os.path.join(tgt_dir, util.sanitize_fn(semester_programme) + '.md'), 'w', encoding='utf-8') as f:
             f.write(programme_md_heading + "\n\n")
+            f.write(programme_md_heading_index + "\n\n")
             f.write(programme_md_tables)
+            f.write(programme_md_footer)
 
 
 def main():
@@ -266,7 +306,6 @@ def main():
     make_pages(old_data, semester, 'page/courses')
     make_index('page', 'page/courses')
 
-    import publisher
     publisher.publish('page')
 
 

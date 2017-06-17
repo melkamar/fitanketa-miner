@@ -3,17 +3,17 @@
 
 | | | | | | |
 |-|-|-|-|-|-|
-|[BI-3DT.1](#3d-tisk-bi-3dt1) | [BI-ARD](#interaktivní-aplikace-s-arduinem-bi-ard) | [BI-FIP](#účetnictví-a-finance-podniku-bi-fip) | [BI-PJS.1](#programování-v-jazyku-javascript-bi-pjs1) | [BI-SP1](#softwarový-týmový-projekt-1-bi-sp1) | [BI-VZD](#vytěžování-znalostí-z-dat-bi-vzd)|
-|[BI-A0L](#anglický-jazyk-0-2-bi-a0l) | [BI-AWD](#administrace-webového-a-db-serveru-bi-awd) | [BI-GIT](#systém-pro-správu-verzí-git-bi-git) | [BI-PJV](#programování-v-javě-bi-pjv) | [BI-SRC](#systémy-reálného-času-bi-src) | [BI-WT2](#webové--technologie-2-bi-wt2)|
-|[BI-A1L](#anglický-jazyk-1-2-bi-a1l) | [BI-BEK](#bezpečný-kód-bi-bek) | [BI-GRA](#grafové-algoritmy-a-základy-teorie-složitosti-bi-gra) | [BI-PPR](#projekt,-prezentace-a-rétorika-bi-ppr) | [BI-ST2](#síťové-technologie-2-bi-st2) | [BI-XML](#technologie-xml-bi-xml)|
-|[BI-A2L](#anglický-jazyk-pro-it-bi-a2l) | [BI-BEZ](#bezpečnost-bi-bez) | [BI-HMI](#historie-matematiky-a-informatiky-bi-hmi) | [BI-PRP](#právo-a-podnikání-bi-prp) | [BI-ST4](#síťové-technologie-4-bi-st4) | [BI-ZNF](#základy-programování-v-nette-bi-znf)|
-|[BI-ACM2](#programovací-praktika-bi-acm2) | [BI-CS1](#programování-v-c#-bi-cs1) | [BI-LIN](#lineární-algebra-bi-lin) | [BI-PS2](#programování-v-shellu-2-bi-ps2) | [BI-TED](#tvorba-elektronické-dokumentace-bi-ted) | [BI-ZRS](#základy-řízení-systému-bi-zrs)|
-|[BI-ADU.1](#administrace-os-unix-bi-adu1) | [BI-CS3](#jazyk-c#---tvorba-webových-aplikací-bi-cs3) | [BI-MMP](#multimediální-týmový-projekt-bi-mmp) | [BI-PSI](#počítačové-sítě-bi-psi) | [BI-TEX](#typografie-a-tex-bi-tex) | [BI-ZUM](#základy-umělé-inteligence-bi-zum)|
-|[BI-AG2](#algoritmy-a-grafy-2-bi-ag2) | [BI-DBS](#databázové-systémy-bi-dbs) | [BI-OPJ](#objektové-programování-v-javě-bi-opj) | [BI-PWT](#podnikové-webové-technologie-bi-pwt) | [BI-TS4](#teoretický-seminář-iv-bi-ts4) | [BI-ZWU](#základy-webu-a-uživatelská-rozhraní-bi-zwu)|
-|[BI-ALO](#algebra-a-logika-bi-alo) | [BI-EHA](#etické-hackování,-ethical-hacking-bi-eha) | [BI-OSY](#operační-systémy-bi-osy) | [BI-PYT](#programování-v-pythonu-bi-pyt) | [BI-TUR](#tvorba-uživatelského-rozhraní-bi-tur)|
-|[BI-AND](#programování-pro-operační-systém-android-bi-and) | [BI-EJA](#enterprise-java-bi-eja) | [BI-PA2](#programování-a-algoritmizace-2-bi-pa2) | [BI-SAP](#struktura-a-architektura-počítačů-bi-sap) | [BI-VES](#vestavné-systémy-bi-ves)|
-|[BI-ANG](#zkouška-z-angličtiny-po-zápočtu-z-bi-a2l-bi-ang) | [BI-EMP](#ekonomické-a-manažerské-principy-bi-emp) | [BI-PGR.1](#počítačová-grafika-bi-pgr1) | [BI-SEP](#světová-ekonomika-a-podnikání-i-bi-sep) | [BI-VMM](#vybrané-matematické-metody-bi-vmm)|
-|[BI-ANG1](#zkouška-z-angličtiny-bez-přípravných-kurzů-bi-ang1) | [BI-EP2](#efektivní-programování-2-bi-ep2) | [BI-PJP](#programovací-jazyky-a-překladače-bi-pjp) | [BI-SI1.2](#softwarové-inženýrství-i-bi-si12) | [BI-VWM](#vyhledávání-na-webu-a-v-multimed-db-bi-vwm)|
+|[BI-3DT.1](#3d-tisk-bi-3dt1) | [BI-A0L](#anglický-jazyk-0-2-bi-a0l) | [BI-A1L](#anglický-jazyk-1-2-bi-a1l) | [BI-A2L](#anglický-jazyk-pro-it-bi-a2l) | [BI-ACM2](#programovací-praktika-bi-acm2) | [BI-ADU.1](#administrace-os-unix-bi-adu1)|
+|[BI-AG2](#algoritmy-a-grafy-2-bi-ag2) | [BI-ALO](#algebra-a-logika-bi-alo) | [BI-AND](#programování-pro-operační-systém-android-bi-and) | [BI-ANG](#zkouška-z-angličtiny-po-zápočtu-z-bi-a2l-bi-ang) | [BI-ANG1](#zkouška-z-angličtiny-bez-přípravných-kurzů-bi-ang1) | [BI-ARD](#interaktivní-aplikace-s-arduinem-bi-ard)|
+|[BI-AWD](#administrace-webového-a-db-serveru-bi-awd) | [BI-BEK](#bezpečný-kód-bi-bek) | [BI-BEZ](#bezpečnost-bi-bez) | [BI-CS1](#programování-v-c#-bi-cs1) | [BI-CS3](#jazyk-c#---tvorba-webových-aplikací-bi-cs3) | [BI-DBS](#databázové-systémy-bi-dbs)|
+|[BI-EHA](#etické-hackování,-ethical-hacking-bi-eha) | [BI-EJA](#enterprise-java-bi-eja) | [BI-EMP](#ekonomické-a-manažerské-principy-bi-emp) | [BI-EP2](#efektivní-programování-2-bi-ep2) | [BI-FIP](#účetnictví-a-finance-podniku-bi-fip) | [BI-GIT](#systém-pro-správu-verzí-git-bi-git)|
+|[BI-GRA](#grafové-algoritmy-a-základy-teorie-složitosti-bi-gra) | [BI-HMI](#historie-matematiky-a-informatiky-bi-hmi) | [BI-LIN](#lineární-algebra-bi-lin) | [BI-MMP](#multimediální-týmový-projekt-bi-mmp) | [BI-OPJ](#objektové-programování-v-javě-bi-opj) | [BI-OSY](#operační-systémy-bi-osy)|
+|[BI-PA2](#programování-a-algoritmizace-2-bi-pa2) | [BI-PGR.1](#počítačová-grafika-bi-pgr1) | [BI-PJP](#programovací-jazyky-a-překladače-bi-pjp) | [BI-PJS.1](#programování-v-jazyku-javascript-bi-pjs1) | [BI-PJV](#programování-v-javě-bi-pjv) | [BI-PPR](#projekt,-prezentace-a-rétorika-bi-ppr)|
+|[BI-PRP](#právo-a-podnikání-bi-prp) | [BI-PS2](#programování-v-shellu-2-bi-ps2) | [BI-PSI](#počítačové-sítě-bi-psi) | [BI-PWT](#podnikové-webové-technologie-bi-pwt) | [BI-PYT](#programování-v-pythonu-bi-pyt) | [BI-SAP](#struktura-a-architektura-počítačů-bi-sap)|
+|[BI-SEP](#světová-ekonomika-a-podnikání-i-bi-sep) | [BI-SI1.2](#softwarové-inženýrství-i-bi-si12) | [BI-SP1](#softwarový-týmový-projekt-1-bi-sp1) | [BI-SRC](#systémy-reálného-času-bi-src) | [BI-ST2](#síťové-technologie-2-bi-st2) | [BI-ST4](#síťové-technologie-4-bi-st4)|
+|[BI-TED](#tvorba-elektronické-dokumentace-bi-ted) | [BI-TEX](#typografie-a-tex-bi-tex) | [BI-TS4](#teoretický-seminář-iv-bi-ts4) | [BI-TUR](#tvorba-uživatelského-rozhraní-bi-tur) | [BI-VES](#vestavné-systémy-bi-ves) | [BI-VMM](#vybrané-matematické-metody-bi-vmm)|
+|[BI-VWM](#vyhledávání-na-webu-a-v-multimed-db-bi-vwm) | [BI-VZD](#vytěžování-znalostí-z-dat-bi-vzd) | [BI-WT2](#webové--technologie-2-bi-wt2) | [BI-XML](#technologie-xml-bi-xml) | [BI-ZNF](#základy-programování-v-nette-bi-znf) | [BI-ZRS](#základy-řízení-systému-bi-zrs)|
+|[BI-ZUM](#základy-umělé-inteligence-bi-zum) | [BI-ZWU](#základy-webu-a-uživatelská-rozhraní-bi-zwu)|
 
     
 
@@ -577,4 +577,4 @@
 
 
 
-*Stav k 17.06.2017 20:47:26*
+*Stav k 17.06.2017 20:54:06*

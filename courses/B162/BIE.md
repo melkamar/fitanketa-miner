@@ -3,11 +3,11 @@
 
 | | | | | | |
 |-|-|-|-|-|-|
-|[BIE-3DT.1](#3d-printing-bie-3dt1) | [BIE-BEZ](#security-bie-bez) | [BIE-GRA](#graph-algorithms-and-complexity-theory-bie-gra) | [BIE-PJV](#programming-in-java-bie-pjv) | [BIE-SP1](#team-software-project-1-bie-sp1) | [BIE-ZWU](#introduction-to-web-and-user-interfaces-bie-zwu)|
-|[BIE-ADU.1](#unix-administration-bie-adu1) | [BIE-DBS](#database-systems-bie-dbs) | [BIE-LIN](#linear-algebra-bie-lin) | [BIE-PS2](#programming-in-shell-2-bie-ps2) | [BIE-TUR](#user-interface-design-bie-tur)|
-|[BIE-AG2](#algorithms-and-graphs-2-bie-ag2) | [BIE-EHD](#introduction-to-european-economic-history-bie-ehd) | [BIE-OSY](#operating-systems-bie-osy) | [BIE-PSI](#computer-networks-bie-psi) | [BIE-VZD](#data-mining-bie-vzd)|
-|[BIE-AWD](#web-and-database-server-administration-bie-awd) | [BIE-EMP](#economic-and-management-principles-bie-emp) | [BIE-PA2](#programming-and-algorithmics-2-bie-pa2) | [BIE-SAP](#computer-structures-and-architectures-bie-sap) | [BIE-ZRS](#basics-of-system-control-bie-zrs)|
-|[BIE-BEK](#secure-code-bie-bek) | [BIE-EPR](#economic-project-bie-epr) | [BIE-PJP](#programming-languages-and-compilers-bie-pjp) | [BIE-SI1.2](#software-engineering-i-bie-si12) | [BIE-ZUM](#artificial-intelligence-fundamentals-bie-zum)|
+|[BIE-3DT.1](#3d-printing-bie-3dt1) | [BIE-ADU.1](#unix-administration-bie-adu1) | [BIE-AG2](#algorithms-and-graphs-2-bie-ag2) | [BIE-AWD](#web-and-database-server-administration-bie-awd) | [BIE-BEK](#secure-code-bie-bek) | [BIE-BEZ](#security-bie-bez)|
+|[BIE-DBS](#database-systems-bie-dbs) | [BIE-EHD](#introduction-to-european-economic-history-bie-ehd) | [BIE-EMP](#economic-and-management-principles-bie-emp) | [BIE-EPR](#economic-project-bie-epr) | [BIE-GRA](#graph-algorithms-and-complexity-theory-bie-gra) | [BIE-LIN](#linear-algebra-bie-lin)|
+|[BIE-OSY](#operating-systems-bie-osy) | [BIE-PA2](#programming-and-algorithmics-2-bie-pa2) | [BIE-PJP](#programming-languages-and-compilers-bie-pjp) | [BIE-PJV](#programming-in-java-bie-pjv) | [BIE-PS2](#programming-in-shell-2-bie-ps2) | [BIE-PSI](#computer-networks-bie-psi)|
+|[BIE-SAP](#computer-structures-and-architectures-bie-sap) | [BIE-SI1.2](#software-engineering-i-bie-si12) | [BIE-SP1](#team-software-project-1-bie-sp1) | [BIE-TUR](#user-interface-design-bie-tur) | [BIE-VZD](#data-mining-bie-vzd) | [BIE-ZRS](#basics-of-system-control-bie-zrs)|
+|[BIE-ZUM](#artificial-intelligence-fundamentals-bie-zum) | [BIE-ZWU](#introduction-to-web-and-user-interfaces-bie-zwu)|
 
     
 
@@ -247,4 +247,4 @@
 
 
 
-*Stav k 17.06.2017 20:47:26*
+*Stav k 17.06.2017 20:54:06*

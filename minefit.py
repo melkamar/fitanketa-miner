@@ -1,15 +1,17 @@
 import datetime
-import math
 import json
+import math
 import os
 import re
-import time
+import shutil
+import stat
+from distutils.dir_util import copy_tree
 from typing import Dict, List, Union
 
 import requests
 from bs4 import BeautifulSoup
+from git import Repo
 
-import publisher
 import util
 
 
@@ -81,9 +83,9 @@ class SiteGenerator:
             md_content += f'|{" | ".join(row)}|\n'
 
         md_index = f'''
-    {md_heading}
-    {md_separator}
-    {md_content}
+{md_heading}
+{md_separator}
+{md_content}
         '''
         print(md_index)
         return md_index
@@ -160,156 +162,157 @@ class SiteGenerator:
         return md
 
 
-def parse_page(page: str) -> Dict:
-    result = {}
-    page = page.decode('utf-8')
+class SurveyMiner:
+    def __init__(self, data_folder='data'):
+        super().__init__()
+        self.data_folder = data_folder
 
-    # Fix page first - there are mi
-    # ssing opening <tr> tags
-    page = re.sub(r'</tr>', '</tr><tr>', page)
+    def update_data(self, semester, now=datetime.datetime.now()):
+        old_data = self._load_semester(semester)
+        courses = self._fetch_courses()
+        self._add_new_course_data(courses, old_data, now.timestamp())
 
-    soup = BeautifulSoup(page, "html.parser")
-    for course in soup.find_all('tr'):
-        children = course.findChildren()
-        if not children:
-            continue
+        fn = f'{self.data_folder}/{semester.upper()}.json'
+        self._save_data(fn, old_data)
+
+    def get_semester_data(self, semester):
+        return self._load_semester(semester)
+
+    def _add_new_course_data(self, new_data, original_data, timestamp):
+        for course_data in new_data.values():
+            self._merge_single_course(course_data, original_data, timestamp)
+
+    def _load_semester(self, semester: str):
+        fn = f'{self.data_folder}/{semester.upper()}.json'
+        if not os.path.exists(fn):
+            return {}
+
+        with open(fn, encoding='utf-8') as f:
+            data = json.load(f)
+
+        return data
+
+    def _parse_page(self, page: str) -> Dict:
+        result = {}
+        page = page.decode('utf-8')
+
+        # Fix page first - there are mi
+        # ssing opening <tr> tags
+        page = re.sub(r'</tr>', '</tr><tr>', page)
+
+        soup = BeautifulSoup(page, "html.parser")
+        for course in soup.find_all('tr'):
+            children = course.findChildren()
+            if not children:
+                continue
+
+            try:
+                department = int(children[0].text)
+            except ValueError:
+                continue  # Skip rows that do not contain number as their department
+
+            course_id = children[1].text
+            course_name = children[2].text
+            enrolled = int(children[3].text)
+            finished = int(children[4].text)
+            submitted_survey = int(children[5].text)
+            percent_finished = finished / enrolled
+
+            result[course_id] = {
+                'department': department,
+                'course_id': course_id,
+                'course_name': course_name,
+                'enrolled': enrolled,
+                'finished': finished,
+                'submitted_survey': submitted_survey,
+                'percent_finished': percent_finished
+            }
+
+        return result
+
+    def _fetch_courses(self):
+        response = requests.get('https://anketa.cvut.cz/stav/stav_anketa_fit.html')
+        response.raise_for_status()
+        courses = self._parse_page(response.content)
+        return courses
+
+    def _save_data(self, fn, data):
+        if not os.path.exists(os.path.dirname(fn)):
+            os.mkdir(os.path.dirname(fn))
+
+        with open(f"{fn}.temp", 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+
+        if os.path.exists(fn):
+            os.remove(fn)
+
+        os.rename(f"{fn}.temp", fn)
+
+    def _merge_single_course(self, new_course_data, original_data, timestamp):
+        new_course_id = new_course_data['course_id']
+        new_course_data['timestamp'] = timestamp
+
+        original_course_data = self._parse_course_data(new_course_id, original_data)
+        study_programme = new_course_id.split('-', maxsplit=1)[0]
+
+        if not original_course_data:
+            # create course data
+            if study_programme not in original_data:
+                original_data[study_programme] = {}
+
+            original_data[study_programme][new_course_id] = [new_course_data]
+
+        else:
+            # there already is some data for this course
+            # check if this new data adds anything of value and add it only if necessary
+            data = original_data[study_programme][new_course_id][-1]
+            finished_original = data['finished']
+            finished_new = new_course_data['finished']
+            if finished_new != finished_original:
+                original_data[study_programme][new_course_id].append(new_course_data)
+
+    def _parse_course_data(self, course_id: str, data):
+        study_programme = course_id.split('-', maxsplit=1)[0]
+        if not data:
+            return []
 
         try:
-            department = int(children[0].text)
-        except ValueError:
-            continue  # Skip rows that do not contain number as their department
-
-        course_id = children[1].text
-        course_name = children[2].text
-        enrolled = int(children[3].text)
-        finished = int(children[4].text)
-        submitted_survey = int(children[5].text)
-        percent_finished = finished / enrolled
-
-        result[course_id] = {
-            'department': department,
-            'course_id': course_id,
-            'course_name': course_name,
-            'enrolled': enrolled,
-            'finished': finished,
-            'submitted_survey': submitted_survey,
-            'percent_finished': percent_finished
-        }
-
-    return result
+            course_data = data[study_programme]
+            course_data = course_data[course_id]
+            return course_data
+        except KeyError:
+            return []
 
 
-def fetch_courses():
-    page = fetch_page()
-    courses = parse_page(page)
-
-    return courses
+def del_rw(action, name, exc):
+    os.chmod(name, stat.S_IWRITE)
+    os.remove(name)
 
 
-def fetch_page():
-    response = requests.get('https://anketa.cvut.cz/stav/stav_anketa_fit.html')
-    response.raise_for_status()
+def publish(root, temp_checkout_folder='checkouted_page'):
+    if os.path.exists(temp_checkout_folder):
+        shutil.rmtree(temp_checkout_folder, onerror=del_rw)
 
-    return response.content
+    repo = Repo.clone_from('git@github.com:melkamar/fitanketa-miner.git', temp_checkout_folder, branch='gh-pages')
+    copy_tree(root, temp_checkout_folder)
 
-
-def read_data(fn):
-    with open(fn, encoding='utf-8') as f:
-        data = json.load(f)
-
-    return data
-
-
-def save_data(fn, data):
-    if not os.path.exists(os.path.dirname(fn)):
-        os.mkdir(os.path.dirname(fn))
-
-    with open(f"{fn}.temp", 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-    if os.path.exists(fn):
-        os.remove(fn)
-
-    os.rename(f"{fn}.temp", fn)
-
-
-def combine_courses(courses, fn='courses.json'):
-    timestamp = int(time.time())
-
-    if os.path.exists(fn):
-        data = read_data(fn)
-    else:
-        data = {}
-
-    data[timestamp] = courses
-    return data
-
-
-def load_semester(semester: str):
-    fn = f'data/{semester.upper()}.json'
-    if not os.path.exists(fn):
-        return {}
-
-    return read_data(fn)
-
-
-def parse_course_data(course_id: str, data):
-    study_programme = course_id.split('-', maxsplit=1)[0]
-    if not data:
-        return []
-
-    try:
-        course_data = data[study_programme]
-        course_data = course_data[course_id]
-        return course_data
-    except KeyError:
-        return []
-
-
-def merge_single_course(new_course_data, original_data, timestamp):
-    new_course_id = new_course_data['course_id']
-    new_course_data['timestamp'] = timestamp
-
-    original_course_data = parse_course_data(new_course_id, original_data)
-    study_programme = new_course_id.split('-', maxsplit=1)[0]
-
-    if not original_course_data:
-        # create course data
-        if study_programme not in original_data:
-            original_data[study_programme] = {}
-
-        original_data[study_programme][new_course_id] = [new_course_data]
-
-    else:
-        # there already is some data for this course
-        # check if this new data adds anything of value and add it only if necessary
-        data = original_data[study_programme][new_course_id][-1]
-        finished_original = data['finished']
-        finished_new = new_course_data['finished']
-        if finished_new != finished_original:
-            original_data[study_programme][new_course_id].append(new_course_data)
-
-
-def add_new_course_data(new_data, original_data, timestamp):
-    for course_data in new_data.values():
-        merge_single_course(course_data, original_data, timestamp)
+    repo.git.add('--all')
+    repo.index.commit("autocommit")
+    repo.remote().push()
 
 
 def main():
     now = datetime.datetime.now()
     semester = util.get_semester(now)
 
-    old_data = load_semester(semester)
-    courses = fetch_courses()
-    add_new_course_data(courses, old_data, now.timestamp())
+    miner = SurveyMiner()
+    miner.update_data(semester)
+    semester_data = miner.get_semester_data(semester)
 
-    fn = f'data/{semester.upper()}.json'
-    save_data(fn, old_data)
-
-    generator = SiteGenerator('page', 'page/courses', old_data, semester)
+    generator = SiteGenerator('page', 'page/courses', semester_data, semester)
     generator.generate_page()
 
-    # publisher.publish('page')
+    publish('page')
 
 
 if __name__ == '__main__':

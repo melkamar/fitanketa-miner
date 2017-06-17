@@ -33,7 +33,7 @@ def semester_id_to_str(semester_id):
 
 
 def timestamp_to_date_str(timestamp: float) -> str:
-    return datetime.datetime.fromtimestamp(timestamp).strftime("%d.%m.%Y %H:%M")
+    return datetime.datetime.fromtimestamp(timestamp).strftime("%d.%m.%Y")
 
 
 def sanitize_fn(fn: str) -> str:

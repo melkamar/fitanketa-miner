@@ -1,10 +1,9 @@
 # Letní semestr 2016/2017 - předměty programu FI
 
 
-| | | | |
-|-|-|-|-|
-|[FI-FIL](#filosofie-fi-fil) | [FI-HTE](#historie-techniky-a-ekonomiky-fi-hte) | [FI-MPL](#manažerská-psychologie-fi-mpl)|
-|[FI-GNO](#základy-gnozeologie-fi-gno) | [FI-KSA](#úvod-do-kulturní-a-sociální-antropologie-fi-ksa) | [FI-ULI](#úvod-do-lingvistiky-pro-informatiky-fi-uli)|
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+|[FI-FIL](#filosofie-fi-fil) | [FI-GNO](#základy-gnozeologie-fi-gno) | [FI-HTE](#historie-techniky-a-ekonomiky-fi-hte) | [FI-KSA](#úvod-do-kulturní-a-sociální-antropologie-fi-ksa) | [FI-MPL](#manažerská-psychologie-fi-mpl) | [FI-ULI](#úvod-do-lingvistiky-pro-informatiky-fi-uli)|
 
     
 
@@ -64,4 +63,4 @@
 
 
 
-*Stav k 17.06.2017 19:41:53*
+*Stav k 17.06.2017 19:42:37*

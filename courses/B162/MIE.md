@@ -1,14 +1,11 @@
 # Letní semestr 2016/2017 - předměty programu MIE
 
 
-| | | | |
-|-|-|-|-|
-|[MIE-AVY](#automata-in-text-pattern-matching-mie-avy) | [MIE-FME.16](#formal-methods-and-specifications-mie-fme.16) | [MIE-PDB](#advanced-database-systems-mie-pdb) | [MIE-SWE.16](#semantic-web-mie-swe.16)|
-|[MIE-BHW.16](#security-and-hardware-mie-bhw.16) | [MIE-HWB.16](#hardware-security-mie-hwb.16) | [MIE-PDP.16](#parallel-and-distributed-programming-mie-pdp.16) | [MIE-SYB.16](#system-security-mie-syb.16)|
-|[MIE-BKO.16](#error-control-codes-mie-bko.16) | [MIE-KOD](#data-compression-mie-kod) | [MIE-PIS.16](#advanced-information-systems-mie-pis.16) | [MIE-W20](#web-2.0-mie-w20)|
-|[MIE-BPS](#wireless-computer-networks-mie-bps) | [MIE-MKY.16](#mathematics-for-cryptology-mie-mky.16) | [MIE-PPR.2](#parallel--programming-mie-ppr.2)|
-|[MIE-DDW](#web-data-mining-mie-ddw) | [MIE-MZI](#mathematics-for-data-science-mie-mzi) | [MIE-ROZ](#pattern-recognition-mie-roz)|
-|[MIE-FLP](#functional-and-logical-programming-mie-flp) | [MIE-PAP.16](#parallel-computer-architectures-mie-pap.16) | [MIE-SPI.16](#statistics-for-informatics-mie-spi.16)|
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+|[MIE-AVY](#automata-in-text-pattern-matching-mie-avy) | [MIE-BPS](#wireless-computer-networks-mie-bps) | [MIE-FME.16](#formal-methods-and-specifications-mie-fme.16) | [MIE-MKY.16](#mathematics-for-cryptology-mie-mky.16) | [MIE-PDB](#advanced-database-systems-mie-pdb) | [MIE-PPR.2](#parallel--programming-mie-ppr.2) | [MIE-SWE.16](#semantic-web-mie-swe.16)|
+|[MIE-BHW.16](#security-and-hardware-mie-bhw.16) | [MIE-DDW](#web-data-mining-mie-ddw) | [MIE-HWB.16](#hardware-security-mie-hwb.16) | [MIE-MZI](#mathematics-for-data-science-mie-mzi) | [MIE-PDP.16](#parallel-and-distributed-programming-mie-pdp.16) | [MIE-ROZ](#pattern-recognition-mie-roz) | [MIE-SYB.16](#system-security-mie-syb.16)|
+|[MIE-BKO.16](#error-control-codes-mie-bko.16) | [MIE-FLP](#functional-and-logical-programming-mie-flp) | [MIE-KOD](#data-compression-mie-kod) | [MIE-PAP.16](#parallel-computer-architectures-mie-pap.16) | [MIE-PIS.16](#advanced-information-systems-mie-pis.16) | [MIE-SPI.16](#statistics-for-informatics-mie-spi.16) | [MIE-W20](#web-2.0-mie-w20)|
 
     
 
@@ -203,4 +200,4 @@
 
 
 
-*Stav k 17.06.2017 19:41:53*
+*Stav k 17.06.2017 19:42:37*

@@ -1,4 +1,14 @@
-# Přehled splněných předmětů
+# Celková průchodnost předmětů
+
+- [Předměty programu BI](longterm/BI)
+- [Předměty programu BIE](longterm/BIE)
+- [Předměty programu BIK](longterm/BIK)
+- [Předměty programu FI](longterm/FI)
+- [Předměty programu MI](longterm/MI)
+- [Předměty programu MIE](longterm/MIE)
+
+
+# Detailní přehled průchodů předměty
 ## Program BI
 - [Zimní semestr 2009/2010](courses\B091\BI)
 - [Letní semestr 2009/2010](courses\B092\BI)

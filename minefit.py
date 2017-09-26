@@ -196,7 +196,7 @@ class SiteGenerator:
                     sorted_list = sorted(course_data_list, key=lambda course_dict: course_dict['timestamp'])
                     longterm_dict[programme_id][course_id] = sorted_list
 
-                    md_table = self._make_md_table(sorted_list, show_delta=False)
+                    md_table = self._make_md_table(sorted_list, show_delta=False, show_students_enrolled=False)
 
                     f.write(md_table + "\n\n")
 
@@ -259,7 +259,8 @@ class SiteGenerator:
                 f.write(programme_md_tables)
                 f.write(programme_md_footer)
 
-    def _make_md_table(self, course_semester_data: List[Dict[str, Union[str, int, float]]], show_delta=True):
+    def _make_md_table(self, course_semester_data: List[Dict[str, Union[str, int, float]]], show_delta=True,
+                       show_students_enrolled=True):
         """
         Make markdown table from data of a single semester-course.
 
@@ -312,16 +313,15 @@ class SiteGenerator:
                 row_data_compl_total_percent.append(
                     f'''{datapoint['percent_finished']*100:.0f}%''')
 
-        md = f"""## {course_name} ({course_id})
+        md = f"## {course_name} ({course_id})\n\n"
+        if show_students_enrolled:
+            md += f"**Přihlášeno studentů**: {enrolled_total}\n\n"
 
-**Přihlášeno studentů**: {enrolled_total}
-
-{row_headers}{"|".join(row_data_headers)}|
+        md += f"""{row_headers}{"|".join(row_data_headers)}|
 {row_separator}{"|".join(row_data_separator)}|
 {row_completed_total}{"|".join(row_data_compl_total)}|
 {row_completed_total_percent}{"|".join(row_data_compl_total_percent)}|
 """
-
         return md
 
 

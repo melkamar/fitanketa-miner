@@ -248,8 +248,8 @@ class SurveyMiner:
         for course_data in new_data.values():
             self._merge_single_course(course_data, original_data, timestamp)
 
-    @staticmethod
-    def _load_semester(semester: str):
+    # noinspection PyMethodMayBeStatic
+    def _load_semester(self, semester: str):
         """
         Load semester data from a file into a dictionary. The format of this dictionary is described in
         method _merge_single_course().

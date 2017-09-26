@@ -1,4 +1,6 @@
 # Předměty programu BIE
+
+
 | | | | | | |
 |-|-|-|-|-|-|
 |[BIE-3DT.1](#3d-printing-bie-3dt1) | [BIE-ADU.1](#unix-administration-bie-adu1) | [BIE-AG2](#algorithms-and-graphs-2-bie-ag2) | [BIE-AWD](#web-and-database-server-administration-bie-awd) | [BIE-BEK](#secure-code-bie-bek) | [BIE-BEZ](#security-bie-bez)|
@@ -7,7 +9,8 @@
 |[BIE-SAP](#computer-structures-and-architectures-bie-sap) | [BIE-SI1.2](#software-engineering-i-bie-si12) | [BIE-SP1](#team-software-project-1-bie-sp1) | [BIE-TUR](#user-interface-design-bie-tur) | [BIE-VZD](#data-mining-bie-vzd) | [BIE-ZRS](#basics-of-system-control-bie-zrs)|
 |[BIE-ZUM](#artificial-intelligence-fundamentals-bie-zum) | [BIE-ZWU](#introduction-to-web-and-user-interfaces-bie-zwu)|
 
-        ## 3D Printing (BIE-3DT.1)
+        
+## 3D Printing (BIE-3DT.1)
 
 **Přihlášeno studentů**: 8
 
@@ -269,4 +272,4 @@
 
 
 
-*Stav k 26.09.2017 14:04:26*
+*Stav k 26.09.2017 14:10:09*

@@ -1,9 +1,12 @@
 # Předměty programu FI
+
+
 | | | | | | |
 |-|-|-|-|-|-|
 |[FI-FIL](#filosofie-fi-fil) | [FI-GNO](#základy-gnozeologie-fi-gno) | [FI-HTE](#historie-techniky-a-ekonomiky-fi-hte) | [FI-KSA](#úvod-do-kulturní-a-sociální-antropologie-fi-ksa) | [FI-MPL](#manažerská-psychologie-fi-mpl) | [FI-ULI](#úvod-do-lingvistiky-pro-informatiky-fi-uli)|
 
-        ## Filosofie (FI-FIL)
+        
+## Filosofie (FI-FIL)
 
 **Přihlášeno studentů**: 46
 
@@ -65,4 +68,4 @@
 
 
 
-*Stav k 26.09.2017 14:04:26*
+*Stav k 26.09.2017 14:10:09*

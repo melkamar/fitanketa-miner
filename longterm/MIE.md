@@ -1,4 +1,6 @@
 # Předměty programu MIE
+
+
 | | | | | | |
 |-|-|-|-|-|-|
 |[MIE-AVY](#automata-in-text-pattern-matching-mie-avy) | [MIE-BHW.16](#security-and-hardware-mie-bhw16) | [MIE-BKO.16](#error-control-codes-mie-bko16) | [MIE-BPS](#wireless-computer-networks-mie-bps) | [MIE-DDW](#web-data-mining-mie-ddw) | [MIE-FLP](#functional-and-logical-programming-mie-flp)|
@@ -6,7 +8,8 @@
 |[MIE-PDB](#advanced-database-systems-mie-pdb) | [MIE-PDP.16](#parallel-and-distributed-programming-mie-pdp16) | [MIE-PIS.16](#advanced-information-systems-mie-pis16) | [MIE-PPR.2](#parallel--programming-mie-ppr2) | [MIE-ROZ](#pattern-recognition-mie-roz) | [MIE-SPI.16](#statistics-for-informatics-mie-spi16)|
 |[MIE-SWE.16](#semantic-web-mie-swe16) | [MIE-SYB.16](#system-security-mie-syb16) | [MIE-W20](#web-20-mie-w20)|
 
-        ## Automata in Text Pattern Matching (MIE-AVY)
+        
+## Automata in Text Pattern Matching (MIE-AVY)
 
 **Přihlášeno studentů**: 2
 
@@ -218,4 +221,4 @@
 
 
 
-*Stav k 26.09.2017 14:04:26*
+*Stav k 26.09.2017 14:10:09*

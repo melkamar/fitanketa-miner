@@ -1,4 +1,6 @@
 # Předměty programu BI
+
+
 | | | | | | |
 |-|-|-|-|-|-|
 |[BI-3DT.1](#3d-tisk-bi-3dt1) | [BI-A0L](#angličtina-bi-a0l) | [BI-A1L](#angličtina-bi-a1l) | [BI-A2L](#angličtina-bi-a2l) | [BI-A2Z](#angličtina-bi-a2z) | [BI-AAG](#automaty-a-gramatiky-bi-aag)|
@@ -22,7 +24,8 @@
 |[BI-ZPI](#základy-procesního-inženýrství-bi-zpi) | [BI-ZRS](#základy-řízení-systému-bi-zrs) | [BI-ZSI](#základy-softwarového-inženýrství-bi-zsi) | [BI-ZTK](#tělovýchovný-kurz-zimní-bi-ztk) | [BI-ZTK2](#tělovýchovný-kurz-zimní-ii-bi-ztk2) | [BI-ZUM](#základy-umělé-inteligence-bi-zum)|
 |[BI-ZWU](#základy-webu-a-uživatelská-rozhraní-bi-zwu)|
 
-        ## 3D Tisk (BI-3DT.1)
+        
+## 3D Tisk (BI-3DT.1)
 
 **Přihlášeno studentů**: 23
 
@@ -1174,4 +1177,4 @@
 
 
 
-*Stav k 26.09.2017 14:04:26*
+*Stav k 26.09.2017 14:10:09*

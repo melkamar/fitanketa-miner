@@ -1,4 +1,6 @@
 # Předměty programu MI
+
+
 | | | | | | |
 |-|-|-|-|-|-|
 |[MI-AAK](#aritmetika-a-kódy-mi-aak) | [MI-ADM](#algoritmy-data-miningu-mi-adm) | [MI-ADM.16](#algoritmy-data-miningu-mi-adm16) | [MI-AIT](#případové-studie-aplikace-a-řízení-it-mi-ait) | [MI-AVY](#automaty-ve-vyhledávání-v-textech-mi-avy) | [MI-BHW](#bezpečnost-a-technické-prostředky-mi-bhw)|
@@ -19,7 +21,8 @@
 |[MI-SYB.16](#systémová-bezpečnost-mi-syb16) | [MI-SYP](#syntaktická-analýza-a-překladače-mi-syp) | [MI-TES](#teorie-systémů-mi-tes) | [MI-TES.2](#teorie-systémů-mi-tes2) | [MI-TES_1](#teorie-systémů-mi-tes_1) | [MI-TS4](#teoretický-seminář-magisterský-iv-mi-ts4)|
 |[MI-TSP](#testování-a-spolehlivost-mi-tsp) | [MI-VMW](#vyhledávání-multimediálního-obsahu-na-webu-mi-vmw) | [MI-W20](#web-20-mi-w20) | [MI-W20.16](#web-20-mi-w2016) | [MI=TS4](#teoretický-seminář-iv-mi=ts4)|
 
-        ## Aritmetika a kódy (MI-AAK)
+        
+## Aritmetika a kódy (MI-AAK)
 
 **Přihlášeno studentů**: 30
 
@@ -1031,4 +1034,4 @@
 
 
 
-*Stav k 26.09.2017 14:04:26*
+*Stav k 26.09.2017 14:10:09*

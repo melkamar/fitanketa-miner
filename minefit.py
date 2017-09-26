@@ -618,13 +618,13 @@ def main():
             semester = util.get_semester(now)
 
             miner = SurveyMiner()
-            # miner.update_data(semester)
+            miner.update_data(semester)
             semester_data = miner.get_semester_data(semester)
 
             generator = SiteGenerator('page', 'page/courses', semester_data, semester, 'data')
             generator.generate_page()
 
-            # publish('page')
+            publish('page')
 
         except Exception as e:
             logging.exception(e)

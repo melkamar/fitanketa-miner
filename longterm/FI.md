@@ -8,8 +8,6 @@
         
 ## Filosofie (FI-FIL)
 
-**Přihlášeno studentů**: 46
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |21|
@@ -17,8 +15,6 @@
 
 
 ## Základy gnozeologie (FI-GNO)
-
-**Přihlášeno studentů**: 23
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -28,8 +24,6 @@
 
 ## Historie techniky a ekonomiky (FI-HTE)
 
-**Přihlášeno studentů**: 51
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |35|
@@ -37,8 +31,6 @@
 
 
 ## Úvod do kulturní a sociální antropologie (FI-KSA)
-
-**Přihlášeno studentů**: 81
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -48,8 +40,6 @@
 
 ## Manažerská psychologie (FI-MPL)
 
-**Přihlášeno studentů**: 59
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |43|
@@ -57,8 +47,6 @@
 
 
 ## Úvod do lingvistiky pro informatiky (FI-ULI)
-
-**Přihlášeno studentů**: 47
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -68,4 +56,4 @@
 
 
 
-*Stav k 26.09.2017 14:10:09*
+*Stav k 26.09.2017 14:15:54*

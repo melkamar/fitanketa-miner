@@ -12,8 +12,6 @@
         
 ## 3D Printing (BIE-3DT.1)
 
-**Přihlášeno studentů**: 8
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |3|
@@ -21,8 +19,6 @@
 
 
 ## Unix Administration (BIE-ADU.1)
-
-**Přihlášeno studentů**: 7
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -32,8 +28,6 @@
 
 ## Algorithms and Graphs 2 (BIE-AG2)
 
-**Přihlášeno studentů**: 6
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |5|
@@ -41,8 +35,6 @@
 
 
 ## Web and Database Server Administration (BIE-AWD)
-
-**Přihlášeno studentů**: 5
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -52,8 +44,6 @@
 
 ## Secure Code (BIE-BEK)
 
-**Přihlášeno studentů**: 5
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |2|
@@ -61,8 +51,6 @@
 
 
 ## Security (BIE-BEZ)
-
-**Přihlášeno studentů**: 22
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -72,8 +60,6 @@
 
 ## Database Systems (BIE-DBS)
 
-**Přihlášeno studentů**: 34
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |24|
@@ -81,8 +67,6 @@
 
 
 ## Introduction to European Economic History (BIE-EHD)
-
-**Přihlášeno studentů**: 5
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -92,8 +76,6 @@
 
 ## Economic and management principles (BIE-EMP)
 
-**Přihlášeno studentů**: 10
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |6|
@@ -101,8 +83,6 @@
 
 
 ## Economic project (BIE-EPR)
-
-**Přihlášeno studentů**: 3
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -112,8 +92,6 @@
 
 ## Graph Algorithms and Complexity Theory (BIE-GRA)
 
-**Přihlášeno studentů**: 5
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |4|
@@ -121,8 +99,6 @@
 
 
 ## Linear Algebra (BIE-LIN)
-
-**Přihlášeno studentů**: 24
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -132,8 +108,6 @@
 
 ## Operating Systems (BIE-OSY)
 
-**Přihlášeno studentů**: 15
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |5|
@@ -141,8 +115,6 @@
 
 
 ## Programming and Algorithmics 2 (BIE-PA2)
-
-**Přihlášeno studentů**: 16
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -152,8 +124,6 @@
 
 ## Programming Languages and Compilers (BIE-PJP)
 
-**Přihlášeno studentů**: 10
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |2|
@@ -161,8 +131,6 @@
 
 
 ## Programming in Java (BIE-PJV)
-
-**Přihlášeno studentů**: 14
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -172,8 +140,6 @@
 
 ## Programming in shell 2 (BIE-PS2)
 
-**Přihlášeno studentů**: 2
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |1|
@@ -181,8 +147,6 @@
 
 
 ## Computer Networks (BIE-PSI)
-
-**Přihlášeno studentů**: 25
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -192,8 +156,6 @@
 
 ## Computer Structures and Architectures (BIE-SAP)
 
-**Přihlášeno studentů**: 22
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |12|
@@ -201,8 +163,6 @@
 
 
 ## Software Engineering I (BIE-SI1.2)
-
-**Přihlášeno studentů**: 19
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -212,8 +172,6 @@
 
 ## Team Software Project 1 (BIE-SP1)
 
-**Přihlášeno studentů**: 4
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |4|
@@ -221,8 +179,6 @@
 
 
 ## User Interface Design (BIE-TUR)
-
-**Přihlášeno studentů**: 13
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -232,8 +188,6 @@
 
 ## Data Mining (BIE-VZD)
 
-**Přihlášeno studentů**: 23
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |15|
@@ -241,8 +195,6 @@
 
 
 ## Basics of System Control (BIE-ZRS)
-
-**Přihlášeno studentů**: 4
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -252,8 +204,6 @@
 
 ## Artificial Intelligence Fundamentals (BIE-ZUM)
 
-**Přihlášeno studentů**: 7
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |2|
@@ -261,8 +211,6 @@
 
 
 ## Introduction to Web and User Interfaces (BIE-ZWU)
-
-**Přihlášeno studentů**: 21
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -272,4 +220,4 @@
 
 
 
-*Stav k 26.09.2017 14:10:09*
+*Stav k 26.09.2017 14:15:54*

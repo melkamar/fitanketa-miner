@@ -11,8 +11,6 @@
         
 ## Administrace OS Unix (BIK-ADU.1)
 
-**Přihlášeno studentů**: 10
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |4|
@@ -20,8 +18,6 @@
 
 
 ## Administrace webového a DB serveru (BIK-AWD)
-
-**Přihlášeno studentů**: 7
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -31,8 +27,6 @@
 
 ## Bezpečný kód (BIK-BEK)
 
-**Přihlášeno studentů**: 9
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |2|
@@ -40,8 +34,6 @@
 
 
 ## Bezpečnost (BIK-BEZ)
-
-**Přihlášeno studentů**: 28
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -51,8 +43,6 @@
 
 ## Databázové systémy (BIK-DBS)
 
-**Přihlášeno studentů**: 45
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |30|
@@ -60,8 +50,6 @@
 
 
 ## Grafové algoritmy a základy teorie složitosti (BIK-GRA)
-
-**Přihlášeno studentů**: 2
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -71,8 +59,6 @@
 
 ## Historie matematiky a informatiky (BIK-HMI)
 
-**Přihlášeno studentů**: 16
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |6|
@@ -80,8 +66,6 @@
 
 
 ## Úvod do kulturní a sociální antropologie (BIK-KSA)
-
-**Přihlášeno studentů**: 12
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -91,8 +75,6 @@
 
 ## Lineární algebra (BIK-LIN)
 
-**Přihlášeno studentů**: 55
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |15|
@@ -100,8 +82,6 @@
 
 
 ## Makroekonomické souvislosti domácí a světové ekonomiky (BIK-MEK)
-
-**Přihlášeno studentů**: 34
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -111,8 +91,6 @@
 
 ## Operační systémy (BIK-OSY)
 
-**Přihlášeno studentů**: 27
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |8|
@@ -120,8 +98,6 @@
 
 
 ## Programování a algoritmizace 2 (BIK-PA2)
-
-**Přihlášeno studentů**: 60
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -131,8 +107,6 @@
 
 ## Programovací jazyky a překladače (BIK-PJP)
 
-**Přihlášeno studentů**: 1
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |1|
@@ -140,8 +114,6 @@
 
 
 ## Projekt, prezentace a rétorika (BIK-PPR)
-
-**Přihlášeno studentů**: 10
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -151,8 +123,6 @@
 
 ## Právo a podnikání (BIK-PRP)
 
-**Přihlášeno studentů**: 1
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |1|
@@ -160,8 +130,6 @@
 
 
 ## Programování v shellu 2 (BIK-PS2)
-
-**Přihlášeno studentů**: 3
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -171,8 +139,6 @@
 
 ## Počítačové sítě (BIK-PSI)
 
-**Přihlášeno studentů**: 28
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |12|
@@ -180,8 +146,6 @@
 
 
 ## Struktura a architektura počítačů (BIK-SAP)
-
-**Přihlášeno studentů**: 41
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -191,8 +155,6 @@
 
 ## Softwarové inženýrství I (BIK-SI1.2)
 
-**Přihlášeno studentů**: 16
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |7|
@@ -200,8 +162,6 @@
 
 
 ## Softwarový týmový projekt 1 (BIK-SP1)
-
-**Přihlášeno studentů**: 13
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -211,8 +171,6 @@
 
 ## Jazyk SQL, pokročilý (BIK-SQL.1)
 
-**Přihlášeno studentů**: 11
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |4|
@@ -220,8 +178,6 @@
 
 
 ## Tvorba uživatelského rozhraní (BIK-TUR)
-
-**Přihlášeno studentů**: 37
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -231,4 +187,4 @@
 
 
 
-*Stav k 26.09.2017 14:10:09*
+*Stav k 26.09.2017 14:15:54*

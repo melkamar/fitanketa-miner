@@ -11,8 +11,6 @@
         
 ## Automata in Text Pattern Matching (MIE-AVY)
 
-**Přihlášeno studentů**: 2
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |2|
@@ -20,8 +18,6 @@
 
 
 ## Security and Hardware (MIE-BHW.16)
-
-**Přihlášeno studentů**: 3
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -31,8 +27,6 @@
 
 ## Error Control Codes (MIE-BKO.16)
 
-**Přihlášeno studentů**: 2
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |2|
@@ -40,8 +34,6 @@
 
 
 ## Wireless Computer Networks (MIE-BPS)
-
-**Přihlášeno studentů**: 4
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -51,8 +43,6 @@
 
 ## Web Data Mining (MIE-DDW)
 
-**Přihlášeno studentů**: 12
-
 |                          |26.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |8|
@@ -60,8 +50,6 @@
 
 
 ## Functional and Logical Programming (MIE-FLP)
-
-**Přihlášeno studentů**: 5
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -71,8 +59,6 @@
 
 ## Formal Methods and Specifications (MIE-FME.16)
 
-**Přihlášeno studentů**: 1
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |1|
@@ -80,8 +66,6 @@
 
 
 ## Hardware Security (MIE-HWB.16)
-
-**Přihlášeno studentů**: 1
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -91,8 +75,6 @@
 
 ## Data Compression (MIE-KOD)
 
-**Přihlášeno studentů**: 5
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |3|
@@ -100,8 +82,6 @@
 
 
 ## Mathematics for Cryptology (MIE-MKY.16)
-
-**Přihlášeno studentů**: 6
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -111,8 +91,6 @@
 
 ## Mathematics for data science (MIE-MZI)
 
-**Přihlášeno studentů**: 1
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |0|
@@ -120,8 +98,6 @@
 
 
 ## Parallel Computer Architectures (MIE-PAP.16)
-
-**Přihlášeno studentů**: 5
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -131,8 +107,6 @@
 
 ## Advanced Database Systems (MIE-PDB)
 
-**Přihlášeno studentů**: 8
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |6|
@@ -140,8 +114,6 @@
 
 
 ## Parallel and Distributed Programming (MIE-PDP.16)
-
-**Přihlášeno studentů**: 5
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -151,8 +123,6 @@
 
 ## Advanced Information Systems (MIE-PIS.16)
 
-**Přihlášeno studentů**: 4
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |4|
@@ -160,8 +130,6 @@
 
 
 ## Parallel  Programming (MIE-PPR.2)
-
-**Přihlášeno studentů**: 1
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -171,8 +139,6 @@
 
 ## Pattern Recognition (MIE-ROZ)
 
-**Přihlášeno studentů**: 3
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |3|
@@ -180,8 +146,6 @@
 
 
 ## Statistics for Informatics (MIE-SPI.16)
-
-**Přihlášeno studentů**: 12
 
 |                          |26.09.2017|
 |--------------------------|--------------------|
@@ -191,8 +155,6 @@
 
 ## Semantic Web (MIE-SWE.16)
 
-**Přihlášeno studentů**: 1
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |1|
@@ -200,8 +162,6 @@
 
 
 ## System Security (MIE-SYB.16)
-
-**Přihlášeno studentů**: 6
 
 |                          |18.06.2017|
 |--------------------------|--------------------|
@@ -211,8 +171,6 @@
 
 ## Web 2.0 (MIE-W20)
 
-**Přihlášeno studentů**: 6
-
 |                          |18.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |2|
@@ -221,4 +179,4 @@
 
 
 
-*Stav k 26.09.2017 14:10:09*
+*Stav k 26.09.2017 14:15:54*

@@ -16,7 +16,7 @@
 
 ## Základy gnozeologie (FI-GNO)
 
-|                          |26.09.2017|
+|                          |29.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |10/23|
 |**Splněno celkem procent**|43%|
@@ -32,7 +32,7 @@
 
 ## Úvod do kulturní a sociální antropologie (FI-KSA)
 
-|                          |26.09.2017|
+|                          |30.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |64/81|
 |**Splněno celkem procent**|79%|
@@ -40,15 +40,15 @@
 
 ## Manažerská psychologie (FI-MPL)
 
-|                          |18.06.2017|
+|                          |21.09.2017|
 |--------------------------|--------------------|
-|**Splněno celkem**        |43/59|
-|**Splněno celkem procent**|73%|
+|**Splněno celkem**        |43/60|
+|**Splněno celkem procent**|72%|
 
 
 ## Úvod do lingvistiky pro informatiky (FI-ULI)
 
-|                          |26.09.2017|
+|                          |22.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |41/47|
 |**Splněno celkem procent**|87%|
@@ -56,4 +56,4 @@
 
 
 
-*Stav k 26.09.2017 15:06:38*
+*Stav k 26.09.2017 15:11:40*

@@ -43,7 +43,7 @@
 
 ## Web Data Mining (MIE-DDW)
 
-|                          |26.09.2017|
+|                          |23.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |8/12|
 |**Splněno celkem procent**|67%|
@@ -83,7 +83,7 @@
 
 ## Mathematics for Cryptology (MIE-MKY.16)
 
-|                          |26.09.2017|
+|                          |10.08.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |5/6|
 |**Splněno celkem procent**|83%|
@@ -107,7 +107,7 @@
 
 ## Advanced Database Systems (MIE-PDB)
 
-|                          |18.06.2017|
+|                          |19.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |6/8|
 |**Splněno celkem procent**|75%|
@@ -131,7 +131,7 @@
 
 ## Parallel  Programming (MIE-PPR.2)
 
-|                          |26.09.2017|
+|                          |23.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |1/1|
 |**Splněno celkem procent**|100%|
@@ -147,7 +147,7 @@
 
 ## Statistics for Informatics (MIE-SPI.16)
 
-|                          |26.09.2017|
+|                          |14.07.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |9/12|
 |**Splněno celkem procent**|75%|
@@ -179,4 +179,4 @@
 
 
 
-*Stav k 26.09.2017 15:06:38*
+*Stav k 26.09.2017 15:11:40*

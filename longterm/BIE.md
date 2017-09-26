@@ -12,7 +12,7 @@
         
 ## 3D Printing (BIE-3DT.1)
 
-|                          |26.09.2017|
+|                          |01.07.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |3/8|
 |**Splněno celkem procent**|38%|
@@ -28,7 +28,7 @@
 
 ## Algorithms and Graphs 2 (BIE-AG2)
 
-|                          |26.09.2017|
+|                          |30.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |5/6|
 |**Splněno celkem procent**|83%|
@@ -60,7 +60,7 @@
 
 ## Database Systems (BIE-DBS)
 
-|                          |26.09.2017|
+|                          |18.07.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |24/34|
 |**Splněno celkem procent**|71%|
@@ -92,7 +92,7 @@
 
 ## Graph Algorithms and Complexity Theory (BIE-GRA)
 
-|                          |26.09.2017|
+|                          |27.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |4/5|
 |**Splněno celkem procent**|80%|
@@ -100,7 +100,7 @@
 
 ## Linear Algebra (BIE-LIN)
 
-|                          |26.09.2017|
+|                          |27.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |8/24|
 |**Splněno celkem procent**|33%|
@@ -108,7 +108,7 @@
 
 ## Operating Systems (BIE-OSY)
 
-|                          |26.09.2017|
+|                          |28.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |5/15|
 |**Splněno celkem procent**|33%|
@@ -116,7 +116,7 @@
 
 ## Programming and Algorithmics 2 (BIE-PA2)
 
-|                          |26.09.2017|
+|                          |27.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |4/16|
 |**Splněno celkem procent**|25%|
@@ -124,7 +124,7 @@
 
 ## Programming Languages and Compilers (BIE-PJP)
 
-|                          |26.09.2017|
+|                          |27.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |2/10|
 |**Splněno celkem procent**|20%|
@@ -132,7 +132,7 @@
 
 ## Programming in Java (BIE-PJV)
 
-|                          |26.09.2017|
+|                          |24.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |7/14|
 |**Splněno celkem procent**|50%|
@@ -148,7 +148,7 @@
 
 ## Computer Networks (BIE-PSI)
 
-|                          |26.09.2017|
+|                          |15.07.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |18/25|
 |**Splněno celkem procent**|72%|
@@ -156,7 +156,7 @@
 
 ## Computer Structures and Architectures (BIE-SAP)
 
-|                          |26.09.2017|
+|                          |28.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |12/22|
 |**Splněno celkem procent**|55%|
@@ -164,7 +164,7 @@
 
 ## Software Engineering I (BIE-SI1.2)
 
-|                          |26.09.2017|
+|                          |30.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |7/19|
 |**Splněno celkem procent**|37%|
@@ -180,7 +180,7 @@
 
 ## User Interface Design (BIE-TUR)
 
-|                          |26.09.2017|
+|                          |22.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |8/13|
 |**Splněno celkem procent**|62%|
@@ -204,7 +204,7 @@
 
 ## Artificial Intelligence Fundamentals (BIE-ZUM)
 
-|                          |26.09.2017|
+|                          |11.07.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |2/7|
 |**Splněno celkem procent**|29%|
@@ -220,4 +220,4 @@
 
 
 
-*Stav k 26.09.2017 15:06:38*
+*Stav k 26.09.2017 15:11:40*

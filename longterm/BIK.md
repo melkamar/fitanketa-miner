@@ -11,7 +11,7 @@
         
 ## Administrace OS Unix (BIK-ADU.1)
 
-|                          |26.09.2017|
+|                          |30.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |4/10|
 |**Splněno celkem procent**|40%|
@@ -27,7 +27,7 @@
 
 ## Bezpečný kód (BIK-BEK)
 
-|                          |26.09.2017|
+|                          |29.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |2/9|
 |**Splněno celkem procent**|22%|
@@ -35,7 +35,7 @@
 
 ## Bezpečnost (BIK-BEZ)
 
-|                          |26.09.2017|
+|                          |29.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |10/28|
 |**Splněno celkem procent**|36%|
@@ -43,7 +43,7 @@
 
 ## Databázové systémy (BIK-DBS)
 
-|                          |26.09.2017|
+|                          |09.09.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |30/45|
 |**Splněno celkem procent**|67%|
@@ -51,7 +51,7 @@
 
 ## Grafové algoritmy a základy teorie složitosti (BIK-GRA)
 
-|                          |26.09.2017|
+|                          |30.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |1/2|
 |**Splněno celkem procent**|50%|
@@ -59,7 +59,7 @@
 
 ## Historie matematiky a informatiky (BIK-HMI)
 
-|                          |26.09.2017|
+|                          |24.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |6/16|
 |**Splněno celkem procent**|38%|
@@ -83,7 +83,7 @@
 
 ## Makroekonomické souvislosti domácí a světové ekonomiky (BIK-MEK)
 
-|                          |26.09.2017|
+|                          |05.07.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |17/34|
 |**Splněno celkem procent**|50%|
@@ -91,7 +91,7 @@
 
 ## Operační systémy (BIK-OSY)
 
-|                          |26.09.2017|
+|                          |25.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |8/27|
 |**Splněno celkem procent**|30%|
@@ -99,7 +99,7 @@
 
 ## Programování a algoritmizace 2 (BIK-PA2)
 
-|                          |26.09.2017|
+|                          |27.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |19/60|
 |**Splněno celkem procent**|32%|
@@ -131,7 +131,7 @@
 
 ## Programování v shellu 2 (BIK-PS2)
 
-|                          |26.09.2017|
+|                          |24.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |2/3|
 |**Splněno celkem procent**|67%|
@@ -139,7 +139,7 @@
 
 ## Počítačové sítě (BIK-PSI)
 
-|                          |26.09.2017|
+|                          |29.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |12/28|
 |**Splněno celkem procent**|43%|
@@ -147,7 +147,7 @@
 
 ## Struktura a architektura počítačů (BIK-SAP)
 
-|                          |26.09.2017|
+|                          |01.07.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |29/41|
 |**Splněno celkem procent**|71%|
@@ -155,7 +155,7 @@
 
 ## Softwarové inženýrství I (BIK-SI1.2)
 
-|                          |26.09.2017|
+|                          |05.07.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |7/16|
 |**Splněno celkem procent**|44%|
@@ -163,7 +163,7 @@
 
 ## Softwarový týmový projekt 1 (BIK-SP1)
 
-|                          |26.09.2017|
+|                          |05.07.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |9/13|
 |**Splněno celkem procent**|69%|
@@ -171,7 +171,7 @@
 
 ## Jazyk SQL, pokročilý (BIK-SQL.1)
 
-|                          |26.09.2017|
+|                          |27.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |4/11|
 |**Splněno celkem procent**|36%|
@@ -179,7 +179,7 @@
 
 ## Tvorba uživatelského rozhraní (BIK-TUR)
 
-|                          |26.09.2017|
+|                          |27.06.2017|
 |--------------------------|--------------------|
 |**Splněno celkem**        |20/37|
 |**Splněno celkem procent**|54%|
@@ -187,4 +187,4 @@
 
 
 
-*Stav k 26.09.2017 15:06:38*
+*Stav k 26.09.2017 15:11:40*

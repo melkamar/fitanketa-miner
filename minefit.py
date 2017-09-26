@@ -1,3 +1,5 @@
+#!/bin/usr/env python3
+
 import argparse
 import logging
 import time
@@ -19,7 +21,19 @@ import util
 
 
 class SiteGenerator:
+    """
+    Class for generating the markdown-syntaxed site from course data.
+    """
+
     def __init__(self, index_root, courses_root, data, semester):
+        """
+
+        :param index_root: Path to the root folder of the page, where the index should be created.
+        :param courses_root: Path to the root of courses pages, where "[semester_code]/[BI.md]" structure for each
+                             programme will be created.
+        :param data:
+        :param semester:
+        """
         super().__init__()
         self.index_root = index_root
         self.courses_root = courses_root
@@ -27,10 +41,21 @@ class SiteGenerator:
         self.semester = semester
 
     def generate_page(self):
+        """
+        Generate the whole web structure.
+
+        :return: None, everything is saved under index_root/** .
+        """
         self._make_pages(6)
         self._make_index()
 
     def _make_index(self):
+        """
+        Create the index page pointing to all the study programmes and all semesters.
+        Save this page as index_root/README.md .
+
+        :return: None.
+        """
         if not os.path.exists(self.courses_root):
             raise ValueError(f"Specified root directory does not exist: {os.path.abspath(self.courses_root)}")
 
@@ -56,8 +81,9 @@ class SiteGenerator:
         with open(os.path.join(self.index_root, 'README.md'), 'w', encoding='utf-8') as f:
             f.write(index_md)
 
-    def _make_page_heading_index(self, index_columns, courses_data):
-        """Create index of anchor links to given courses."""
+    @staticmethod
+    def _make_page_heading_index(index_columns, courses_data):
+        """Create index of anchor links to given courses. One index per study programme."""
         # {course_name} ({course_id})
 
         index_matrix = []
@@ -94,6 +120,13 @@ class SiteGenerator:
         return md_index
 
     def _make_pages(self, index_columns=6):
+        """
+        Make a page for every programme in the current semester. Save the pages under
+        the courses_root/semester_id folder.
+
+        :param index_columns: Number of columns the index of the page should have.
+        :return: None.
+        """
         for semester_programme, semester_courses in self.data.items():
             programme_md_heading = f"# {util.semester_id_to_str(self.semester)} - předměty programu {semester_programme}"
             programme_md_tables = ""
@@ -166,11 +199,27 @@ class SiteGenerator:
 
 
 class SurveyMiner:
+    """
+    Class for parsing and merging course completion data.
+    """
+
     def __init__(self, data_folder='data'):
+        """
+
+        :param data_folder: Path to folder where datafiles for semesters are present.
+        """
         super().__init__()
         self.data_folder = data_folder
 
     def update_data(self, semester, now=datetime.datetime.now()):
+        """
+        Update an existing semester data file, or create a new one if none exists.
+
+        :param semester: Semester-code (e.g. B162) for which to process the data. Use util.get_semester(now) to get
+                         the semester code.
+        :param now: Time with which the data will be timestamped.
+        :return: None.
+        """
         old_data = self._load_semester(semester)
         courses = self._fetch_courses()
         self._add_new_course_data(courses, old_data, now.timestamp())
@@ -179,13 +228,35 @@ class SurveyMiner:
         self._save_data(fn, old_data)
 
     def get_semester_data(self, semester):
+        """
+        Load existing datafile for the given semester and return it back as a dict.
+
+        :param semester: Semester code (e.g. B162). Use util.get_semester(now) to get the semester code.
+        :return: Semester data dictionary, its format described in method _merge_single_course().
+        """
         return self._load_semester(semester)
 
     def _add_new_course_data(self, new_data, original_data, timestamp):
+        """
+        Merge existing and new data for a semester of courses.
+
+        :param new_data: Dictionary containing the new data.
+        :param original_data: Dictionary containing the old data.
+        :param timestamp: Timestamp at which to save the new data.
+        :return: None.
+        """
         for course_data in new_data.values():
             self._merge_single_course(course_data, original_data, timestamp)
 
-    def _load_semester(self, semester: str):
+    @staticmethod
+    def _load_semester(semester: str):
+        """
+        Load semester data from a file into a dictionary. The format of this dictionary is described in
+        method _merge_single_course().
+
+        :param semester: Semester code (e.g. B162). Use util.get_semester(now) to get the semester code.
+        :return: Dictionary of the saved course data.
+        """
         fn = f'{self.data_folder}/{semester.upper()}.json'
         if not os.path.exists(fn):
             return {}
@@ -195,7 +266,31 @@ class SurveyMiner:
 
         return data
 
-    def _parse_page(self, page: str) -> Dict:
+    @staticmethod
+    def _parse_page(page: str) -> Dict:
+        """
+        Parse anketa page to get a dictionary describing the courses data.
+
+        The dictionary has the following structure::
+
+            {
+                'course_code': {
+                    'department': id of the course's department (int),
+                    'course_id': id of the course (e.g. MI-PDP),
+                    'course_name': human readable name of the course (e.g. Paralelní a distribuované programování),
+                    'enrolled': number of students enrolled in the course for this semester,
+                    'finished': number of students that have finished the course in this semester,
+                    'submitted_survey': number of students that have filled in the survey (anketa),
+                    'percent_finished': percentage of students that have finished the course
+                },
+                'course_code_B': {
+                    ...
+                }, ...
+            }
+
+        :param page: Raw HTML of the page to process.
+        :return: Dictionary of courses data.
+        """
         result = {}
         page = page.decode('utf-8')
 
@@ -234,12 +329,25 @@ class SurveyMiner:
         return result
 
     def _fetch_courses(self):
+        """
+        Get the newest data about courses from the anketa webpage. Parse them into a dictionary.
+
+        :return: Dictionary described in method SurveyMiner#parse_page()
+        """
         response = requests.get('https://anketa.cvut.cz/stav/stav_anketa_fit.html')
         response.raise_for_status()
         courses = self._parse_page(response.content)
         return courses
 
-    def _save_data(self, fn, data):
+    @staticmethod
+    def _save_data(fn, data):
+        """
+        Save data (dict) into a json file.
+
+        :param fn: Target filename.
+        :param data: Dictinary of courses data.
+        :return: None.
+        """
         if not os.path.exists(os.path.dirname(fn)):
             os.mkdir(os.path.dirname(fn))
 
@@ -252,6 +360,40 @@ class SurveyMiner:
         os.rename(f"{fn}.temp", fn)
 
     def _merge_single_course(self, new_course_data, original_data, timestamp):
+        """
+        Merge past and new data for a single course in a single semester.
+
+        :param new_course_data: Dictionary with the course's data:
+                                {'department': ...,
+                                 'course_id': ...,
+                                 'course_name': ...,
+                                 'enrolled': ...,
+                                 'finished': ...,
+                                 'submitted_survey': ...,
+                                 'percent_finished': ...}
+        :param original_data: Full dictionary of the original data, structured as follows:
+                                Dict[study_programme, Dict[course_id, List[course_data]]]
+
+                                {
+                                    'study_programme (e.g. BI, MI ...)': {
+                                        'course_id (e.g. MI-PDP': [
+                                            {course_data (see new_course_data format)},
+                                            {course_data2 (see new_course_data format)},
+                                            ...
+                                        ],
+                                        'course_id_2 (e.g. MI-MPI': [
+                                            {course_data (see new_course_data format)},
+                                            {course_data2 (see new_course_data format)},
+                                            ...
+                                        ],
+                                    },
+                                    'study_programme_2': {
+                                        ...
+                                    }
+                                }
+        :param timestamp: Timestamp at which to save the new data.
+        :return: None. The method will change the original data dictionary in-place.
+        """
         new_course_id = new_course_data['course_id']
         new_course_data['timestamp'] = timestamp
 
@@ -274,7 +416,15 @@ class SurveyMiner:
             if finished_new != finished_original:
                 original_data[study_programme][new_course_id].append(new_course_data)
 
-    def _parse_course_data(self, course_id: str, data):
+    @staticmethod
+    def _parse_course_data(course_id: str, data):
+        """
+        Get list of datapoints of a course from the whole dataset.
+
+        :param course_id: ID of the course, e.g. MI-PDP.
+        :param data: Dictionary of the whole semester's data. See method _merge_single_course() for details.
+        :return: List of course data dictionaries. See method _merge_single_course() for details.
+        """
         study_programme = course_id.split('-', maxsplit=1)[0]
         if not data:
             return []
@@ -293,6 +443,13 @@ def del_rw(action, name, exc):
 
 
 def publish(root, temp_checkout_folder='checkouted_page'):
+    """
+    Publish a gitpage to github by pushing the changes to gh-pages branch of this repo.
+
+    :param root: Path to the root of the page. The root should contain "README.md" and "courses/semester_code" folders.
+    :param temp_checkout_folder: Temporary folder where to checkout current data.
+    :return: None.
+    """
     if os.path.exists(temp_checkout_folder):
         shutil.rmtree(temp_checkout_folder, onerror=del_rw)
 

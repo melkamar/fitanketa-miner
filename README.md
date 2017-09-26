@@ -35,3 +35,15 @@ information to the `courses.json` file. The file has following structure:
 
 The keys in the dict are UTC timestamps of the associated data. The rest is pretty self-explanatory.
 
+## How does it work
+
+Mine https://anketa.cvut.cz/stav/stav_anketa_fit.html for data about
+how many students have finished what courses.
+
+Save this data in a per-day basis, in JSON (because there won't be
+much data and JSON is real easy in Python, mkay?)
+Only store data for courses where there has been a change from the last
+state. So if every day one more person passes the course, there will
+be a datapoint every day. If, on the other hand, all the people
+passing the course get added into the system at once, there will be a
+single datapoint for the whole semester.

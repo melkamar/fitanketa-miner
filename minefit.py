@@ -211,17 +211,23 @@ class SurveyMiner:
         super().__init__()
         self.data_folder = data_folder
 
-    def update_data(self, semester, now=datetime.datetime.now()):
+    def update_data(self, semester, now=datetime.datetime.now(), courses_data=None):
         """
         Update an existing semester data file, or create a new one if none exists.
 
         :param semester: Semester-code (e.g. B162) for which to process the data. Use util.get_semester(now) to get
                          the semester code.
         :param now: Time with which the data will be timestamped.
+        :param courses_data: If None, data is fetched from the anketa. Otherwise, this data dict is used. Its format
+                             is described in method SurveyMiner#_parse_page().
         :return: None.
         """
         old_data = self._load_semester(semester)
-        courses = self._fetch_courses()
+        if courses_data is None:
+            courses = self._fetch_courses()
+        else:
+            courses = courses_data
+
         self._add_new_course_data(courses, old_data, now.timestamp())
 
         fn = f'{self.data_folder}/{semester.upper()}.json'

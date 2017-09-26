@@ -32,5 +32,4 @@
 ## Program MI
 - [Letní semestr 2016/2017](courses/B162/MI)
 
-.
 

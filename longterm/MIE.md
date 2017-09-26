@@ -43,10 +43,10 @@
 
 ## Web Data Mining (MIE-DDW)
 
-|                          |23.06.2017|
+|                          |27.09.2017|
 |--------------------------|--------------------|
-|**Splněno celkem**        |8/12|
-|**Splněno celkem procent**|67%|
+|**Splněno celkem**        |9/12|
+|**Splněno celkem procent**|75%|
 
 
 ## Functional and Logical Programming (MIE-FLP)
@@ -179,4 +179,4 @@
 
 
 
-*Stav k 26.09.2017 15:11:40*
+*Stav k 27.09.2017 01:30:04*

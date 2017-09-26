@@ -25,7 +25,7 @@ class SiteGenerator:
     Class for generating the markdown-syntaxed site from course data.
     """
 
-    def __init__(self, index_root, courses_root, data, semester):
+    def __init__(self, index_root, courses_root, data, semester, data_root):
         """
 
         :param index_root: Path to the root folder of the page, where the index should be created.
@@ -33,12 +33,14 @@ class SiteGenerator:
                              programme will be created.
         :param data:
         :param semester:
+        :param data_root: Path to the root folder with JSON data folders. Used to create long-term pages.
         """
         super().__init__()
         self.index_root = index_root
         self.courses_root = courses_root
         self.data = data
         self.semester = semester
+        self.data_root = data_root
 
     def generate_page(self):
         """
@@ -47,6 +49,7 @@ class SiteGenerator:
         :return: None, everything is saved under index_root/** .
         """
         self._make_pages(6)
+        self._make_longterm_pages("data")
         self._make_index()
 
     def _make_index(self):
@@ -59,7 +62,18 @@ class SiteGenerator:
         if not os.path.exists(self.courses_root):
             raise ValueError(f"Specified root directory does not exist: {os.path.abspath(self.courses_root)}")
 
-        index_md = "# Přehled splněných předmětů\n"
+        index_md = ""
+
+        longterm_folder = os.path.join(self.index_root, "longterm")
+        index_md += "# Celková průchodnost předmětů\n\n"
+        longterm_programmes = os.listdir(longterm_folder)
+        for programme_fn in longterm_programmes:
+            programme_id = os.path.splitext(programme_fn)[0]
+            index_md += f'- [Předměty programu {programme_id}](longterm/{programme_id})\n'
+        index_md += '\n\n'
+
+        # Create detailed index - point to separate years
+        index_md += "# Detailní přehled průchodů předměty\n"
         programme_semesters_dict = {}
         for semester in os.listdir(self.courses_root):
             for programme in os.listdir(os.path.join(self.courses_root, semester)):
@@ -83,9 +97,23 @@ class SiteGenerator:
 
     @staticmethod
     def _make_page_heading_index(index_columns, courses_data):
-        """Create index of anchor links to given courses. One index per study programme."""
+        """Create index of anchor links to given courses. One index per study programme.
+        Courses data is list of lists of courses dicts:
+        courses_data = [
+            [
+             {course_id:A, finished:...},
+             {course_id:A, finished:...},
+            ],
+            [
+             {course_id:B, finished:...},
+             {course_id:B, finished:...},
+            ],
+            ...
+        ]
+        """
         # {course_name} ({course_id})
-
+        import pprint
+        pprint.pprint(courses_data)
         index_matrix = []
         index_rows = math.ceil(len(courses_data) / index_columns)
         [index_matrix.append([]) for _ in range(index_rows)]
@@ -119,6 +147,89 @@ class SiteGenerator:
         print(md_index)
         return md_index
 
+    def _make_longterm_pages(self, data_root, index_columns=6):
+        """
+        Make a page for every programme. Save the pages under
+        the index_root/longterm folder.
+
+        Read every json datafile in data_root and create one table per course, containing the last passing percentage
+        per year.
+
+        First a dictionary will be created:
+        {
+            'BI':{
+                'course_id': [
+                    {course_id:..., department:..., enrolled: ..., ...},
+                    {course_id:..., department:..., enrolled: ..., ...},
+                ],
+                'course_id2':[
+                    ...
+                ]
+            },
+            'MI':{
+            }
+        }
+
+        This will be then used to generate one page per study programme.
+
+        :param data_root: Path to the folder containing JSON data files.
+        :param index_columns:
+        :return:
+        """
+
+        def _build_programme_page(programme_id, programme_data):
+
+            programme_md_heading = f"# Předměty programu {programme_id}"
+            programme_md_footer = f'\n\n*Stav k {datetime.datetime.now().strftime("%d.%m.%Y %H:%M:%S")}*'
+
+            programme_md_heading_index = self._make_page_heading_index(index_columns, programme_data.values())
+
+            root_folder = os.path.join(self.index_root, 'longterm')
+            os.makedirs(root_folder, exist_ok=True)
+
+            with open(os.path.join(root_folder, programme_id + ".md"), 'w', encoding='utf-8') as f:
+                f.write(programme_md_heading)
+                f.write(programme_md_heading_index)
+
+                for course_id, course_data_list in sorted(programme_data.items()):
+                    sorted_list = sorted(course_data_list, key=lambda course_dict: course_dict['timestamp'])
+                    longterm_dict[programme_id][course_id] = sorted_list
+
+                    md_table = self._make_md_table(sorted_list, show_delta=False)
+
+                    f.write(md_table + "\n\n")
+
+                    print(md_table)
+
+                f.write(programme_md_footer)
+
+        longterm_dict = {}
+
+        data_files = os.listdir(data_root)
+        for datafile in data_files:
+            with open(os.path.join(data_root, datafile), encoding='utf-8') as f:
+                data_dict = json.load(f)
+
+                for programme_id, programme_data in data_dict.items():
+                    if programme_id not in longterm_dict:
+                        longterm_dict[programme_id] = {}
+
+                    for course_id, course_data_list in programme_data.items():
+                        last_course_data = course_data_list[-1]
+                        if course_id not in longterm_dict[programme_id]:
+                            longterm_dict[programme_id][course_id] = []
+
+                        longterm_dict[programme_id][course_id].append(last_course_data)
+
+        # Now go through the dictionary again and sort the lists using timetables as keys, just to be sure
+        # Yeah, slow, but whatever, there wont be much data
+        for programme_id, programme_data in longterm_dict.items():
+            _build_programme_page(programme_id, programme_data)
+
+        # import pprint
+        # pprint.pprint(longterm_dict)
+        print()
+
     def _make_pages(self, index_columns=6):
         """
         Make a page for every programme in the current semester. Save the pages under
@@ -135,7 +246,7 @@ class SiteGenerator:
             programme_md_heading_index = self._make_page_heading_index(index_columns, semester_courses.values())
 
             for course_id, course_data in semester_courses.items():
-                md_page = self._make_md_table(semester_programme, course_data)
+                md_page = self._make_md_table(course_data)
                 programme_md_tables += md_page
                 programme_md_tables += "\n"
 
@@ -147,8 +258,18 @@ class SiteGenerator:
                 f.write(programme_md_tables)
                 f.write(programme_md_footer)
 
-    def _make_md_table(self, study_programme: str, course_semester_data: List[Dict[str, Union[str, int, float]]]):
-        """ Make markdown table from data of a single semester-course. """
+    def _make_md_table(self, course_semester_data: List[Dict[str, Union[str, int, float]]], show_delta=True):
+        """
+        Make markdown table from data of a single semester-course.
+
+        :param study_programme:
+        :param course_semester_data: List of datapoints of the course, example:
+                                     [
+                                         {course_id:..., department:..., enrolled: ..., ...},
+                                         {course_id:..., department:..., enrolled: ..., ...},
+                                     ]
+        :return: Markdown-syntax table.
+        """
         if not course_semester_data:
             return ""
 
@@ -174,16 +295,21 @@ class SiteGenerator:
             row_data_headers.append(util.timestamp_to_date_str(datapoint['timestamp']))
             row_data_separator.append("-" * 20)
 
-            new_completed = datapoint['finished']
-            new_completed_percent = datapoint['percent_finished']
+            new_completed = int(datapoint['finished'])
+            new_completed_percent = float(datapoint['percent_finished'])
             completed_delta = new_completed - previous_completed
             completed_percent_delta = new_completed_percent - previous_completed_percent
             previous_completed = new_completed
             previous_completed_percent = new_completed_percent
 
-            row_data_compl_total.append(f'''{new_completed} ({completed_delta:+})''')
-            row_data_compl_total_percent.append(
-                f'''{datapoint['percent_finished']*100:.0f}% ({completed_percent_delta*100:+.0f}%)''')
+            if show_delta:
+                row_data_compl_total.append(f'''{new_completed} ({completed_delta:+})''')
+                row_data_compl_total_percent.append(
+                    f'''{datapoint['percent_finished']*100:.0f}% ({completed_percent_delta*100:+.0f}%)''')
+            else:
+                row_data_compl_total.append(f'''{new_completed}''')
+                row_data_compl_total_percent.append(
+                    f'''{datapoint['percent_finished']*100:.0f}%''')
 
         md = f"""## {course_name} ({course_id})
 
@@ -484,13 +610,13 @@ def main():
             semester = util.get_semester(now)
 
             miner = SurveyMiner()
-            miner.update_data(semester)
+            # miner.update_data(semester)
             semester_data = miner.get_semester_data(semester)
 
-            generator = SiteGenerator('page', 'page/courses', semester_data, semester)
+            generator = SiteGenerator('page', 'page/courses', semester_data, semester, 'data')
             generator.generate_page()
 
-            publish('page')
+            # publish('page')
 
         except Exception as e:
             logging.exception(e)

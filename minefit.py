@@ -179,7 +179,7 @@ class SiteGenerator:
 
         def _build_programme_page(programme_id, programme_data):
 
-            programme_md_heading = f"# Předměty programu {programme_id}"
+            programme_md_heading = f"# Předměty programu {programme_id}\n\n"
             programme_md_footer = f'\n\n*Stav k {datetime.datetime.now().strftime("%d.%m.%Y %H:%M:%S")}*'
 
             programme_md_heading_index = self._make_page_heading_index(index_columns, programme_data.values())
@@ -190,6 +190,7 @@ class SiteGenerator:
             with open(os.path.join(root_folder, programme_id + ".md"), 'w', encoding='utf-8') as f:
                 f.write(programme_md_heading)
                 f.write(programme_md_heading_index)
+                f.write('\n')
 
                 for course_id, course_data_list in sorted(programme_data.items()):
                     sorted_list = sorted(course_data_list, key=lambda course_dict: course_dict['timestamp'])

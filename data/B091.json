@@ -1,0 +1,76 @@
+{
+  "BI": {
+    "BI-CAO": [
+      {
+        "department": 0,
+        "course_id": "BI-CAO",
+        "course_name": "Číslicové a analogové obvody",
+        "enrolled": "447",
+        "finished": "252",
+        "submitted_survey": 0,
+        "percent_finished": 0.5637583892617449,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-MLO": [
+      {
+        "department": 0,
+        "course_id": "BI-MLO",
+        "course_name": "Matematická logika",
+        "enrolled": "447",
+        "finished": "274",
+        "submitted_survey": 0,
+        "percent_finished": 0.6129753914988815,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-PA1": [
+      {
+        "department": 0,
+        "course_id": "BI-PA1",
+        "course_name": "Programování a algoritmizace 1",
+        "enrolled": "447",
+        "finished": "235",
+        "submitted_survey": 0,
+        "percent_finished": 0.5257270693512305,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-PAI": [
+      {
+        "department": 0,
+        "course_id": "BI-PAI",
+        "course_name": "Právo a informatika",
+        "enrolled": "453",
+        "finished": "284",
+        "submitted_survey": 0,
+        "percent_finished": 0.6269315673289183,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-UOS": [
+      {
+        "department": 0,
+        "course_id": "BI-UOS",
+        "course_name": "Úvod do operačních systémů",
+        "enrolled": "443",
+        "finished": "203",
+        "submitted_survey": 0,
+        "percent_finished": 0.4582392776523702,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-ZMA": [
+      {
+        "department": 0,
+        "course_id": "BI-ZMA",
+        "course_name": "Základy matematické analýzy",
+        "enrolled": "417",
+        "finished": "187",
+        "submitted_survey": 0,
+        "percent_finished": 0.44844124700239807,
+        "timestamp": 1232967600.0
+      }
+    ]
+  }
+}

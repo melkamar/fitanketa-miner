@@ -1,0 +1,112 @@
+{
+  "BI": {
+    "BI-A2L": [
+      {
+        "department": 0,
+        "course_id": "BI-A2L",
+        "course_name": "Angličtina",
+        "enrolled": "67",
+        "finished": "36",
+        "submitted_survey": 0,
+        "percent_finished": 0.5373134328358209,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-ANG": [
+      {
+        "department": 0,
+        "course_id": "BI-ANG",
+        "course_name": "Zkouška z angličtiny",
+        "enrolled": "64",
+        "finished": "40",
+        "submitted_survey": 0,
+        "percent_finished": 0.625,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-LIN": [
+      {
+        "department": 0,
+        "course_id": "BI-LIN",
+        "course_name": "Lineární algebra",
+        "enrolled": "259",
+        "finished": "137",
+        "submitted_survey": 0,
+        "percent_finished": 0.528957528957529,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-OSY": [
+      {
+        "department": 0,
+        "course_id": "BI-OSY",
+        "course_name": "Operační systémy",
+        "enrolled": "271",
+        "finished": "123",
+        "submitted_survey": 0,
+        "percent_finished": 0.45387453874538747,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-PA2": [
+      {
+        "department": 0,
+        "course_id": "BI-PA2",
+        "course_name": "Programování a algoritmizace 2",
+        "enrolled": "272",
+        "finished": "134",
+        "submitted_survey": 0,
+        "percent_finished": 0.49264705882352944,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-PJV": [
+      {
+        "department": 0,
+        "course_id": "BI-PJV",
+        "course_name": "Programování v Javě",
+        "enrolled": "73",
+        "finished": "40",
+        "submitted_survey": 0,
+        "percent_finished": 0.547945205479452,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-SAP": [
+      {
+        "department": 0,
+        "course_id": "BI-SAP",
+        "course_name": "Struktura a architektura počítačů",
+        "enrolled": "268",
+        "finished": "222",
+        "submitted_survey": 0,
+        "percent_finished": 0.8283582089552238,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-TED": [
+      {
+        "department": 0,
+        "course_id": "BI-TED",
+        "course_name": "Tvorba elektronické dokumentace",
+        "enrolled": "281",
+        "finished": "236",
+        "submitted_survey": 0,
+        "percent_finished": 0.8398576512455516,
+        "timestamp": 1232967600.0
+      }
+    ],
+    "BI-UOS": [
+      {
+        "department": 0,
+        "course_id": "BI-UOS",
+        "course_name": "Úvod do operačních systémů",
+        "enrolled": "9",
+        "finished": "7",
+        "submitted_survey": 0,
+        "percent_finished": 0.7777777777777778,
+        "timestamp": 1232967600.0
+      }
+    ]
+  }
+}

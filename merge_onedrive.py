@@ -163,7 +163,7 @@ def save_dict_to_separate_courses(data_dict, data_root):
             json.dump(semester_data, f, ensure_ascii=False, indent=2)
 
 
-def main():
+def merge_data():
     result_dict = {}
     parse_programme_dict('BI', result_dict)
     parse_programme_dict('MI', result_dict)
@@ -172,6 +172,22 @@ def main():
 
     import pprint
     pprint.pprint(result_dict)
+
+
+def create_pages():
+    from minefit import SiteGenerator, SurveyMiner
+    miner = SurveyMiner()
+
+    for semester_id in SEMESTER_TIMESTAMP:
+        data = miner.get_semester_data(semester_id)
+        gen = SiteGenerator('pagetest', 'pagetest/courses', data, semester_id, 'data')
+        gen.generate_page()
+
+
+def main():
+    # merge_data()
+
+    create_pages()
 
 
 if __name__ == '__main__':

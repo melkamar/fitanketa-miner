@@ -10,26 +10,26 @@
 
 # Detailní přehled průchodů předměty
 ## Program FI
-- [Letní semestr 2016/2017](courses/B162/FI)
+- [Zimní semestr 2017/2018](courses/B171/FI)
 
 
 ## Program BIE
-- [Letní semestr 2016/2017](courses/B162/BIE)
+- [Zimní semestr 2017/2018](courses/B171/BIE)
 
 
 ## Program BI
-- [Letní semestr 2016/2017](courses/B162/BI)
+- [Zimní semestr 2017/2018](courses/B171/BI)
 
 
 ## Program MIE
-- [Letní semestr 2016/2017](courses/B162/MIE)
+- [Zimní semestr 2017/2018](courses/B171/MIE)
 
 
 ## Program BIK
-- [Letní semestr 2016/2017](courses/B162/BIK)
+- [Zimní semestr 2017/2018](courses/B171/BIK)
 
 
 ## Program MI
-- [Letní semestr 2016/2017](courses/B162/MI)
+- [Zimní semestr 2017/2018](courses/B171/MI)
 
 

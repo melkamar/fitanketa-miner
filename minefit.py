@@ -25,7 +25,7 @@ class SiteGenerator:
     Class for generating the markdown-syntaxed site from course data.
     """
 
-    def __init__(self, index_root, courses_root, data, semester, data_root):
+    def __init__(self, index_root, courses_root, data_root):
         """
 
         :param index_root: Path to the root folder of the page, where the index should be created.
@@ -38,8 +38,6 @@ class SiteGenerator:
         super().__init__()
         self.index_root = index_root
         self.courses_root = courses_root
-        self.data = data
-        self.semester = semester
         self.data_root = data_root
 
     def generate_page(self):
@@ -48,7 +46,9 @@ class SiteGenerator:
 
         :return: None, everything is saved under index_root/** .
         """
-        self._make_pages(6)
+        for semester_datafile in os.listdir(self.data_root):
+            self._make_pages(os.path.splitext(semester_datafile)[0], 6)
+
         self._make_longterm_pages("data")
         self._make_index()
 
@@ -232,7 +232,7 @@ class SiteGenerator:
         # pprint.pprint(longterm_dict)
         print()
 
-    def _make_pages(self, index_columns=6):
+    def _make_pages(self, semester, index_columns=6):
         """
         Make a page for every programme in the current semester. Save the pages under
         the courses_root/semester_id folder.
@@ -240,8 +240,9 @@ class SiteGenerator:
         :param index_columns: Number of columns the index of the page should have.
         :return: None.
         """
-        for semester_programme, semester_courses in self.data.items():
-            programme_md_heading = f"# {util.semester_id_to_str(self.semester)} - předměty programu {semester_programme}"
+        data = SurveyMiner().get_semester_data(semester)
+        for semester_programme, semester_courses in data.items():
+            programme_md_heading = f"# {util.semester_id_to_str(semester)} - předměty programu {semester_programme}"
             programme_md_tables = ""
             programme_md_footer = f'\n\n*Stav k {datetime.datetime.now().strftime("%d.%m.%Y %H:%M:%S")}*'
 
@@ -252,7 +253,7 @@ class SiteGenerator:
                 programme_md_tables += md_page
                 programme_md_tables += "\n"
 
-            tgt_dir = os.path.join(self.courses_root, self.semester)
+            tgt_dir = os.path.join(self.courses_root, semester)
             os.makedirs(tgt_dir, exist_ok=True)
             with open(os.path.join(tgt_dir, util.sanitize_fn(semester_programme) + '.md'), 'w', encoding='utf-8') as f:
                 f.write(programme_md_heading + "\n\n")
@@ -318,7 +319,6 @@ class SiteGenerator:
                     row_data_compl_total.append(f'''{new_completed}''')
                     row_data_compl_total_percent.append(
                         f'''{datapoint['percent_finished']*100:.0f}%''')
-
 
         md = f"## {course_name} ({course_id})\n\n"
         if show_students_enrolled:
@@ -619,9 +619,8 @@ def main():
 
             miner = SurveyMiner()
             miner.update_data(semester)
-            semester_data = miner.get_semester_data(semester)
 
-            generator = SiteGenerator('page', 'page/courses', semester_data, semester, 'data')
+            generator = SiteGenerator('page', 'page/courses', 'data')
             generator.generate_page()
 
             publish('page')

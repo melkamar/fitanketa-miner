@@ -601,6 +601,25 @@ def publish(root, temp_checkout_folder='checkouted_page'):
     repo.remote().push()
 
 
+def publish_new_data(root, temp_checkout_folder='checkouted_data'):
+    """
+    Publish a gitpage to github by pushing the changes to gh-pages branch of this repo.
+
+    :param root: Path to the root of the data folder. This folder should contain json files, one per semester.
+    :param temp_checkout_folder: Temporary folder where to checkout current data.
+    :return: None.
+    """
+    if os.path.exists(temp_checkout_folder):
+        shutil.rmtree(temp_checkout_folder, onerror=del_rw)
+
+    repo = Repo.clone_from('git@github.com:melkamar/fitanketa-miner.git', temp_checkout_folder, branch='master')
+    copy_tree(root, os.path.join(temp_checkout_folder, 'data'))
+
+    repo.git.add('--all')
+    repo.index.commit("autocommit - update data")
+    repo.remote().push()
+
+
 def parse_args():
     parser = argparse.ArgumentParser('Gather stats about passed courses from anketa FIT ČVUT')
     parser.add_argument('--continuous', help='Run continuously in a loop, repeat in intervals specified '
@@ -624,6 +643,7 @@ def main():
             generator.generate_page()
 
             publish('page')
+            publish_new_data('data')
 
         except Exception as e:
             logging.exception(e)

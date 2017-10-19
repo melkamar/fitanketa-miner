@@ -180,7 +180,7 @@ def create_pages():
 
     for semester_id in SEMESTER_TIMESTAMP:
         data = miner.get_semester_data(semester_id)
-        gen = SiteGenerator('pagetest', 'pagetest/courses', data, semester_id, 'data')
+        gen = SiteGenerator('pagetest', 'pagetest/courses', 'data')
         gen.generate_page()
 
 

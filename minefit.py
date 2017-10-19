@@ -75,7 +75,7 @@ class SiteGenerator:
         # Create detailed index - point to separate years
         index_md += "# Detailní přehled průchodů předměty\n"
         programme_semesters_dict = {}
-        for semester in os.listdir(self.courses_root):
+        for semester in sorted(os.listdir(self.courses_root)):
             for programme in os.listdir(os.path.join(self.courses_root, semester)):
                 # print(f"{semester} -> {programme}")
                 if programme not in programme_semesters_dict:

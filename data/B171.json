@@ -22,6 +22,16 @@
         "submitted_survey": 17,
         "percent_finished": 0.5526315789473685,
         "timestamp": 1513862351.52194
+      },
+      {
+        "department": 18101,
+        "course_id": "BI-AG2",
+        "course_name": "Algoritmy a grafy 2",
+        "enrolled": 75,
+        "finished": 41,
+        "submitted_survey": 17,
+        "percent_finished": 0.5466666666666666,
+        "timestamp": 1515459603.475137
       }
     ],
     "BI-EP2": [
@@ -46,6 +56,16 @@
         "submitted_survey": 3,
         "percent_finished": 0.8947368421052632,
         "timestamp": 1513862351.52194
+      },
+      {
+        "department": 18101,
+        "course_id": "BI-GRA",
+        "course_name": "Grafové algoritmy a základy teorie složitosti",
+        "enrolled": 20,
+        "finished": 18,
+        "submitted_survey": 3,
+        "percent_finished": 0.9,
+        "timestamp": 1515459603.475137
       }
     ],
     "BI-PA2": [

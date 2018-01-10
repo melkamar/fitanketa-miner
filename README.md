@@ -1,6 +1,7 @@
 # Celková průchodnost předmětů
 
 - [Předměty programu FI](longterm/FI)
+- [Předměty programu FIT](longterm/FIT)
 - [Předměty programu MI](longterm/MI)
 - [Předměty programu BIE](longterm/BIE)
 - [Předměty programu BIK](longterm/BIK)
@@ -51,5 +52,9 @@
 ## Program MIE
 - [Letní semestr 2016/2017](courses/B162/MIE)
 - [Zimní semestr 2017/2018](courses/B171/MIE)
+
+
+## Program FIT
+- [Zimní semestr 2017/2018](courses/B171/FIT)
 
 

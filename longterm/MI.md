@@ -3,23 +3,29 @@
 
 | | | | | | |
 |-|-|-|-|-|-|
-|[MI-AAK](#aritmetika-a-kódy-mi-aak) | [MI-ADM](#algoritmy-data-miningu-mi-adm) | [MI-ADM.16](#algoritmy-data-miningu-mi-adm16) | [MI-AIT](#případové-studie-aplikace-a-řízení-it-mi-ait) | [MI-AVY](#automaty-ve-vyhledávání-v-textech-mi-avy) | [MI-BHW](#bezpečnost-a-technické-prostředky-mi-bhw)|
-|[MI-BHW.16](#bezpečnost-a-technické-prostředky-mi-bhw16) | [MI-BKO.16](#bezpečnostní-kódy-mi-bko16) | [MI-BPR](#bezpečnost-a-bezpečné-programování-mi-bpr) | [MI-BPS](#bezdrátové-počítačové-sítě-mi-bps) | [MI-CIO](#podpora-it-byznysu-a-role-cio-mi-cio) | [MI-CPX](#teorie-složitosti-mi-cpx)|
-|[MI-DDW](#dolování-dat-z-webu-mi-ddw) | [MI-DDW.16](#dolování-dat-z-webu-mi-ddw16) | [MI-DPO](#návrhové-vzory-a-oop-mi-dpo) | [MI-DSP](#databázové-systémy-v-praxi-mi-dsp) | [MI-DSV](#distribuované-systémy-a-výpočty-mi-dsv) | [MI-DZO](#digitální-zpracování-obrazu-mi-dzo)|
-|[MI-EVY](#efektivní-vyhledávání-v-textech-mi-evy) | [MI-FLP](#funkcionální-a-logické-programování-mi-flp) | [MI-FME](#formální-metody-a-specifikace-mi-fme) | [MI-FME.16](#formální-metody-a-specifikace-mi-fme16) | [MI-FRI](#finanční-řízení-ict-mi-fri) | [MI-GEN](#generování-kódu-mi-gen)|
-|[MI-GLR](#games-and-reinforcement-learning-mi-glr) | [MI-HWB.16](#hardwarová-bezpečnost-mi-hwb16) | [MI-IBE](#informační-bezpečnost-mi-ibe) | [MI-IKM](#-internet-a-klasifikační-metody-mi-ikm) | [MI-IOS](#pokročilé-techniky-v-ios-aplikacích-mi-ios) | [MI-IOT](#internet-of-things-mi-iot)|
-|[MI-KDD](#dobývání-znalostí-z-databází-mi-kdd) | [MI-KOD](#komprese-dat-mi-kod) | [MI-KOD.16](#komprese-dat-mi-kod16) | [MI-KRY](#pokročilá-kryptologie-mi-kry) | [MI-KYB](#kybernalita-mi-kyb) | [MI-KYB_1](#kybernalita-mi-kyb_1)|
-|[MI-LIF](#podnikové-portály-mi-lif) | [MI-LOM](#lineární-optimalizace-a-metody-mi-lom) | [MI-MAI](#multimedia-a-internet-mi-mai) | [MI-MAS](#modelování-a-analýza-systémů-mi-mas) | [MI-MBI.16](#řízení-podnikové-informatiky-mi-mbi16) | [MI-MCS](#vícejádrové-systémy-mi-mcs)|
-|[MI-MDW](#webové-služby-a-middleware-mi-mdw) | [MI-MEP](#modelování-ekonomických-procesů-mi-mep) | [MI-MKY](#-mi-mky) | [MI-MKY.16](#matematika-pro-kryptologii-mi-mky16) | [MI-MPI](#matematika-pro-informatiku-mi-mpi) | [MI-MPR](#magisterský-projekt,-master-project-mi-mpr)|
-|[MI-MTI](#moderní-technologie-internetu-mi-mti) | [MI-MVI](#metody-výpočetní-inteligence-mi-mvi) | [MI-MVI.16](#metody-výpočetní-inteligence-mi-mvi16) | [MI-MZI](#matematika-pro-znalostní-inženýrství-mi-mzi) | [MI-NFA](#návrh-obvodů-technologií-fpga-a-asic-mi-nfa) | [MI-NON](#nelineární-optimalizace-a-numerické-metody-mi-non)|
-|[MI-NSS.16](#normalized-software-systems-mi-nss16) | [MI-NUR](#návrh-uživatelského-rozhraní-mi-nur) | [MI-PAA](#problémy-a-algoritmy-mi-paa) | [MI-PAL](#pokročilá-algoritmizace-mi-pal) | [MI-PAM](#efektivni-předzpracování-a-parametrizované-algoritmy-mi-pam) | [MI-PAP](#paralelní-architektury-počítačů-mi-pap)|
-|[MI-PAP.16](#paralelní-architektury-počítačů-mi-pap16) | [MI-PAR](#paralelní-algoritmy-a-systémy-mi-par) | [MI-PAR_1](#paralelní-algoritmy-a-systémy-mi-par_1) | [MI-PCM.16](#projektové-a-změnové-řízení-mi-pcm16) | [MI-PDB](#pokročilé-databázové-systémy-mi-pdb) | [MI-PDD](#předzpracování-dat-mi-pdd)|
-|[MI-PDP.16](#paralelní-a-distribuované-programování-mi-pdp16) | [MI-PIS](#pokročilé-informační-systémy-mi-pis) | [MI-PIS.16](#pokročilé-informační-systémy-mi-pis16) | [MI-POA](#pokročilé-architektury-počítačových-systémů-mi-poa) | [MI-POA.16](#pokročilé-architektury-počítačových-systémů-mi-poa16) | [MI-PRC](#programování-v-cuda-mi-prc)|
-|[MI-PRM](#projektové-manažerství-mi-prm) | [MI-PSL](#programování-v-jazyku-scala-mi-psl) | [MI-RIC](#řízení-podnikové-informatiky-mi-ric) | [MI-ROZ](#rozpoznávaní-mi-roz) | [MI-RRI](#řízení-rizik-v-informatice-mi-rri) | [MI-RTS](#real-time-systémy-mi-rts)|
-|[MI-RUB](#programování-v-ruby-mi-rub) | [MI-RUN](#runtime-systémy-mi-run) | [MI-SAS](#it-v-době-saas-mi-sas) | [MI-SCA](#mikroprocesory-vestavěné-do-čipových-karet,-efektivní-implementace-a-útoky-postranními-kanály-mi-sca) | [MI-SIB](#síťová-bezpečnost-mi-sib) | [MI-SIM](#simulace-číslicových-obvodů-mi-sim)|
-|[MI-SIN](#integrace-v-informačních-systémech-mi-sin) | [MI-SOC](#systémy-na-čipu-mi-soc) | [MI-SPI](#statistika-pro-informatiku-mi-spi) | [MI-SPI.16](#statistika-pro-informatiku-mi-spi16) | [MI-SPI_1](#statistika-pro-informatiku-mi-spi_1) | [MI-SWE](#semantický-web-mi-swe)|
-|[MI-SYB.16](#systémová-bezpečnost-mi-syb16) | [MI-SYP](#syntaktická-analýza-a-překladače-mi-syp) | [MI-TES](#teorie-systémů-mi-tes) | [MI-TES.2](#teorie-systémů-mi-tes2) | [MI-TES_1](#teorie-systémů-mi-tes_1) | [MI-TS4](#teoretický-seminář-magisterský-iv-mi-ts4)|
-|[MI-TSP](#testování-a-spolehlivost-mi-tsp) | [MI-VMW](#vyhledávání-multimediálního-obsahu-na-webu-mi-vmw) | [MI-W20](#web-20-mi-w20) | [MI-W20.16](#web-20-mi-w2016) | [MI=TS4](#teoretický-seminář-iv-mi=ts4)|
+|[MI-AAK](#aritmetika-a-kódy-mi-aak) | [MI-ADM](#algoritmy-data-miningu-mi-adm) | [MI-ADM.16](#algoritmy-data-miningu-mi-adm16) | [MI-ADP.16](#architektonické-a-návrhové-vzory-mi-adp16) | [MI-AIT](#případové-studie-aplikace-a-řízení-it-mi-ait) | [MI-APH](#architektura-pocitacovych-her-mi-aph)|
+|[MI-ARI](#počítačová-aritmetika-mi-ari) | [MI-AVY](#automaty-ve-vyhledávání-v-textech-mi-avy) | [MI-BHW](#bezpečnost-a-technické-prostředky-mi-bhw) | [MI-BHW.16](#bezpečnost-a-technické-prostředky-mi-bhw16) | [MI-BKO.16](#bezpečnostní-kódy-mi-bko16) | [MI-BPR](#bezpečnost-a-bezpečné-programování-mi-bpr)|
+|[MI-BPR.16](#bezpečnost-a-bezpečné-programování-mi-bpr16) | [MI-BPS](#bezdrátové-počítačové-sítě-mi-bps) | [MI-CIO](#podpora-it-byznysu-a-role-cio-mi-cio) | [MI-CPX](#teorie-složitosti-mi-cpx) | [MI-DDW](#dolování-dat-z-webu-mi-ddw) | [MI-DDW.16](#dolování-dat-z-webu-mi-ddw16)|
+|[MI-DNP](#pokročilý-net-a-projektivní-programování-mi-dnp) | [MI-DPO](#návrhové-vzory-a-oop-mi-dpo) | [MI-DSP](#databázové-systémy-v-praxi-mi-dsp) | [MI-DSV](#distribuované-systémy-a-výpočty-mi-dsv) | [MI-DSV.16](#distribuované-systémy-a-výpočty-mi-dsv16) | [MI-DZO](#digitální-zpracování-obrazu-mi-dzo)|
+|[MI-EDW.16](#podnikové-datové-sklady-mi-edw16) | [MI-EVY](#efektivní-vyhledávání-v-textech-mi-evy) | [MI-EVY.16](#efektivní-vyhledávání-v-textech-mi-evy16) | [MI-FLP](#funkcionální-a-logické-programování-mi-flp) | [MI-FME](#formální-metody-a-specifikace-mi-fme) | [MI-FME.16](#formální-metody-a-specifikace-mi-fme16)|
+|[MI-FRI](#finanční-řízení-ict-mi-fri) | [MI-GEN](#generování-kódu-mi-gen) | [MI-GLR](#games-and-reinforcement-learning-mi-glr) | [MI-HMI2](#historie-matematiky-a-informatiky-2-mi-hmi2) | [MI-HWB.16](#hardwarová-bezpečnost-mi-hwb16) | [MI-IBE](#informační-bezpečnost-mi-ibe)|
+|[MI-IKM](#-internet-a-klasifikační-metody-mi-ikm) | [MI-IOS](#pokročilé-techniky-v-ios-aplikacích-mi-ios) | [MI-IOT](#internet-of-things-mi-iot) | [MI-KDD](#dobývání-znalostí-z-databází-mi-kdd) | [MI-KOD](#komprese-dat-mi-kod) | [MI-KOD.16](#komprese-dat-mi-kod16)|
+|[MI-KRY](#pokročilá-kryptologie-mi-kry) | [MI-KRY.16](#pokročilá-kryptologie-mi-kry16) | [MI-KYB](#kybernalita-mi-kyb) | [MI-KYB.16](#kybernalita-mi-kyb16) | [MI-KYB_1](#kybernalita-mi-kyb_1) | [MI-LIF](#podnikové-portály-mi-lif)|
+|[MI-LOM](#lineární-optimalizace-a-metody-mi-lom) | [MI-MAI](#multimedia-a-internet-mi-mai) | [MI-MAS](#modelování-a-analýza-systémů-mi-mas) | [MI-MBI.16](#řízení-podnikové-informatiky-mi-mbi16) | [MI-MCS](#vícejádrové-systémy-mi-mcs) | [MI-MDW](#webové-služby-a-middleware-mi-mdw)|
+|[MI-MDW.16](#webové-služby-a-middleware-mi-mdw16) | [MI-MEP](#modelování-ekonomických-procesů-mi-mep) | [MI-MEP.16](#modelování-ekonomických-procesů-mi-mep16) | [MI-MKY](#-mi-mky) | [MI-MKY.16](#matematika-pro-kryptologii-mi-mky16) | [MI-MPC](#moderní-programování-v-c++-mi-mpc)|
+|[MI-MPI](#matematika-pro-informatiku-mi-mpi) | [MI-MPR](#magisterský-projekt,-master-project-mi-mpr) | [MI-MTI](#moderní-technologie-internetu-mi-mti) | [MI-MTI.16](#moderní-technologie-internetu-mi-mti16) | [MI-MVI](#metody-výpočetní-inteligence-mi-mvi) | [MI-MVI.16](#metody-výpočetní-inteligence-mi-mvi16)|
+|[MI-MZI](#matematika-pro-znalostní-inženýrství-mi-mzi) | [MI-NFA](#návrh-obvodů-technologií-fpga-a-asic-mi-nfa) | [MI-NFA.16](#návrh-obvodů-technologií-fpga-a-asic-mi-nfa16) | [MI-NON](#nelineární-optimalizace-a-numerické-metody-mi-non) | [MI-NON.16](#nelineární-optimalizace-a-numerické-metody-mi-non16) | [MI-NSS.16](#normalized-software-systems-mi-nss16)|
+|[MI-NUR](#návrh-uživatelského-rozhraní-mi-nur) | [MI-NUR.16](#návrh-uživatelského-rozhraní-mi-nur16) | [MI-PAA](#problémy-a-algoritmy-mi-paa) | [MI-PAL](#pokročilá-algoritmizace-mi-pal) | [MI-PAM](#efektivni-předzpracování-a-parametrizované-algoritmy-mi-pam) | [MI-PAP](#paralelní-architektury-počítačů-mi-pap)|
+|[MI-PAP.16](#paralelní-architektury-počítačů-mi-pap16) | [MI-PAR](#paralelní-algoritmy-a-systémy-mi-par) | [MI-PAR_1](#paralelní-algoritmy-a-systémy-mi-par_1) | [MI-PCM.16](#projektové-a-změnové-řízení-mi-pcm16) | [MI-PDB](#pokročilé-databázové-systémy-mi-pdb) | [MI-PDB.16](#pokročilé-databázové-systémy-mi-pdb16)|
+|[MI-PDD](#předzpracování-dat-mi-pdd) | [MI-PDD.16](#předzpracování-dat-mi-pdd16) | [MI-PDP.16](#paralelní-a-distribuované-programování-mi-pdp16) | [MI-PIS](#pokročilé-informační-systémy-mi-pis) | [MI-PIS.16](#pokročilé-informační-systémy-mi-pis16) | [MI-POA](#pokročilé-architektury-počítačových-systémů-mi-poa)|
+|[MI-POA.16](#pokročilé-architektury-počítačových-systémů-mi-poa16) | [MI-PRC](#programování-v-cuda-mi-prc) | [MI-PRM](#projektové-manažerství-mi-prm) | [MI-PSL](#programování-v-jazyku-scala-mi-psl) | [MI-PVS](#pokročilé-vestavné-systémy-mi-pvs) | [MI-PYT](#pokročilý-python-mi-pyt)|
+|[MI-REV.16](#reverzní-inženýrství-mi-rev16) | [MI-RIC](#řízení-podnikové-informatiky-mi-ric) | [MI-ROZ](#rozpoznávaní-mi-roz) | [MI-ROZ.16](#rozpoznávaní-mi-roz16) | [MI-RRI](#řízení-rizik-v-informatice-mi-rri) | [MI-RTS](#real-time-systémy-mi-rts)|
+|[MI-RUB](#programování-v-ruby-mi-rub) | [MI-RUN](#runtime-systémy-mi-run) | [MI-RUN.16](#runtime-systémy-mi-run16) | [MI-SAS](#it-v-době-saas-mi-sas) | [MI-SCA](#mikroprocesory-vestavěné-do-čipových-karet,-efektivní-implementace-a-útoky-postranními-kanály-mi-sca) | [MI-SEP](#světová-ekonomika-a-podníkání-ii-mi-sep)|
+|[MI-SIB](#síťová-bezpečnost-mi-sib) | [MI-SIB.16](#síťová-bezpečnost-mi-sib16) | [MI-SIM](#simulace-číslicových-obvodů-mi-sim) | [MI-SIM.16](#simulace-číslicových-obvodů-mi-sim16) | [MI-SIN](#integrace-v-informačních-systémech-mi-sin) | [MI-SMI.16](#strategické-řízení-informatiky-mi-smi16)|
+|[MI-SOC](#systémy-na-čipu-mi-soc) | [MI-SOC.16](#systémy-na-čipu-mi-soc16) | [MI-SPI](#statistika-pro-informatiku-mi-spi) | [MI-SPI.16](#statistika-pro-informatiku-mi-spi16) | [MI-SPI_1](#statistika-pro-informatiku-mi-spi_1) | [MI-SWE](#semantický-web-mi-swe)|
+|[MI-SWE.16](#semantický-web-mi-swe16) | [MI-SYB.16](#systémová-bezpečnost-mi-syb16) | [MI-SYP](#syntaktická-analýza-a-překladače-mi-syp) | [MI-SYP.16](#syntaktická-analýza-a-překladače-mi-syp16) | [MI-TES](#teorie-systémů-mi-tes) | [MI-TES.16](#teorie-systémů-mi-tes16)|
+|[MI-TES.2](#teorie-systémů-mi-tes2) | [MI-TES_1](#teorie-systémů-mi-tes_1) | [MI-TS1](#teoretický-seminář-magisterský-i-mi-ts1) | [MI-TS4](#teoretický-seminář-magisterský-iv-mi-ts4) | [MI-TSP](#testování-a-spolehlivost-mi-tsp) | [MI-TSP.16](#testování-a-spolehlivost-mi-tsp16)|
+|[MI-VMM.16](#vyhledávání-v-multimédiích-mi-vmm16) | [MI-VMW](#vyhledávání-multimediálního-obsahu-na-webu-mi-vmw) | [MI-W20](#web-20-mi-w20) | [MI-W20.16](#web-20-mi-w2016) | [MI=TS4](#teoretický-seminář-iv-mi=ts4)|
 
         
 ## Aritmetika a kódy (MI-AAK)
@@ -46,12 +52,36 @@
 |**Splněno celkem procent**|46%|46%|
 
 
+## Architektonické a návrhové vzory (MI-ADP.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |35/82|
+|**Splněno celkem procent**|43%|
+
+
 ## Případové studie aplikace a řízení IT (MI-AIT)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |63/66|65/70|
-|**Splněno celkem procent**|95%|93%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |63/66|65/70|32/39|
+|**Splněno celkem procent**|95%|93%|82%|
+
+
+## Architektura pocitacovych her (MI-APH)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/47|
+|**Splněno celkem procent**|0%|
+
+
+## Počítačová aritmetika (MI-ARI)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |5/12|
+|**Splněno celkem procent**|42%|
 
 
 ## Automaty ve vyhledávání v textech (MI-AVY)
@@ -94,6 +124,14 @@
 |**Splněno celkem procent**|90%|78%|
 
 
+## Bezpečnost a bezpečné programování (MI-BPR.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |9/22|
+|**Splněno celkem procent**|41%|
+
+
 ## Bezdrátové počítačové sítě (MI-BPS)
 
 |                          |26.06.2010|26.06.2011|26.06.2012|18.06.2017|21.12.2017|
@@ -112,10 +150,10 @@
 
 ## Teorie složitosti (MI-CPX)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |10/15|19/21|
-|**Splněno celkem procent**|67%|90%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |10/15|19/21|0/12|
+|**Splněno celkem procent**|67%|90%|0%|
 
 
 ## Dolování dat z webu (MI-DDW)
@@ -132,6 +170,14 @@
 |--------------------------|--------------------|--------------------|
 |**Splněno celkem**        |61/66|61/66|
 |**Splněno celkem procent**|92%|92%|
+
+
+## Pokročilý .NET a projektivní programování (MI-DNP)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/22|
+|**Splněno celkem procent**|0%|
 
 
 ## Návrhové vzory a OOP (MI-DPO)
@@ -158,6 +204,14 @@
 |**Splněno celkem procent**|74%|81%|
 
 
+## Distribuované systémy a výpočty (MI-DSV.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |2/19|
+|**Splněno celkem procent**|11%|
+
+
 ## Digitální zpracování obrazu (MI-DZO)
 
 |                          |26.06.2010|26.06.2011|26.06.2012|23.06.2017|21.12.2017|
@@ -166,12 +220,28 @@
 |**Splněno celkem procent**|67%|62%|21%|29%|29%|
 
 
+## Podnikové datové sklady (MI-EDW.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/39|
+|**Splněno celkem procent**|0%|
+
+
 ## Efektivní vyhledávání v textech (MI-EVY)
 
 |                          |26.01.2010|26.01.2011|26.01.2012|
 |--------------------------|--------------------|--------------------|--------------------|
 |**Splněno celkem**        |11/13|19/21|14/19|
 |**Splněno celkem procent**|85%|90%|74%|
+
+
+## Efektivní vyhledávání v textech (MI-EVY.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |1/22|
+|**Splněno celkem procent**|5%|
 
 
 ## Funkcionální a logické programování (MI-FLP)
@@ -222,6 +292,14 @@
 |**Splněno celkem procent**|18%|18%|
 
 
+## Historie matematiky a informatiky 2 (MI-HMI2)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/12|
+|**Splněno celkem procent**|0%|
+
+
 ## Hardwarová bezpečnost (MI-HWB.16)
 
 |                          |18.06.2017|21.12.2017|
@@ -232,10 +310,10 @@
 
 ## Informační bezpečnost (MI-IBE)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |193/199|180/188|
-|**Splněno celkem procent**|97%|96%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |193/199|180/188|43/81|
+|**Splněno celkem procent**|97%|96%|53%|
 
 
 ##  Internet a klasifikační metody (MI-IKM)
@@ -294,12 +372,28 @@
 |**Splněno celkem procent**|64%|84%|50%|0%|
 
 
+## Pokročilá kryptologie (MI-KRY.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |13/25|
+|**Splněno celkem procent**|52%|
+
+
 ## Kybernalita (MI-KYB)
 
 |                          |26.01.2010|
 |--------------------------|--------------------|
 |**Splněno celkem**        |201/239|
 |**Splněno celkem procent**|84%|
+
+
+## Kybernalita (MI-KYB.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |105/127|
+|**Splněno celkem procent**|83%|
 
 
 ## Kybernalita (MI-KYB_1)
@@ -352,10 +446,10 @@
 
 ## Vícejádrové systémy (MI-MCS)
 
-|                          |26.01.2012|
-|--------------------------|--------------------|
-|**Splněno celkem**        |5/12|
-|**Splněno celkem procent**|42%|
+|                          |26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |5/12|12/15|
+|**Splněno celkem procent**|42%|80%|
 
 
 ## Webové služby a middleware (MI-MDW)
@@ -366,12 +460,28 @@
 |**Splněno celkem procent**|66%|89%|75%|
 
 
+## Webové služby a middleware (MI-MDW.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |7/111|
+|**Splněno celkem procent**|6%|
+
+
 ## Modelování ekonomických procesů (MI-MEP)
 
 |                          |26.01.2011|26.01.2012|
 |--------------------------|--------------------|--------------------|
 |**Splněno celkem**        |19/24|31/36|
 |**Splněno celkem procent**|79%|86%|
+
+
+## Modelování ekonomických procesů (MI-MEP.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/29|
+|**Splněno celkem procent**|0%|
 
 
 ##  (MI-MKY)
@@ -390,12 +500,20 @@
 |**Splněno celkem procent**|42%|42%|
 
 
+## Moderní programování v C++ (MI-MPC)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/90|
+|**Splněno celkem procent**|0%|
+
+
 ## Matematika pro informatiku (MI-MPI)
 
-|                          |26.06.2010|26.06.2011|26.01.2012|26.06.2012|
-|--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |175/193|170/197|155/201|4/4|
-|**Splněno celkem procent**|91%|86%|77%|100%|
+|                          |26.06.2010|26.06.2011|26.01.2012|26.06.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |175/193|170/197|155/201|4/4|0/198|
+|**Splněno celkem procent**|91%|86%|77%|100%|0%|
 
 
 ## Magisterský projekt, Master Project (MI-MPR)
@@ -414,6 +532,14 @@
 |**Splněno celkem procent**|79%|90%|82%|
 
 
+## Moderní technologie Internetu (MI-MTI.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/54|
+|**Splněno celkem procent**|0%|
+
+
 ## Metody výpočetní inteligence (MI-MVI)
 
 |                          |26.01.2011|26.01.2012|
@@ -424,10 +550,10 @@
 
 ## Metody výpočetní inteligence (MI-MVI.16)
 
-|                          |06.07.2017|21.12.2017|
+|                          |06.07.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |17/25|17/25|
-|**Splněno celkem procent**|68%|68%|
+|**Splněno celkem**        |17/25|0/27|
+|**Splněno celkem procent**|68%|0%|
 
 
 ## Matematika pro znalostní inženýrství (MI-MZI)
@@ -446,12 +572,28 @@
 |**Splněno celkem procent**|71%|100%|86%|
 
 
+## Návrh obvodů technologií FPGA a ASIC (MI-NFA.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/8|
+|**Splněno celkem procent**|0%|
+
+
 ## Nelineární optimalizace a numerické metody (MI-NON)
 
 |                          |26.01.2011|26.01.2012|
 |--------------------------|--------------------|--------------------|
 |**Splněno celkem**        |3/6|5/7|
 |**Splněno celkem procent**|50%|71%|
+
+
+## Nelineární optimalizace a numerické metody (MI-NON.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/11|
+|**Splněno celkem procent**|0%|
 
 
 ## Normalized Software Systems (MI-NSS.16)
@@ -470,12 +612,20 @@
 |**Splněno celkem procent**|96%|92%|
 
 
+## Návrh uživatelského rozhraní (MI-NUR.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |47/75|
+|**Splněno celkem procent**|63%|
+
+
 ## Problémy a algoritmy (MI-PAA)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |151/181|142/191|
-|**Splněno celkem procent**|83%|74%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |151/181|142/191|13/193|
+|**Splněno celkem procent**|83%|74%|7%|
 
 
 ## Pokročilá algoritmizace (MI-PAL)
@@ -528,10 +678,10 @@
 
 ## Projektové a změnové řízení (MI-PCM.16)
 
-|                          |18.06.2017|21.12.2017|
+|                          |18.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |50/54|50/54|
-|**Splněno celkem procent**|93%|93%|
+|**Splněno celkem**        |50/54|27/27|
+|**Splněno celkem procent**|93%|100%|
 
 
 ## Pokročilé databázové systémy (MI-PDB)
@@ -542,12 +692,28 @@
 |**Splněno celkem procent**|97%|93%|86%|
 
 
+## Pokročilé databázové systémy (MI-PDB.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |64/108|
+|**Splněno celkem procent**|59%|
+
+
 ## Předzpracování dat (MI-PDD)
 
 |                          |26.01.2010|26.01.2011|26.01.2012|
 |--------------------------|--------------------|--------------------|--------------------|
 |**Splněno celkem**        |7/10|14/21|10/23|
 |**Splněno celkem procent**|70%|67%|43%|
+
+
+## Předzpracování dat (MI-PDD.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/36|
+|**Splněno celkem procent**|0%|
 
 
 ## Paralelní a distribuované programování (MI-PDP.16)
@@ -592,10 +758,10 @@
 
 ## Programování v CUDA (MI-PRC)
 
-|                          |26.06.2011|26.06.2012|18.06.2017|21.12.2017|
+|                          |26.06.2011|26.06.2012|18.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |13/17|11/15|11/19|11/19|
-|**Splněno celkem procent**|76%|73%|58%|58%|
+|**Splněno celkem**        |13/17|11/15|11/19|10/15|
+|**Splněno celkem procent**|76%|73%|58%|67%|
 
 
 ## Projektové manažerství (MI-PRM)
@@ -614,6 +780,30 @@
 |**Splněno celkem procent**|64%|40%|60%|60%|
 
 
+## Pokročilé vestavné systémy (MI-PVS)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/8|
+|**Splněno celkem procent**|0%|
+
+
+## Pokročilý Python (MI-PYT)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/44|
+|**Splněno celkem procent**|0%|
+
+
+## Reverzní inženýrství (MI-REV.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |9/45|
+|**Splněno celkem procent**|20%|
+
+
 ## Řízení podnikové informatiky (MI-RIC)
 
 |                          |26.06.2010|26.06.2011|26.01.2012|26.06.2012|
@@ -628,6 +818,14 @@
 |--------------------------|--------------------|--------------------|--------------------|
 |**Splněno celkem**        |6/11|9/18|8/22|
 |**Splněno celkem procent**|55%|50%|36%|
+
+
+## Rozpoznávaní (MI-ROZ.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/10|
+|**Splněno celkem procent**|0%|
 
 
 ## Řízení rizik v informatice (MI-RRI)
@@ -648,10 +846,10 @@
 
 ## Programování v Ruby (MI-RUB)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |36/51|44/67|
-|**Splněno celkem procent**|71%|66%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |36/51|44/67|0/48|
+|**Splněno celkem procent**|71%|66%|0%|
 
 
 ## Runtime systémy (MI-RUN)
@@ -660,6 +858,14 @@
 |--------------------------|--------------------|--------------------|
 |**Splněno celkem**        |33/95|54/75|
 |**Splněno celkem procent**|35%|72%|
+
+
+## Runtime systémy (MI-RUN.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/23|
+|**Splněno celkem procent**|0%|
 
 
 ## IT v době SaaS (MI-SAS)
@@ -678,12 +884,28 @@
 |**Splněno celkem procent**|100%|
 
 
+## Světová ekonomika a podníkání II. (MI-SEP)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/23|
+|**Splněno celkem procent**|0%|
+
+
 ## Síťová bezpečnost (MI-SIB)
 
 |                          |26.01.2011|26.01.2012|
 |--------------------------|--------------------|--------------------|
 |**Splněno celkem**        |45/50|22/35|
 |**Splněno celkem procent**|90%|63%|
+
+
+## Síťová bezpečnost (MI-SIB.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |18/41|
+|**Splněno celkem procent**|44%|
 
 
 ## Simulace číslicových obvodů (MI-SIM)
@@ -694,6 +916,14 @@
 |**Splněno celkem procent**|20%|75%|100%|
 
 
+## Simulace číslicových obvodů (MI-SIM.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/12|
+|**Splněno celkem procent**|0%|
+
+
 ## Integrace v informačních systémech (MI-SIN)
 
 |                          |26.01.2011|26.06.2011|26.01.2012|26.06.2012|18.06.2017|21.12.2017|
@@ -702,12 +932,28 @@
 |**Splněno celkem procent**|54%|60%|79%|53%|33%|33%|
 
 
+## Strategické řízení informatiky (MI-SMI.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |5/25|
+|**Splněno celkem procent**|20%|
+
+
 ## Systémy na čipu (MI-SOC)
 
 |                          |26.01.2011|26.01.2012|
 |--------------------------|--------------------|--------------------|
 |**Splněno celkem**        |12/12|6/6|
 |**Splněno celkem procent**|100%|100%|
+
+
+## Systémy na čipu (MI-SOC.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/9|
+|**Splněno celkem procent**|0%|
 
 
 ## Statistika pro informatiku (MI-SPI)
@@ -742,6 +988,14 @@
 |**Splněno celkem procent**|86%|68%|
 
 
+## Semantický web (MI-SWE.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/31|
+|**Splněno celkem procent**|0%|
+
+
 ## Systémová bezpečnost (MI-SYB.16)
 
 |                          |18.06.2017|21.12.2017|
@@ -758,12 +1012,28 @@
 |**Splněno celkem procent**|73%|86%|82%|
 
 
+## Syntaktická analýza a překladače (MI-SYP.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |6/19|
+|**Splněno celkem procent**|32%|
+
+
 ## Teorie systémů (MI-TES)
 
 |                          |26.01.2010|
 |--------------------------|--------------------|
 |**Splněno celkem**        |196/238|
 |**Splněno celkem procent**|82%|
+
+
+## Teorie systémů (MI-TES.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/31|
+|**Splněno celkem procent**|0%|
 
 
 ## Teorie systémů (MI-TES.2)
@@ -782,6 +1052,14 @@
 |**Splněno celkem procent**|94%|
 
 
+## Teoretický seminář magisterský I (MI-TS1)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |4/11|
+|**Splněno celkem procent**|36%|
+
+
 ## Teoretický seminář magisterský IV (MI-TS4)
 
 |                          |18.06.2017|21.12.2017|
@@ -796,6 +1074,22 @@
 |--------------------------|--------------------|--------------------|
 |**Splněno celkem**        |9/9|5/7|
 |**Splněno celkem procent**|100%|71%|
+
+
+## Testování a spolehlivost (MI-TSP.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |6/13|
+|**Splněno celkem procent**|46%|
+
+
+## Vyhledávání v multimédiích (MI-VMM.16)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/64|
+|**Splněno celkem procent**|0%|
 
 
 ## Vyhledávání multimediálního obsahu na webu (MI-VMW)
@@ -832,4 +1126,4 @@
 
 
 
-*Stav k 09.01.2018 02:00:03*
+*Stav k 10.01.2018 02:00:04*

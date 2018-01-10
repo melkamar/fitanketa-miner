@@ -3,34 +3,39 @@
 
 | | | | | | |
 |-|-|-|-|-|-|
-|[BI-3DT.1](#3d-tisk-bi-3dt1) | [BI-A0L](#anglický-jazyk-0-2-bi-a0l) | [BI-A1L](#anglický-jazyk-1-2-bi-a1l) | [BI-A2L](#angličtina-bi-a2l) | [BI-A2Z](#angličtina-bi-a2z) | [BI-AAG](#automaty-a-gramatiky-bi-aag)|
-|[BI-ACM](#programovací-praktika-bi-acm) | [BI-ACM2](#programovací-praktika-bi-acm2) | [BI-ADS](#administrace-sítí-bi-ads) | [BI-ADU](#administrace-os-unix-bi-adu) | [BI-ADU.1](#administrace-os-unix-bi-adu1) | [BI-ADW](#administrace-os-windows-bi-adw)|
-|[BI-AG2](#algoritmy-a-grafy-2-bi-ag2) | [BI-ALO](#algebra-a-logika-bi-alo) | [BI-AND](#programování-pro-operační-systém-android-bi-and) | [BI-ANG](#zkouška-z-angličtiny-bi-ang) | [BI-ANG1](#zkouška-z-angličtiny-bez-přípravných-kurzů-bi-ang1) | [BI-APJ](#aplikační-programování-v-javě-bi-apj)|
-|[BI-APS](#architektury-počítačových-systémů-bi-aps) | [BI-ARD](#interaktivní-aplikace-s-arduinem-bi-ard) | [BI-AWD](#administrace-webového-a-db-serveru-bi-awd) | [BI-BAP](#bakalářská-práce-bi-bap) | [BI-BEK](#bezpečný-kód-bi-bek) | [BI-BEZ](#bezpečnost-bi-bez)|
-|[BI-CAO](#číslicové-a-analogové-obvody-bi-cao) | [BI-CS1](#programování-v-c#-bi-cs1) | [BI-CS3](#jazyk-c#---tvorba-webových-aplikací-bi-cs3) | [BI-DAN](#daně-pro-neekonomy-bi-dan) | [BI-DBS](#databázové-systémy-bi-dbs) | [BI-DNP](#programování-v-net-bi-dnp)|
-|[BI-EFA](#efektivní-algoritmy-bi-efa) | [BI-EHA](#etické-hackování,-ethical-hacking-bi-eha) | [BI-EIA](#efektivní-implementace-algoritmů-bi-eia) | [BI-EJA](#enterprise-java-bi-eja) | [BI-EKP](#ekonomika-podniku-bi-ekp) | [BI-EMP](#ekonomické-a-manažerské-principy-bi-emp)|
-|[BI-EP1](#efektivní-programování-1-bi-ep1) | [BI-EP2](#efektivní-programování-2-bi-ep2) | [BI-EPD](#ekonomika-podnikání-bi-epd) | [BI-FIP](#účetnictví-a-finance-podniku-bi-fip) | [BI-GIT](#systém-pro-správu-verzí-git-bi-git) | [BI-GRA](#grafové-algoritmy-a-základy-teorie-složitosti-bi-gra)|
-|[BI-HMI](#historie-matematiky-a-informatiky-bi-hmi) | [BI-IOS](#základy-vývoje-ios-aplikací-pro-iphone-a-ipad-bi-ios) | [BI-JPO](#jednotky-počítače-bi-jpo) | [BI-LIN](#lineární-algebra-bi-lin) | [BI-LTK](#tělovýchovný-kurz-letní-bi-ltk) | [BI-LTK2](#tělovýchovný-kurz-letní-ii-bi-ltk2)|
-|[BI-MEK](#makroekonomické-souvislosti-domací-a-světové-ekonomiky-bi-mek) | [BI-MGA](#multimediální-a-grafické-aplikace-bi-mga) | [BI-MIK](#základy-mikroekonomie-bi-mik) | [BI-MLO](#matematická-logika-bi-mlo) | [BI-MMP](#multimediální-týmový-projekt-bi-mmp) | [BI-MPP](#metody-připojování-periferií-bi-mpp)|
-|[BI-OMO](#objektové-modelování-bi-omo) | [BI-OPJ](#objektové-programování-v-javě-bi-opj) | [BI-OSY](#operační-systémy-bi-osy) | [BI-PA1](#programování-a-algoritmizace-1-bi-pa1) | [BI-PA2](#programování-a-algoritmizace-2-bi-pa2) | [BI-PAI](#právo-a-informatika-bi-pai)|
-|[BI-PCS](#jazyk-c#---přístup-k-datům-bi-pcs) | [BI-PGR](#počítačová-grafika-bi-pgr) | [BI-PGR.1](#počítačová-grafika-bi-pgr1) | [BI-PHP](#programování-v-php-bi-php) | [BI-PJP](#programovací-jazyky-a-překladače-bi-pjp) | [BI-PJS](#programování-v-jazyku-javascript-bi-pjs)|
-|[BI-PJS.1](#programování-v-jazyku-javascript-bi-pjs1) | [BI-PJV](#programování-v-javě-bi-pjv) | [BI-PMA](#programování-v-mathematica-bi-pma) | [BI-PNO](#praktika-v-návrhu-číslicových-obvodů-bi-pno) | [BI-PPR](#projekt,-prezentace-a-rétorika-bi-ppr) | [BI-PRP](#právo-a-podnikání-bi-prp)|
-|[BI-PRR](#projektové-řízení-bi-prr) | [BI-PS2](#programování-v-shellu-2-bi-ps2) | [BI-PSI](#počítačové-sítě-bi-psi) | [BI-PST](#pravděpodobnost-a-statistika-bi-pst) | [BI-PWT](#podnikové-webové-technologie-bi-pwt) | [BI-PYT](#programování-v-pythonu-bi-pyt)|
-|[BI-SAP](#struktura-a-architektura-počítačů-bi-sap) | [BI-SEP](#světová-ekonomika-a-podnikání-i-bi-sep) | [BI-SI1](#softwarové-inženýrství-i-bi-si1) | [BI-SI1.2](#softwarové-inženýrství-i-bi-si12) | [BI-SI2](#softwarové-inženýrství-2-bi-si2) | [BI-SKJ](#skriptovací-jazyky-bi-skj)|
-|[BI-SP1](#softwarový-týmový-projekt-1-bi-sp1) | [BI-SP2](#softwarový-týmový-projekt-2-bi-sp2) | [BI-SQL](#jazyk-sql-bi-sql) | [BI-SRC](#systémy-reálného-času-bi-src) | [BI-ST2](#síťové-technologie-2-bi-st2) | [BI-ST4](#síťové-technologie-4-bi-st4)|
-|[BI-TED](#tvorba-elektronické-dokumentace-bi-ted) | [BI-TEX](#typografie-a-tex-bi-tex) | [BI-TIS](#tvorba-informačních-systémů-bi-tis) | [BI-TS4](#teoretický-seminář-iv-bi-ts4) | [BI-TUR](#tvorba-uživatelského-rozhraní-bi-tur) | [BI-TWA](#tvorba-webových-aplikací-bi-twa)|
+|[BI-3DT.1](#3d-tisk-bi-3dt1) | [BI-A0L](#anglický-jazyk-0-2-bi-a0l) | [BI-A0Z](#anglický-jazyk-0-1-bi-a0z) | [BI-A1L](#anglický-jazyk-1-2-bi-a1l) | [BI-A1Z](#anglický-jazyk-1-1-bi-a1z) | [BI-A2L](#angličtina-bi-a2l)|
+|[BI-A2Z](#anglický-jazyk-2-1-bi-a2z) | [BI-AAG](#automaty-a-gramatiky-bi-aag) | [BI-ACM](#programovací-praktika-bi-acm) | [BI-ACM2](#programovací-praktika-bi-acm2) | [BI-ACM3](#programovací-praktika-bi-acm3) | [BI-ADS](#administrace-sítí-bi-ads)|
+|[BI-ADU](#administrace-os-unix-bi-adu) | [BI-ADU.1](#administrace-os-unix-bi-adu1) | [BI-ADW](#administrace-os-windows-bi-adw) | [BI-ADW.1](#administrace-os-windows-bi-adw1) | [BI-AG1](#algoritmy-a-grafy-1-bi-ag1) | [BI-AG2](#algoritmy-a-grafy-2-bi-ag2)|
+|[BI-ALO](#algebra-a-logika-bi-alo) | [BI-AND](#programování-pro-operační-systém-android-bi-and) | [BI-ANG](#zkouška-z-angličtiny-bi-ang) | [BI-ANG1](#zkouška-z-angličtiny-bez-přípravných-kurzů-bi-ang1) | [BI-APJ](#aplikační-programování-v-javě-bi-apj) | [BI-APS](#architektury-počítačových-systémů-bi-aps)|
+|[BI-APS.1](#architektury-počítačových-systémů-bi-aps1) | [BI-ARD](#interaktivní-aplikace-s-arduinem-bi-ard) | [BI-AWD](#administrace-webového-a-db-serveru-bi-awd) | [BI-BAP](#bakalářská-práce-bi-bap) | [BI-BEK](#bezpečný-kód-bi-bek) | [BI-BEZ](#bezpečnost-bi-bez)|
+|[BI-BIG](#db-technologie-pro-big-data-bi-big) | [BI-BPR](#bakalářský-projekt-bi-bpr) | [BI-CAO](#číslicové-a-analogové-obvody-bi-cao) | [BI-CS1](#programování-v-c#-bi-cs1) | [BI-CS2](#jazyk-c#---přístup-k-datům-bi-cs2) | [BI-CS3](#jazyk-c#---tvorba-webových-aplikací-bi-cs3)|
+|[BI-DAN](#daně-pro-neekonomy-bi-dan) | [BI-DBS](#databázové-systémy-bi-dbs) | [BI-DNP](#programování-v-net-bi-dnp) | [BI-DPR](#dokumentace,-prezentace,-rétorika-bi-dpr) | [BI-EFA](#efektivní-algoritmy-bi-efa) | [BI-EHA](#etické-hackování,-ethical-hacking-bi-eha)|
+|[BI-EHD](#úvod-do-evropských-hospodářských-dějin-bi-ehd) | [BI-EIA](#efektivní-implementace-algoritmů-bi-eia) | [BI-EJA](#enterprise-java-bi-eja) | [BI-EKP](#ekonomika-podniku-bi-ekp) | [BI-EMP](#ekonomické-a-manažerské-principy-bi-emp) | [BI-EP1](#efektivní-programování-1-bi-ep1)|
+|[BI-EP2](#efektivní-programování-2-bi-ep2) | [BI-EPD](#ekonomika-podnikání-bi-epd) | [BI-FIP](#účetnictví-a-finance-podniku-bi-fip) | [BI-FMU](#finanční-a-manažerské-účetnictví-bi-fmu) | [BI-GIT](#systém-pro-správu-verzí-git-bi-git) | [BI-GRA](#grafové-algoritmy-a-základy-teorie-složitosti-bi-gra)|
+|[BI-HMI](#historie-matematiky-a-informatiky-bi-hmi) | [BI-HWB](#hardwarová-bezpečnost-bi-hwb) | [BI-IOS](#základy-vývoje-ios-aplikací-pro-iphone-a-ipad-bi-ios) | [BI-JPO](#jednotky-počítače-bi-jpo) | [BI-KOM](#konceptuální-modelování-bi-kom) | [BI-LIN](#lineární-algebra-bi-lin)|
+|[BI-LTK](#tělovýchovný-kurz-letní-bi-ltk) | [BI-LTK2](#tělovýchovný-kurz-letní-ii-bi-ltk2) | [BI-MEK](#makroekonomické-souvislosti-domací-a-světové-ekonomiky-bi-mek) | [BI-MGA](#multimediální-a-grafické-aplikace-bi-mga) | [BI-MIK](#základy-mikroekonomie-bi-mik) | [BI-MLO](#matematická-logika-bi-mlo)|
+|[BI-MMP](#multimediální-týmový-projekt-bi-mmp) | [BI-MPP](#metody-připojování-periferií-bi-mpp) | [BI-OMO](#objektové-modelování-bi-omo) | [BI-OOP](#object-oriented-programming-bi-oop) | [BI-OPJ](#objektové-programování-v-javě-bi-opj) | [BI-OSY](#operační-systémy-bi-osy)|
+|[BI-PA1](#programování-a-algoritmizace-1-bi-pa1) | [BI-PA2](#programování-a-algoritmizace-2-bi-pa2) | [BI-PAI](#právo-a-informatika-bi-pai) | [BI-PCS](#jazyk-c#---přístup-k-datům-bi-pcs) | [BI-PGA](#programování-grafických-aplikací-bi-pga) | [BI-PGR](#počítačová-grafika-bi-pgr)|
+|[BI-PGR.1](#počítačová-grafika-bi-pgr1) | [BI-PHP](#programování-v-php-bi-php) | [BI-PHP.1](#programování-v-php-bi-php1) | [BI-PJP](#programovací-jazyky-a-překladače-bi-pjp) | [BI-PJS](#programování-v-jazyku-javascript-bi-pjs) | [BI-PJS.1](#programování-v-jazyku-javascript-bi-pjs1)|
+|[BI-PJV](#programování-v-javě-bi-pjv) | [BI-PMA](#programování-v-mathematica-bi-pma) | [BI-PNO](#praktika-v-návrhu-číslicových-obvodů-bi-pno) | [BI-PPA](#programovací-paradigmata-bi-ppa) | [BI-PPR](#projekt,-prezentace-a-rétorika-bi-ppr) | [BI-PRP](#právo-a-podnikání-bi-prp)|
+|[BI-PRR](#projektové-řízení-bi-prr) | [BI-PS1](#programování-v-shellu-1-bi-ps1) | [BI-PS2](#programování-v-shellu-2-bi-ps2) | [BI-PSI](#počítačové-sítě-bi-psi) | [BI-PST](#pravděpodobnost-a-statistika-bi-pst) | [BI-PWT](#podnikové-webové-technologie-bi-pwt)|
+|[BI-PYT](#programování-v-pythonu-bi-pyt) | [BI-SAP](#struktura-a-architektura-počítačů-bi-sap) | [BI-SEP](#světová-ekonomika-a-podnikání-i-bi-sep) | [BI-SI1](#softwarové-inženýrství-i-bi-si1) | [BI-SI1.2](#softwarové-inženýrství-i-bi-si12) | [BI-SI2](#softwarové-inženýrství-2-bi-si2)|
+|[BI-SI2.3](#softwarové-inženýrství-2-bi-si23) | [BI-SKJ](#skriptovací-jazyky-bi-skj) | [BI-SM](#shell-minimum-bi-sm) | [BI-SP1](#softwarový-týmový-projekt-1-bi-sp1) | [BI-SP2](#softwarový-týmový-projekt-2-bi-sp2) | [BI-SP2.1](#softwarový-týmový-projekt-2-bi-sp21)|
+|[BI-SQL](#jazyk-sql-bi-sql) | [BI-SRC](#systémy-reálného-času-bi-src) | [BI-SSB](#systémová-a-síťová-bezpečnost-bi-ssb) | [BI-ST1](#síťové-technologie-1-bi-st1) | [BI-ST2](#síťové-technologie-2-bi-st2) | [BI-ST3](#síťové-technologie-3-bi-st3)|
+|[BI-ST4](#síťové-technologie-4-bi-st4) | [BI-STO](#datová-úložiště-a-systémy-souborů-bi-sto) | [BI-TED](#tvorba-elektronické-dokumentace-bi-ted) | [BI-TEX](#typografie-a-tex-bi-tex) | [BI-TIS](#tvorba-informačních-systémů-bi-tis) | [BI-TJV](#technologie-java-bi-tjv)|
+|[BI-TS1](#teoretický-seminář-i-bi-ts1) | [BI-TS4](#teoretický-seminář-iv-bi-ts4) | [BI-TUR](#tvorba-uživatelského-rozhraní-bi-tur) | [BI-TWA](#tvorba-webových-aplikací-bi-twa) | [BI-TWA.1](#tvorba-webových-aplikací-bi-twa1) | [BI-ULI](#úvod-do-linuxu-bi-uli)|
 |[BI-UOS](#úvod-do-operačních-systémů-bi-uos) | [BI-VES](#vestavné-systémy-bi-ves) | [BI-VMM](#vybrané-matematické-metody-bi-vmm) | [BI-VWM](#vyhledávání-na-webu-a-v-multimed-db-bi-vwm) | [BI-VZD](#vytěžování-znalostí-z-dat-bi-vzd) | [BI-WMM](#web-a-multimédia-bi-wmm)|
-|[BI-WT1](#webové-technologie-i-bi-wt1) | [BI-WT2](#webové--technologie-2-bi-wt2) | [BI-XML](#technologie-xml-bi-xml) | [BI-ZDM](#základy-diskrétní-matematiky-bi-zdm) | [BI-ZMA](#základy-matematické-analýzy-bi-zma) | [BI-ZNF](#základy-programování-v-nette-bi-znf)|
-|[BI-ZPI](#základy-procesního-inženýrství-bi-zpi) | [BI-ZRS](#základy-řízení-systému-bi-zrs) | [BI-ZSI](#základy-softwarového-inženýrství-bi-zsi) | [BI-ZTK](#tělovýchovný-kurz-zimní-bi-ztk) | [BI-ZTK2](#tělovýchovný-kurz-zimní-ii-bi-ztk2) | [BI-ZUM](#základy-umělé-inteligence-bi-zum)|
-|[BI-ZWU](#základy-webu-a-uživatelská-rozhraní-bi-zwu)|
+|[BI-WT1](#webové-technologie-i-bi-wt1) | [BI-WT2](#webové--technologie-2-bi-wt2) | [BI-XML](#technologie-xml-bi-xml) | [BI-ZDM](#základy-diskrétní-matematiky-bi-zdm) | [BI-ZIVS](#základy-inteligentních-vestavných-systémů-bi-zivs) | [BI-ZMA](#základy-matematické-analýzy-bi-zma)|
+|[BI-ZNF](#základy-programování-v-nette-bi-znf) | [BI-ZNS](#znalostní-systémy-bi-zns) | [BI-ZPI](#základy-procesního-inženýrství-bi-zpi) | [BI-ZRS](#základy-řízení-systému-bi-zrs) | [BI-ZSI](#základy-softwarového-inženýrství-bi-zsi) | [BI-ZTK](#tělovýchovný-kurz-zimní-bi-ztk)|
+|[BI-ZTK2](#tělovýchovný-kurz-zimní-ii-bi-ztk2) | [BI-ZUM](#základy-umělé-inteligence-bi-zum) | [BI-ZWU](#základy-webu-a-uživatelská-rozhraní-bi-zwu)|
 
         
 ## 3D Tisk (BI-3DT.1)
 
-|                          |27.09.2017|21.12.2017|
+|                          |27.09.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |14/23|14/23|
-|**Splněno celkem procent**|61%|61%|
+|**Splněno celkem**        |14/23|9/67|
+|**Splněno celkem procent**|61%|13%|
 
 
 ## Angličtina (BI-A0L)
@@ -41,6 +46,14 @@
 |**Splněno celkem procent**|90%|50%|50%|
 
 
+## Anglický jazyk 0-1 (BI-A0Z)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/5|
+|**Splněno celkem procent**|0%|
+
+
 ## Angličtina (BI-A1L)
 
 |                          |26.06.2012|18.06.2017|21.12.2017|
@@ -49,28 +62,36 @@
 |**Splněno celkem procent**|71%|65%|65%|
 
 
+## Anglický jazyk 1-1 (BI-A1Z)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/6|
+|**Splněno celkem procent**|0%|
+
+
 ## Angličtina (BI-A2L)
 
-|                          |26.01.2009|26.06.2010|26.01.2011|26.06.2011|26.06.2012|09.09.2017|21.12.2017|
+|                          |26.01.2009|26.06.2010|26.01.2011|26.06.2011|26.06.2012|09.09.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |36/67|114/148|17/28|173/232|101/131|95/104|95/104|
-|**Splněno celkem procent**|54%|77%|61%|75%|77%|91%|91%|
+|**Splněno celkem**        |36/67|114/148|17/28|173/232|101/131|95/104|37/36|
+|**Splněno celkem procent**|54%|77%|61%|75%|77%|91%|103%|
 
 
 ## Angličtina (BI-A2Z)
 
-|                          |26.01.2012|
-|--------------------------|--------------------|
-|**Splněno celkem**        |267/422|
-|**Splněno celkem procent**|63%|
+|                          |26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |267/422|0/48|
+|**Splněno celkem procent**|63%|0%|
 
 
 ## Automaty a gramatiky (BI-AAG)
 
-|                          |26.01.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |179/255|282/419|250/451|
-|**Splněno celkem procent**|70%|67%|55%|
+|                          |26.01.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |179/255|282/419|250/451|0/430|
+|**Splněno celkem procent**|70%|67%|55%|0%|
 
 
 ## Programovací praktika (BI-ACM)
@@ -89,12 +110,20 @@
 |**Splněno celkem procent**|97%|97%|
 
 
+## Programovací praktika (BI-ACM3)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |31/44|
+|**Splněno celkem procent**|70%|
+
+
 ## Administrace sítí (BI-ADS)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |46/54|71/90|
-|**Splněno celkem procent**|85%|79%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |46/54|71/90|4/7|
+|**Splněno celkem procent**|85%|79%|57%|
 
 
 ## Administrace OS Unix (BI-ADU)
@@ -119,6 +148,22 @@
 |--------------------------|--------------------|--------------------|--------------------|
 |**Splněno celkem**        |46/49|111/121|129/148|
 |**Splněno celkem procent**|94%|92%|87%|
+
+
+## Administrace OS Windows (BI-ADW.1)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |21/96|
+|**Splněno celkem procent**|22%|
+
+
+## Algoritmy a grafy 1 (BI-AG1)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/419|
+|**Splněno celkem procent**|0%|
 
 
 ## Algoritmy a grafy 2 (BI-AG2)
@@ -147,26 +192,26 @@
 
 ## Zkouška z angličtiny (BI-ANG)
 
-|                          |26.01.2009|26.01.2010|26.06.2010|26.01.2011|26.06.2011|26.01.2012|26.06.2012|09.09.2017|21.12.2017|
+|                          |26.01.2009|26.01.2010|26.06.2010|26.01.2011|26.06.2011|26.01.2012|26.06.2012|09.09.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |40/64|10/15|160/207|54/67|251/355|5/9|86/87|71/72|71/72|
-|**Splněno celkem procent**|62%|67%|77%|81%|71%|56%|99%|99%|99%|
+|**Splněno celkem**        |40/64|10/15|160/207|54/67|251/355|5/9|86/87|71/72|32/35|
+|**Splněno celkem procent**|62%|67%|77%|81%|71%|56%|99%|99%|91%|
 
 
 ## Zkouška z angličtiny bez přípravných kurzů (BI-ANG1)
 
-|                          |26.01.2012|26.06.2012|04.07.2017|21.12.2017|
+|                          |26.01.2012|26.06.2012|04.07.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |30/42|97/129|43/53|43/52|
-|**Splněno celkem procent**|71%|75%|81%|83%|
+|**Splněno celkem**        |30/42|97/129|43/53|7/41|
+|**Splněno celkem procent**|71%|75%|81%|17%|
 
 
 ## Aplikační Programování v Javě (BI-APJ)
 
-|                          |26.01.2010|26.06.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |5/13|3/16|18/36|25/46|
-|**Splněno celkem procent**|38%|19%|50%|54%|
+|                          |26.01.2010|26.06.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |5/13|3/16|18/36|25/46|0/24|
+|**Splněno celkem procent**|38%|19%|50%|54%|0%|
 
 
 ## Architektury počítačových systémů (BI-APS)
@@ -175,6 +220,14 @@
 |--------------------------|--------------------|--------------------|--------------------|
 |**Splněno celkem**        |33/42|90/107|105/139|
 |**Splněno celkem procent**|79%|84%|76%|
+
+
+## Architektury počítačových systémů (BI-APS.1)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |8/137|
+|**Splněno celkem procent**|6%|
 
 
 ## Interaktivní aplikace s Arduinem (BI-ARD)
@@ -217,20 +270,44 @@
 |**Splněno celkem procent**|91%|100%|88%|80%|80%|80%|
 
 
+## DB technologie pro Big Data (BI-BIG)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |40/51|
+|**Splněno celkem procent**|78%|
+
+
+## Bakalářský projekt (BI-BPR)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |28/204|
+|**Splněno celkem procent**|14%|
+
+
 ## Číslicové a analogové obvody (BI-CAO)
 
-|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |252/447|522/616|561/677|589/675|
-|**Splněno celkem procent**|56%|85%|83%|87%|
+|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |252/447|522/616|561/677|589/675|193/689|
+|**Splněno celkem procent**|56%|85%|83%|87%|28%|
 
 
 ## Programování v C# (BI-CS1)
 
-|                          |20.06.2017|21.12.2017|
+|                          |20.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |128/143|128/143|
-|**Splněno celkem procent**|90%|90%|
+|**Splněno celkem**        |128/143|103/121|
+|**Splněno celkem procent**|90%|85%|
+
+
+## Jazyk C# - přístup k datům (BI-CS2)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/52|
+|**Splněno celkem procent**|0%|
 
 
 ## Jazyk C# - tvorba webových aplikací (BI-CS3)
@@ -243,18 +320,18 @@
 
 ## Daně pro neekonomy (BI-DAN)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |44/48|66/71|
-|**Splněno celkem procent**|92%|93%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |44/48|66/71|35/48|
+|**Splněno celkem procent**|92%|93%|73%|
 
 
 ## Databázové systémy (BI-DBS)
 
-|                          |26.01.2010|26.01.2011|26.01.2012|04.07.2017|21.12.2017|
+|                          |26.01.2010|26.01.2011|26.01.2012|04.07.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |188/232|336/406|345/412|354/464|354/464|
-|**Splněno celkem procent**|81%|83%|84%|76%|76%|
+|**Splněno celkem**        |188/232|336/406|345/412|354/464|2/24|
+|**Splněno celkem procent**|81%|83%|84%|76%|8%|
 
 
 ## Programování v .NET (BI-DNP)
@@ -263,6 +340,14 @@
 |--------------------------|--------------------|--------------------|--------------------|
 |**Splněno celkem**        |37/40|145/153|181/196|
 |**Splněno celkem procent**|92%|95%|92%|
+
+
+## Dokumentace, prezentace, rétorika (BI-DPR)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/3|
+|**Splněno celkem procent**|0%|
 
 
 ## Efektivní algoritmy (BI-EFA)
@@ -281,12 +366,20 @@
 |**Splněno celkem procent**|31%|31%|
 
 
+## Úvod do evropských hospodářských dějin (BI-EHD)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/2|
+|**Splněno celkem procent**|0%|
+
+
 ## Efektivní implementace algoritmů (BI-EIA)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |21/24|38/51|
-|**Splněno celkem procent**|88%|75%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |21/24|38/51|15/20|
+|**Splněno celkem procent**|88%|75%|75%|
 
 
 ## Enterprise java (BI-EJA)
@@ -307,18 +400,18 @@
 
 ## Ekonomické a manažerské principy (BI-EMP)
 
-|                          |01.07.2017|21.12.2017|
+|                          |01.07.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |258/305|258/305|
-|**Splněno celkem procent**|85%|85%|
+|**Splněno celkem**        |258/305|0/166|
+|**Splněno celkem procent**|85%|0%|
 
 
 ## Efektivní programování 1 (BI-EP1)
 
-|                          |26.01.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |16/21|41/49|44/48|
-|**Splněno celkem procent**|76%|84%|92%|
+|                          |26.01.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |16/21|41/49|44/48|10/20|
+|**Splněno celkem procent**|76%|84%|92%|50%|
 
 
 ## Efektivní programování 2 (BI-EP2)
@@ -345,12 +438,20 @@
 |**Splněno celkem procent**|92%|86%|100%|73%|73%|
 
 
+## Finanční a manažerské účetnictví (BI-FMU)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/16|
+|**Splněno celkem procent**|0%|
+
+
 ## Systém pro správu verzí Git (BI-GIT)
 
-|                          |23.06.2017|21.12.2017|
+|                          |23.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |58/127|58/127|
-|**Splněno celkem procent**|46%|46%|
+|**Splněno celkem**        |58/127|0/120|
+|**Splněno celkem procent**|46%|0%|
 
 
 ## Grafové algoritmy a základy teorie složitosti (BI-GRA)
@@ -369,20 +470,36 @@
 |**Splněno celkem procent**|48%|48%|
 
 
+## Hardwarová bezpečnost (BI-HWB)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/31|
+|**Splněno celkem procent**|0%|
+
+
 ## Základy vývoje iOS aplikací pro iPhone a iPad (BI-IOS)
 
-|                          |26.01.2012|
-|--------------------------|--------------------|
-|**Splněno celkem**        |15/24|
-|**Splněno celkem procent**|62%|
+|                          |26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |15/24|0/24|
+|**Splněno celkem procent**|62%|0%|
 
 
 ## Jednotky počítače (BI-JPO)
 
-|                          |26.01.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |13/19|17/25|17/28|
-|**Splněno celkem procent**|68%|68%|61%|
+|                          |26.01.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |13/19|17/25|17/28|0/27|
+|**Splněno celkem procent**|68%|68%|61%|0%|
+
+
+## Konceptuální modelování (BI-KOM)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |2/118|
+|**Splněno celkem procent**|2%|
 
 
 ## Lineární algebra (BI-LIN)
@@ -419,50 +536,58 @@
 
 ## Multimediální a grafické aplikace (BI-MGA)
 
-|                          |26.01.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |73/89|99/126|86/97|
-|**Splněno celkem procent**|82%|79%|89%|
+|                          |26.01.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |73/89|99/126|86/97|0/47|
+|**Splněno celkem procent**|82%|79%|89%|0%|
 
 
 ## Základy mikroekonomie (BI-MIK)
 
-|                          |26.01.2012|
-|--------------------------|--------------------|
-|**Splněno celkem**        |16/21|
-|**Splněno celkem procent**|76%|
+|                          |26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |16/21|0/23|
+|**Splněno celkem procent**|76%|0%|
 
 
 ## Matematická logika (BI-MLO)
 
-|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |274/447|501/609|518/680|436/686|
-|**Splněno celkem procent**|61%|82%|76%|64%|
+|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |274/447|501/609|518/680|436/686|0/770|
+|**Splněno celkem procent**|61%|82%|76%|64%|0%|
 
 
 ## Multimediální týmový projekt (BI-MMP)
 
-|                          |18.06.2017|21.12.2017|
+|                          |18.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |5/5|5/5|
+|**Splněno celkem**        |5/5|6/6|
 |**Splněno celkem procent**|100%|100%|
 
 
 ## Metody připojování periferií (BI-MPP)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |29/47|17/39|
-|**Splněno celkem procent**|62%|44%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |29/47|17/39|0/14|
+|**Splněno celkem procent**|62%|44%|0%|
 
 
 ## Objektové modelování (BI-OMO)
 
-|                          |26.01.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |82/102|132/161|189/230|
-|**Splněno celkem procent**|80%|82%|82%|
+|                          |26.01.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |82/102|132/161|189/230|1/3|
+|**Splněno celkem procent**|80%|82%|82%|33%|
+
+
+## Object-Oriented Programming (BI-OOP)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |33/142|
+|**Splněno celkem procent**|23%|
 
 
 ## Objektové programování v Javě (BI-OPJ)
@@ -483,10 +608,10 @@
 
 ## Programování a algoritmizace 1 (BI-PA1)
 
-|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |235/447|319/618|536/751|398/695|
-|**Splněno celkem procent**|53%|52%|71%|57%|
+|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |235/447|319/618|536/751|398/695|103/793|
+|**Splněno celkem procent**|53%|52%|71%|57%|13%|
 
 
 ## Programování a algoritmizace 2 (BI-PA2)
@@ -499,10 +624,10 @@
 
 ## Právo a informatika (BI-PAI)
 
-|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |284/453|532/623|546/673|549/676|
-|**Splněno celkem procent**|63%|85%|81%|81%|
+|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |284/453|532/623|546/673|549/676|0/715|
+|**Splněno celkem procent**|63%|85%|81%|81%|0%|
 
 
 ## Jazyk C# - přístup k datům (BI-PCS)
@@ -513,12 +638,20 @@
 |**Splněno celkem procent**|94%|79%|68%|
 
 
+## Programování grafických aplikací (BI-PGA)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/22|
+|**Splněno celkem procent**|0%|
+
+
 ## Počítačová grafika (BI-PGR)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |35/58|73/104|
-|**Splněno celkem procent**|60%|70%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |35/58|73/104|0/1|
+|**Splněno celkem procent**|60%|70%|0%|
 
 
 ## Počítačová grafika (BI-PGR.1)
@@ -535,6 +668,14 @@
 |--------------------------|--------------------|--------------------|--------------------|
 |**Splněno celkem**        |44/45|134/135|190/192|
 |**Splněno celkem procent**|98%|99%|99%|
+
+
+## Programování v PHP (BI-PHP.1)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/48|
+|**Splněno celkem procent**|0%|
 
 
 ## Programovací jazyky a překladače (BI-PJP)
@@ -563,34 +704,42 @@
 
 ## Programování v Javě (BI-PJV)
 
-|                          |26.01.2009|26.01.2010|26.06.2010|26.06.2011|26.01.2012|26.06.2012|01.07.2017|21.12.2017|
+|                          |26.01.2009|26.01.2010|26.06.2010|26.06.2011|26.01.2012|26.06.2012|01.07.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |40/73|10/32|34/65|137/213|52/96|159/279|58/95|58/95|
-|**Splněno celkem procent**|55%|31%|52%|64%|54%|57%|61%|61%|
+|**Splněno celkem**        |40/73|10/32|34/65|137/213|52/96|159/279|58/95|19/145|
+|**Splněno celkem procent**|55%|31%|52%|64%|54%|57%|61%|13%|
 
 
 ## Programování v Mathematica (BI-PMA)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |11/22|12/26|
-|**Splněno celkem procent**|50%|46%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |11/22|12/26|2/14|
+|**Splněno celkem procent**|50%|46%|14%|
 
 
 ## Praktika v návrhu číslicových obvodů (BI-PNO)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |11/11|16/16|
-|**Splněno celkem procent**|100%|100%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |11/11|16/16|0/15|
+|**Splněno celkem procent**|100%|100%|0%|
+
+
+## Programovací paradigmata (BI-PPA)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/192|
+|**Splněno celkem procent**|0%|
 
 
 ## Projekt, prezentace a rétorika (BI-PPR)
 
-|                          |26.01.2011|26.01.2012|26.06.2012|25.06.2017|21.12.2017|
+|                          |26.01.2011|26.01.2012|26.06.2012|25.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |164/183|255/287|27/31|30/35|30/35|
-|**Splněno celkem procent**|90%|89%|87%|86%|86%|
+|**Splněno celkem**        |164/183|255/287|27/31|30/35|0/61|
+|**Splněno celkem procent**|90%|89%|87%|86%|0%|
 
 
 ## Právo a podnikání (BI-PRP)
@@ -603,10 +752,18 @@
 
 ## Projektové řízení (BI-PRR)
 
-|                          |26.01.2011|26.06.2011|26.01.2012|26.06.2012|
-|--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |62/72|63/70|109/120|69/90|
-|**Splněno celkem procent**|86%|90%|91%|77%|
+|                          |26.01.2011|26.06.2011|26.01.2012|26.06.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |62/72|63/70|109/120|69/90|66/71|
+|**Splněno celkem procent**|86%|90%|91%|77%|93%|
+
+
+## Programování v shellu 1 (BI-PS1)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |315/784|
+|**Splněno celkem procent**|40%|
 
 
 ## Programování v shellu 2 (BI-PS2)
@@ -627,10 +784,10 @@
 
 ## Pravděpodobnost a statistika (BI-PST)
 
-|                          |26.06.2010|26.06.2011|26.06.2012|
-|--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |175/220|303/401|56/84|
-|**Splněno celkem procent**|80%|76%|67%|
+|                          |26.06.2010|26.06.2011|26.06.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |175/220|303/401|56/84|37/291|
+|**Splněno celkem procent**|80%|76%|67%|13%|
 
 
 ## Podnikové webové technologie (BI-PWT)
@@ -643,10 +800,10 @@
 
 ## Programování v Pythonu (BI-PYT)
 
-|                          |26.06.2010|26.06.2011|26.06.2012|22.06.2017|21.12.2017|
+|                          |26.06.2010|26.06.2011|26.06.2012|22.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |26/31|30/53|42/91|46/72|46/72|
-|**Splněno celkem procent**|84%|57%|46%|64%|64%|
+|**Splněno celkem**        |26/31|30/53|42/91|46/72|0/23|
+|**Splněno celkem procent**|84%|57%|46%|64%|0%|
 
 
 ## Struktura a architektura počítačů (BI-SAP)
@@ -675,10 +832,10 @@
 
 ## Softwarové inženýrství I (BI-SI1.2)
 
-|                          |13.07.2017|21.12.2017|
+|                          |13.07.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |177/212|177/212|
-|**Splněno celkem procent**|83%|83%|
+|**Splněno celkem**        |177/212|20/65|
+|**Splněno celkem procent**|83%|31%|
 
 
 ## Softwarové inženýrství 2 (BI-SI2)
@@ -689,12 +846,28 @@
 |**Splněno celkem procent**|95%|95%|
 
 
+## Softwarové inženýrství 2 (BI-SI2.3)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/132|
+|**Splněno celkem procent**|0%|
+
+
 ## Skriptovací jazyky (BI-SKJ)
 
 |                          |26.06.2010|26.06.2011|26.06.2012|
 |--------------------------|--------------------|--------------------|--------------------|
 |**Splněno celkem**        |28/46|33/104|48/114|
 |**Splněno celkem procent**|61%|32%|42%|
+
+
+## Shell Minimum (BI-SM)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/1|
+|**Splněno celkem procent**|0%|
 
 
 ## Softwarový týmový projekt 1 (BI-SP1)
@@ -713,6 +886,14 @@
 |**Splněno celkem procent**|87%|97%|
 
 
+## Softwarový týmový projekt 2 (BI-SP2.1)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |20/117|
+|**Splněno celkem procent**|17%|
+
+
 ## Jazyk SQL (BI-SQL)
 
 |                          |26.06.2010|26.06.2011|26.06.2012|
@@ -723,10 +904,26 @@
 
 ## Systémy reálného času (BI-SRC)
 
-|                          |26.06.2011|26.06.2012|18.06.2017|21.12.2017|
+|                          |26.06.2011|26.06.2012|18.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |17/17|18/22|17/17|17/17|
-|**Splněno celkem procent**|100%|82%|100%|100%|
+|**Splněno celkem**        |17/17|18/22|17/17|0/16|
+|**Splněno celkem procent**|100%|82%|100%|0%|
+
+
+## Systémová a síťová bezpečnost (BI-SSB)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |12/34|
+|**Splněno celkem procent**|35%|
+
+
+## Síťové technologie 1 (BI-ST1)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |38/51|
+|**Splněno celkem procent**|75%|
 
 
 ## Síťové technologie 2 (BI-ST2)
@@ -737,12 +934,28 @@
 |**Splněno celkem procent**|63%|63%|
 
 
+## Síťové technologie 3 (BI-ST3)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |3/9|
+|**Splněno celkem procent**|33%|
+
+
 ## Síťové technologie 4 (BI-ST4)
 
 |                          |21.06.2017|21.12.2017|
 |--------------------------|--------------------|--------------------|
 |**Splněno celkem**        |9/11|9/11|
 |**Splněno celkem procent**|82%|82%|
+
+
+## Datová úložiště a systémy souborů (BI-STO)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/8|
+|**Splněno celkem procent**|0%|
 
 
 ## Tvorba elektronické dokumentace (BI-TED)
@@ -763,10 +976,26 @@
 
 ## Tvorba informačních systémů (BI-TIS)
 
-|                          |26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |92/95|105/115|
-|**Splněno celkem procent**|97%|91%|
+|                          |26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |92/95|105/115|0/47|
+|**Splněno celkem procent**|97%|91%|0%|
+
+
+## Technologie Java (BI-TJV)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |24/202|
+|**Splněno celkem procent**|12%|
+
+
+## Teoretický seminář I (BI-TS1)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |6/7|
+|**Splněno celkem procent**|86%|
 
 
 ## Teoretický seminář 4 (BI-TS4)
@@ -791,6 +1020,22 @@
 |--------------------------|--------------------|
 |**Splněno celkem**        |37/94|
 |**Splněno celkem procent**|39%|
+
+
+## Tvorba webových aplikací (BI-TWA.1)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/36|
+|**Splněno celkem procent**|0%|
+
+
+## Úvod do Linuxu (BI-ULI)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |433/501|
+|**Splněno celkem procent**|86%|
 
 
 ## Úvod do operačních systémů (BI-UOS)
@@ -827,10 +1072,10 @@
 
 ## Vytěžování znalostí z dat (BI-VZD)
 
-|                          |26.06.2011|26.06.2012|01.07.2017|21.12.2017|
+|                          |26.06.2011|26.06.2012|01.07.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |29/45|36/54|51/66|51/66|
-|**Splněno celkem procent**|64%|67%|77%|77%|
+|**Splněno celkem**        |29/45|36/54|51/66|0/96|
+|**Splněno celkem procent**|64%|67%|77%|0%|
 
 
 ## Web a multimédia (BI-WMM)
@@ -859,26 +1104,34 @@
 
 ## Technologie XML (BI-XML)
 
-|                          |26.06.2010|26.06.2011|26.06.2012|01.07.2017|21.12.2017|
+|                          |26.06.2010|26.06.2011|26.06.2012|01.07.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |36/47|23/45|46/85|14/25|14/25|
-|**Splněno celkem procent**|77%|51%|54%|56%|56%|
+|**Splněno celkem**        |36/47|23/45|46/85|14/25|1/40|
+|**Splněno celkem procent**|77%|51%|54%|56%|2%|
 
 
 ## Základy diskrétní matematiky (BI-ZDM)
 
-|                          |26.01.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |201/240|338/404|308/404|
-|**Splněno celkem procent**|84%|84%|76%|
+|                          |26.01.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |201/240|338/404|308/404|22/399|
+|**Splněno celkem procent**|84%|84%|76%|6%|
+
+
+## Základy inteligentních vestavných systémů (BI-ZIVS)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |0/20|
+|**Splněno celkem procent**|0%|
 
 
 ## Základy matematické analýzy (BI-ZMA)
 
-|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|
-|--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |187/417|387/611|454/735|353/749|
-|**Splněno celkem procent**|45%|63%|62%|47%|
+|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|10.01.2018|
+|--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|**Splněno celkem**        |187/417|387/611|454/735|353/749|10/796|
+|**Splněno celkem procent**|45%|63%|62%|47%|1%|
 
 
 ## Základy programování v Nette (BI-ZNF)
@@ -887,6 +1140,14 @@
 |--------------------------|--------------------|--------------------|
 |**Splněno celkem**        |19/36|19/36|
 |**Splněno celkem procent**|53%|53%|
+
+
+## Znalostní systémy (BI-ZNS)
+
+|                          |10.01.2018|
+|--------------------------|--------------------|
+|**Splněno celkem**        |33/94|
+|**Splněno celkem procent**|35%|
 
 
 ## Základy procesního inženýrství (BI-ZPI)
@@ -899,10 +1160,10 @@
 
 ## Základy řízení systému (BI-ZRS)
 
-|                          |26.06.2011|26.06.2012|18.06.2017|21.12.2017|
+|                          |26.06.2011|26.06.2012|18.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |5/7|3/6|6/8|6/8|
-|**Splněno celkem procent**|71%|50%|75%|75%|
+|**Splněno celkem**        |5/7|3/6|6/8|15/16|
+|**Splněno celkem procent**|71%|50%|75%|94%|
 
 
 ## Základy softwarového inženýrství (BI-ZSI)
@@ -947,4 +1208,4 @@
 
 
 
-*Stav k 09.01.2018 02:00:03*
+*Stav k 10.01.2018 02:00:04*

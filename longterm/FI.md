@@ -8,10 +8,10 @@
         
 ## Filosofie (FI-FIL)
 
-|                          |18.06.2017|21.12.2017|
+|                          |18.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |21/46|21/46|
-|**Splněno celkem procent**|46%|46%|
+|**Splněno celkem**        |21/46|0/61|
+|**Splněno celkem procent**|46%|0%|
 
 
 ## Základy gnozeologie (FI-GNO)
@@ -24,26 +24,26 @@
 
 ## Historie techniky a ekonomiky (FI-HTE)
 
-|                          |18.06.2017|21.12.2017|
+|                          |18.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |35/51|35/51|
-|**Splněno celkem procent**|69%|69%|
+|**Splněno celkem**        |35/51|0/44|
+|**Splněno celkem procent**|69%|0%|
 
 
 ## Úvod do kulturní a sociální antropologie (FI-KSA)
 
-|                          |30.06.2017|21.12.2017|
+|                          |30.06.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |64/81|64/81|
-|**Splněno celkem procent**|79%|79%|
+|**Splněno celkem**        |64/81|19/79|
+|**Splněno celkem procent**|79%|24%|
 
 
 ## Manažerská psychologie (FI-MPL)
 
-|                          |21.09.2017|21.12.2017|
+|                          |21.09.2017|10.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |43/60|43/60|
-|**Splněno celkem procent**|72%|72%|
+|**Splněno celkem**        |43/60|0/79|
+|**Splněno celkem procent**|72%|0%|
 
 
 ## Úvod do lingvistiky pro informatiky (FI-ULI)
@@ -56,4 +56,4 @@
 
 
 
-*Stav k 09.01.2018 02:00:03*
+*Stav k 10.01.2018 02:00:04*

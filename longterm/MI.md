@@ -70,10 +70,10 @@
 
 ## Architektura pocitacovych her (MI-APH)
 
-|                          |10.01.2018|
+|                          |11.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/47|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |21/47|
+|**Splněno celkem procent**|45%|
 
 
 ## Počítačová aritmetika (MI-ARI)
@@ -294,10 +294,10 @@
 
 ## Historie matematiky a informatiky 2 (MI-HMI2)
 
-|                          |10.01.2018|
+|                          |11.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/12|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |3/12|
+|**Splněno celkem procent**|25%|
 
 
 ## Hardwarová bezpečnost (MI-HWB.16)
@@ -374,10 +374,10 @@
 
 ## Pokročilá kryptologie (MI-KRY.16)
 
-|                          |10.01.2018|
+|                          |11.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |13/25|
-|**Splněno celkem procent**|52%|
+|**Splněno celkem**        |14/25|
+|**Splněno celkem procent**|56%|
 
 
 ## Kybernalita (MI-KYB)
@@ -550,10 +550,10 @@
 
 ## Metody výpočetní inteligence (MI-MVI.16)
 
-|                          |06.07.2017|10.01.2018|
+|                          |06.07.2017|11.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |17/25|0/27|
-|**Splněno celkem procent**|68%|0%|
+|**Splněno celkem**        |17/25|6/27|
+|**Splněno celkem procent**|68%|22%|
 
 
 ## Matematika pro znalostní inženýrství (MI-MZI)
@@ -758,10 +758,10 @@
 
 ## Programování v CUDA (MI-PRC)
 
-|                          |26.06.2011|26.06.2012|18.06.2017|10.01.2018|
+|                          |26.06.2011|26.06.2012|18.06.2017|11.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |13/17|11/15|11/19|10/15|
-|**Splněno celkem procent**|76%|73%|58%|67%|
+|**Splněno celkem**        |13/17|11/15|11/19|11/15|
+|**Splněno celkem procent**|76%|73%|58%|73%|
 
 
 ## Projektové manažerství (MI-PRM)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 10.01.2018 02:00:04*
+*Stav k 11.01.2018 02:00:05*

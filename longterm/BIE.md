@@ -48,10 +48,10 @@
 
 ## Algorithms and Graphs 1 (BIE-AG1)
 
-|                          |10.01.2018|
+|                          |11.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/17|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/17|
+|**Splněno celkem procent**|6%|
 
 
 ## Algorithms and Graphs 2 (BIE-AG2)
@@ -184,18 +184,18 @@
 
 ## Hardware Security (BIE-HWB)
 
-|                          |10.01.2018|
+|                          |11.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/1|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/1|
+|**Splněno celkem procent**|100%|
 
 
 ## Computer Units (BIE-JPO)
 
-|                          |10.01.2018|
+|                          |11.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/5|
-|**Splněno celkem procent**|40%|
+|**Splněno celkem**        |4/5|
+|**Splněno celkem procent**|80%|
 
 
 ## Linear Algebra (BIE-LIN)
@@ -280,10 +280,10 @@
 
 ## Programming in Shell 1 (BIE-PS1)
 
-|                          |10.01.2018|
+|                          |11.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/47|
-|**Splněno celkem procent**|2%|
+|**Splněno celkem**        |22/47|
+|**Splněno celkem procent**|47%|
 
 
 ## Programming in shell 2 (BIE-PS2)
@@ -304,10 +304,10 @@
 
 ## Probability and Statistics (BIE-PST)
 
-|                          |10.01.2018|
+|                          |11.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |7/13|
-|**Splněno celkem procent**|54%|
+|**Splněno celkem**        |10/13|
+|**Splněno celkem procent**|77%|
 
 
 ## Computer Structures and Architectures (BIE-SAP)
@@ -320,10 +320,10 @@
 
 ## Software Engineering I (BIE-SI1.2)
 
-|                          |30.06.2017|10.01.2018|
+|                          |30.06.2017|11.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |7/19|1/16|
-|**Splněno celkem procent**|37%|6%|
+|**Splněno celkem**        |7/19|2/16|
+|**Splněno celkem procent**|37%|12%|
 
 
 ## Team Software Project 1 (BIE-SP1)
@@ -344,10 +344,10 @@
 
 ## Network Technology 1 (BIE-ST1)
 
-|                          |10.01.2018|
+|                          |11.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |7/13|
-|**Splněno celkem procent**|54%|
+|**Splněno celkem**        |9/13|
+|**Splněno celkem procent**|69%|
 
 
 ## Java Technology (BIE-TJV)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 10.01.2018 02:00:04*
+*Stav k 11.01.2018 02:00:05*

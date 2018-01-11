@@ -287,18 +287,18 @@
 
 ## Softwarové inženýrství I (BIK-SI1.2)
 
-|                          |05.07.2017|10.01.2018|
+|                          |05.07.2017|11.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |7/16|0/5|
-|**Splněno celkem procent**|44%|0%|
+|**Splněno celkem**        |7/16|1/5|
+|**Splněno celkem procent**|44%|20%|
 
 
 ## Softwarové inženýrství 2 (BIK-SI2.3)
 
-|                          |10.01.2018|
+|                          |11.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |6/10|
-|**Splněno celkem procent**|60%|
+|**Splněno celkem**        |7/10|
+|**Splněno celkem procent**|70%|
 
 
 ## Softwarový týmový projekt 1 (BIK-SP1)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 10.01.2018 02:00:04*
+*Stav k 11.01.2018 02:00:05*

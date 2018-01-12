@@ -136,10 +136,10 @@
 
 ## English external certificate (BIE-EEC)
 
-|                          |10.01.2018|
+|                          |12.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/1|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/2|
+|**Splněno celkem procent**|50%|
 
 
 ## Introduction to European Economic History (BIE-EHD)
@@ -280,10 +280,10 @@
 
 ## Programming in Shell 1 (BIE-PS1)
 
-|                          |11.01.2018|
+|                          |12.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |22/47|
-|**Splněno celkem procent**|47%|
+|**Splněno celkem**        |23/47|
+|**Splněno celkem procent**|49%|
 
 
 ## Programming in shell 2 (BIE-PS2)
@@ -368,26 +368,26 @@
 
 ## Data Mining (BIE-VZD)
 
-|                          |18.06.2017|10.01.2018|
+|                          |18.06.2017|12.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |15/23|0/8|
-|**Splněno celkem procent**|65%|0%|
+|**Splněno celkem**        |15/23|6/8|
+|**Splněno celkem procent**|65%|75%|
 
 
 ## Elements of Discrete Mathematics (BIE-ZDM)
 
-|                          |10.01.2018|
+|                          |12.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/13|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |3/13|
+|**Splněno celkem procent**|23%|
 
 
 ## Elements of Calculus (BIE-ZMA)
 
-|                          |10.01.2018|
+|                          |12.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/36|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |3/36|
+|**Splněno celkem procent**|8%|
 
 
 ## Basics of System Control (BIE-ZRS)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 11.01.2018 02:00:05*
+*Stav k 12.01.2018 02:00:04*

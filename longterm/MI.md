@@ -78,10 +78,10 @@
 
 ## Počítačová aritmetika (MI-ARI)
 
-|                          |10.01.2018|
+|                          |12.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |5/12|
-|**Splněno celkem procent**|42%|
+|**Splněno celkem**        |7/12|
+|**Splněno celkem procent**|58%|
 
 
 ## Automaty ve vyhledávání v textech (MI-AVY)
@@ -390,9 +390,9 @@
 
 ## Kybernalita (MI-KYB.16)
 
-|                          |10.01.2018|
+|                          |12.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |105/127|
+|**Splněno celkem**        |106/127|
 |**Splněno celkem procent**|83%|
 
 
@@ -478,10 +478,10 @@
 
 ## Modelování ekonomických procesů (MI-MEP.16)
 
-|                          |10.01.2018|
+|                          |12.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/29|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |4/29|
+|**Splněno celkem procent**|14%|
 
 
 ##  (MI-MKY)
@@ -694,10 +694,10 @@
 
 ## Pokročilé databázové systémy (MI-PDB.16)
 
-|                          |10.01.2018|
+|                          |12.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |64/108|
-|**Splněno celkem procent**|59%|
+|**Splněno celkem**        |88/108|
+|**Splněno celkem procent**|81%|
 
 
 ## Předzpracování dat (MI-PDD)
@@ -902,10 +902,10 @@
 
 ## Síťová bezpečnost (MI-SIB.16)
 
-|                          |10.01.2018|
+|                          |12.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |18/41|
-|**Splněno celkem procent**|44%|
+|**Splněno celkem**        |30/41|
+|**Splněno celkem procent**|73%|
 
 
 ## Simulace číslicových obvodů (MI-SIM)
@@ -1086,10 +1086,10 @@
 
 ## Vyhledávání v multimédiích (MI-VMM.16)
 
-|                          |10.01.2018|
+|                          |12.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/64|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |21/64|
+|**Splněno celkem procent**|33%|
 
 
 ## Vyhledávání multimediálního obsahu na webu (MI-VMW)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 11.01.2018 02:00:05*
+*Stav k 12.01.2018 02:00:04*

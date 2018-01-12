@@ -32,10 +32,10 @@
 
 ## Úvod do kulturní a sociální antropologie (FI-KSA)
 
-|                          |30.06.2017|11.01.2018|
+|                          |30.06.2017|12.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |64/81|26/79|
-|**Splněno celkem procent**|79%|33%|
+|**Splněno celkem**        |64/81|41/79|
+|**Splněno celkem procent**|79%|52%|
 
 
 ## Manažerská psychologie (FI-MPL)
@@ -56,4 +56,4 @@
 
 
 
-*Stav k 11.01.2018 02:00:05*
+*Stav k 12.01.2018 02:00:04*

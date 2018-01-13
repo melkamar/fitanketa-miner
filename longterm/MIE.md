@@ -63,10 +63,10 @@
 
 ## Distributed Systems and Computing (MIE-DSV.16)
 
-|                          |10.01.2018|
+|                          |13.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/18|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/18|
+|**Splněno celkem procent**|6%|
 
 
 ## Efficient Text Pattern Matching (MIE-EVY.16)
@@ -239,10 +239,10 @@
 
 ## Data Preprocessing (MIE-PDD.16)
 
-|                          |10.01.2018|
+|                          |13.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/10|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/10|
+|**Splněno celkem procent**|10%|
 
 
 ## Parallel and Distributed Programming (MIE-PDP.16)
@@ -287,10 +287,10 @@
 
 ## Network Security (MIE-SIB.16)
 
-|                          |10.01.2018|
+|                          |13.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |3/21|
-|**Splněno celkem procent**|14%|
+|**Splněno celkem**        |9/21|
+|**Splněno celkem procent**|43%|
 
 
 ## Digital Circuit Simulation (MIE-SIM.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 12.01.2018 02:00:04*
+*Stav k 13.01.2018 02:00:37*

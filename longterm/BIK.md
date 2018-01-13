@@ -127,10 +127,10 @@
 
 ## Konceptuální modelování (BIK-KOM)
 
-|                          |10.01.2018|
+|                          |13.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/10|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |5/10|
+|**Splněno celkem procent**|50%|
 
 
 ## Úvod do kulturní a sociální antropologie (BIK-KSA)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 12.01.2018 02:00:04*
+*Stav k 13.01.2018 02:00:37*

@@ -104,10 +104,10 @@
 
 ## Bachelor Project (BIE-BPR)
 
-|                          |10.01.2018|
+|                          |13.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/4|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/4|
+|**Splněno celkem procent**|25%|
 
 
 ## Digital and Analog Circuits (BIE-CAO)
@@ -264,10 +264,10 @@
 
 ## Programming in Java (BIE-PJV)
 
-|                          |24.06.2017|10.01.2018|
+|                          |24.06.2017|13.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |7/14|2/5|
-|**Splněno celkem procent**|50%|40%|
+|**Splněno celkem**        |7/14|3/5|
+|**Splněno celkem procent**|50%|60%|
 
 
 ## Programming Paradigms (BIE-PPA)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 12.01.2018 02:00:04*
+*Stav k 13.01.2018 02:00:37*

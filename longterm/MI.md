@@ -54,10 +54,10 @@
 
 ## Architektonické a návrhové vzory (MI-ADP.16)
 
-|                          |10.01.2018|
+|                          |13.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |35/82|
-|**Splněno celkem procent**|43%|
+|**Splněno celkem**        |36/82|
+|**Splněno celkem procent**|44%|
 
 
 ## Případové studie aplikace a řízení IT (MI-AIT)
@@ -206,10 +206,10 @@
 
 ## Distribuované systémy a výpočty (MI-DSV.16)
 
-|                          |10.01.2018|
+|                          |13.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/19|
-|**Splněno celkem procent**|11%|
+|**Splněno celkem**        |6/19|
+|**Splněno celkem procent**|32%|
 
 
 ## Digitální zpracování obrazu (MI-DZO)
@@ -510,10 +510,10 @@
 
 ## Matematika pro informatiku (MI-MPI)
 
-|                          |26.06.2010|26.06.2011|26.01.2012|26.06.2012|10.01.2018|
+|                          |26.06.2010|26.06.2011|26.01.2012|26.06.2012|13.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |175/193|170/197|155/201|4/4|0/198|
-|**Splněno celkem procent**|91%|86%|77%|100%|0%|
+|**Splněno celkem**        |175/193|170/197|155/201|4/4|47/198|
+|**Splněno celkem procent**|91%|86%|77%|100%|24%|
 
 
 ## Magisterský projekt, Master Project (MI-MPR)
@@ -590,10 +590,10 @@
 
 ## Nelineární optimalizace a numerické metody (MI-NON.16)
 
-|                          |10.01.2018|
+|                          |13.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/11|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |7/11|
+|**Splněno celkem procent**|64%|
 
 
 ## Normalized Software Systems (MI-NSS.16)
@@ -822,10 +822,10 @@
 
 ## Rozpoznávaní (MI-ROZ.16)
 
-|                          |10.01.2018|
+|                          |13.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/10|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/10|
+|**Splněno celkem procent**|10%|
 
 
 ## Řízení rizik v informatice (MI-RRI)
@@ -990,10 +990,10 @@
 
 ## Semantický web (MI-SWE.16)
 
-|                          |10.01.2018|
+|                          |13.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/31|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |9/31|
+|**Splněno celkem procent**|29%|
 
 
 ## Systémová bezpečnost (MI-SYB.16)
@@ -1030,10 +1030,10 @@
 
 ## Teorie systémů (MI-TES.16)
 
-|                          |10.01.2018|
+|                          |13.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/31|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |17/31|
+|**Splněno celkem procent**|55%|
 
 
 ## Teorie systémů (MI-TES.2)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 12.01.2018 02:00:04*
+*Stav k 13.01.2018 02:00:37*

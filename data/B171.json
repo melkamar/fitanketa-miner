@@ -1322,6 +1322,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.803921568627451,
         "timestamp": 1515718803.924191
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BIG",
+        "course_name": "DB technologie pro Big Data",
+        "enrolled": 51,
+        "finished": 43,
+        "submitted_survey": 8,
+        "percent_finished": 0.8431372549019608,
+        "timestamp": 1515891607.325002
       }
     ],
     "BI-BPR": [
@@ -1548,6 +1558,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.3356643356643357,
         "timestamp": 1515805236.737268
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-PAI",
+        "course_name": "Právo a informatika",
+        "enrolled": 715,
+        "finished": 302,
+        "submitted_survey": 25,
+        "percent_finished": 0.4223776223776224,
+        "timestamp": 1515891607.325002
       }
     ],
     "BI-PGA": [
@@ -1672,6 +1692,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0425531914893617,
         "timestamp": 1515805236.737268
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-TIS",
+        "course_name": "Tvorba informačních systémů",
+        "enrolled": 47,
+        "finished": 4,
+        "submitted_survey": 0,
+        "percent_finished": 0.0851063829787234,
+        "timestamp": 1515891607.325002
       }
     ],
     "BI-TJV": [
@@ -1916,6 +1946,16 @@
         "submitted_survey": 1,
         "percent_finished": 0.5025510204081632,
         "timestamp": 1515632404.967971
+      },
+      {
+        "department": 18104,
+        "course_id": "BI-PS1",
+        "course_name": "Programování v shellu 1",
+        "enrolled": 784,
+        "finished": 395,
+        "submitted_survey": 45,
+        "percent_finished": 0.5038265306122449,
+        "timestamp": 1515891607.325002
       }
     ],
     "BI-SM": [
@@ -2712,6 +2752,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.625,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18104,
+        "course_id": "BIE-ADW.1",
+        "course_name": "Windows Administration",
+        "enrolled": 8,
+        "finished": 6,
+        "submitted_survey": 0,
+        "percent_finished": 0.75,
+        "timestamp": 1515891607.325002
       }
     ],
     "BIE-APS.1": [
@@ -3302,6 +3352,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.29411764705882354,
         "timestamp": 1515718803.924191
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-PAI",
+        "course_name": "Právo a informatika",
+        "enrolled": 68,
+        "finished": 21,
+        "submitted_survey": 0,
+        "percent_finished": 0.3088235294117647,
+        "timestamp": 1515891607.325002
       }
     ],
     "BIK-SI2.3": [
@@ -4598,6 +4658,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18104,
+        "course_id": "MI-MTI.16",
+        "course_name": "Moderní technologie Internetu",
+        "enrolled": 54,
+        "finished": 12,
+        "submitted_survey": 0,
+        "percent_finished": 0.2222222222222222,
+        "timestamp": 1515891607.325002
       }
     ],
     "MI-REV.16": [
@@ -5234,6 +5304,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.42857142857142855,
         "timestamp": 1515805236.737268
+      },
+      {
+        "department": 18104,
+        "course_id": "MIE-SIB.16",
+        "course_name": "Network Security",
+        "enrolled": 21,
+        "finished": 10,
+        "submitted_survey": 0,
+        "percent_finished": 0.47619047619047616,
+        "timestamp": 1515891607.325002
       }
     ],
     "MIE-HMI": [

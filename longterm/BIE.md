@@ -40,10 +40,10 @@
 
 ## Windows Administration (BIE-ADW.1)
 
-|                          |10.01.2018|
+|                          |14.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |5/8|
-|**Splněno celkem procent**|62%|
+|**Splněno celkem**        |6/8|
+|**Splněno celkem procent**|75%|
 
 
 ## Algorithms and Graphs 1 (BIE-AG1)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 13.01.2018 02:00:37*
+*Stav k 14.01.2018 02:00:07*

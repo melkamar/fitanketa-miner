@@ -207,10 +207,10 @@
 
 ## Právo a informatika (BIK-PAI)
 
-|                          |12.01.2018|
+|                          |14.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |20/68|
-|**Splněno celkem procent**|29%|
+|**Splněno celkem**        |21/68|
+|**Splněno celkem procent**|31%|
 
 
 ## Programovací jazyky a překladače (BIK-PJP)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 13.01.2018 02:00:37*
+*Stav k 14.01.2018 02:00:07*

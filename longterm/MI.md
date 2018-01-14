@@ -534,10 +534,10 @@
 
 ## Moderní technologie Internetu (MI-MTI.16)
 
-|                          |10.01.2018|
+|                          |14.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/54|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |12/54|
+|**Splněno celkem procent**|22%|
 
 
 ## Metody výpočetní inteligence (MI-MVI)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 13.01.2018 02:00:37*
+*Stav k 14.01.2018 02:00:07*

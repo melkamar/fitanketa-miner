@@ -287,10 +287,10 @@
 
 ## Network Security (MIE-SIB.16)
 
-|                          |13.01.2018|
+|                          |14.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |9/21|
-|**Splněno celkem procent**|43%|
+|**Splněno celkem**        |10/21|
+|**Splněno celkem procent**|48%|
 
 
 ## Digital Circuit Simulation (MIE-SIM.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 13.01.2018 02:00:37*
+*Stav k 14.01.2018 02:00:07*

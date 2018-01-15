@@ -1300,6 +1300,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.16666666666666666,
         "timestamp": 1515718803.924191
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-A2Z",
+        "course_name": "Anglický jazyk 2-1",
+        "enrolled": 48,
+        "finished": 17,
+        "submitted_survey": 0,
+        "percent_finished": 0.3541666666666667,
+        "timestamp": 1515978017.370111
       }
     ],
     "BI-BIG": [
@@ -1478,6 +1488,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.06779661016949153,
         "timestamp": 1515805236.737268
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-KOM",
+        "course_name": "Konceptuální modelování",
+        "enrolled": 118,
+        "finished": 32,
+        "submitted_survey": 0,
+        "percent_finished": 0.2711864406779661,
+        "timestamp": 1515978017.370111
       }
     ],
     "BI-MGA": [
@@ -2288,6 +2308,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18102,
+        "course_id": "BIE-EMP",
+        "course_name": "Economic and management principles",
+        "enrolled": 14,
+        "finished": 8,
+        "submitted_survey": 0,
+        "percent_finished": 0.5714285714285714,
+        "timestamp": 1515978017.370111
       }
     ],
     "BIE-EPR": [
@@ -2682,6 +2712,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18102,
+        "course_id": "BIE-PAI",
+        "course_name": "Law and Informatics",
+        "enrolled": 38,
+        "finished": 18,
+        "submitted_survey": 0,
+        "percent_finished": 0.47368421052631576,
+        "timestamp": 1515978017.370111
       }
     ],
     "BIE-SP2.1": [
@@ -2718,6 +2758,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.7647058823529411,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18103,
+        "course_id": "BIE-CAO",
+        "course_name": "Digital and Analog Circuits",
+        "enrolled": 34,
+        "finished": 27,
+        "submitted_survey": 0,
+        "percent_finished": 0.7941176470588235,
+        "timestamp": 1515978017.370111
       }
     ],
     "BIE-JPO": [
@@ -3432,6 +3482,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18103,
+        "course_id": "BIK-CAO",
+        "course_name": "Číslicové a analogové obvody",
+        "enrolled": 61,
+        "finished": 19,
+        "submitted_survey": 0,
+        "percent_finished": 0.3114754098360656,
+        "timestamp": 1515978017.370111
       }
     ],
     "BIK-ADW.1": [
@@ -4314,6 +4374,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.6266666666666667,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18102,
+        "course_id": "MI-NUR.16",
+        "course_name": "Návrh uživatelského rozhraní",
+        "enrolled": 75,
+        "finished": 48,
+        "submitted_survey": 1,
+        "percent_finished": 0.64,
+        "timestamp": 1515978017.370111
       }
     ],
     "MI-PDB.16": [
@@ -4372,6 +4442,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18102,
+        "course_id": "MI-SEP",
+        "course_name": "Světová ekonomika a podníkání II.",
+        "enrolled": 23,
+        "finished": 10,
+        "submitted_survey": 0,
+        "percent_finished": 0.43478260869565216,
+        "timestamp": 1515978017.370111
       }
     ],
     "MI-SMI.16": [
@@ -4590,6 +4670,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.5308641975308642,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18104,
+        "course_id": "MI-IBE",
+        "course_name": "Informační bezpečnost",
+        "enrolled": 81,
+        "finished": 45,
+        "submitted_survey": 1,
+        "percent_finished": 0.5555555555555556,
+        "timestamp": 1515978017.370111
       }
     ],
     "MI-KRY.16": [
@@ -5224,6 +5314,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.3076923076923077,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18104,
+        "course_id": "MIE-IBE",
+        "course_name": "Information Security",
+        "enrolled": 13,
+        "finished": 5,
+        "submitted_survey": 0,
+        "percent_finished": 0.38461538461538464,
+        "timestamp": 1515978017.370111
       }
     ],
     "MIE-KRY.16": [
@@ -5470,6 +5570,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18102,
+        "course_id": "FI-MPL",
+        "course_name": "Manažerská psychologie",
+        "enrolled": 79,
+        "finished": 15,
+        "submitted_survey": 0,
+        "percent_finished": 0.189873417721519,
+        "timestamp": 1515978017.370111
       }
     ],
     "FI-ULI": [

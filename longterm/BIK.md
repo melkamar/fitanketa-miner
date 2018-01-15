@@ -87,10 +87,10 @@
 
 ## Číslicové a analogové obvody (BIK-CAO)
 
-|                          |10.01.2018|
+|                          |15.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/61|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |19/61|
+|**Splněno celkem procent**|31%|
 
 
 ## Databázové systémy (BIK-DBS)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 14.01.2018 02:00:07*
+*Stav k 15.01.2018 02:00:18*

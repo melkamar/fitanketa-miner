@@ -80,10 +80,10 @@
 
 ## Angličtina (BI-A2Z)
 
-|                          |26.01.2012|12.01.2018|
+|                          |26.01.2012|15.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |267/422|8/48|
-|**Splněno celkem procent**|63%|17%|
+|**Splněno celkem**        |267/422|17/48|
+|**Splněno celkem procent**|63%|35%|
 
 
 ## Automaty a gramatiky (BI-AAG)
@@ -496,10 +496,10 @@
 
 ## Konceptuální modelování (BI-KOM)
 
-|                          |13.01.2018|
+|                          |15.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |8/118|
-|**Splněno celkem procent**|7%|
+|**Splněno celkem**        |32/118|
+|**Splněno celkem procent**|27%|
 
 
 ## Lineární algebra (BI-LIN)
@@ -1208,4 +1208,4 @@
 
 
 
-*Stav k 14.01.2018 02:00:07*
+*Stav k 15.01.2018 02:00:17*

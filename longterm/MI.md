@@ -310,10 +310,10 @@
 
 ## Informační bezpečnost (MI-IBE)
 
-|                          |26.01.2011|26.01.2012|10.01.2018|
+|                          |26.01.2011|26.01.2012|15.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |193/199|180/188|43/81|
-|**Splněno celkem procent**|97%|96%|53%|
+|**Splněno celkem**        |193/199|180/188|45/81|
+|**Splněno celkem procent**|97%|96%|56%|
 
 
 ##  Internet a klasifikační metody (MI-IKM)
@@ -614,10 +614,10 @@
 
 ## Návrh uživatelského rozhraní (MI-NUR.16)
 
-|                          |10.01.2018|
+|                          |15.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |47/75|
-|**Splněno celkem procent**|63%|
+|**Splněno celkem**        |48/75|
+|**Splněno celkem procent**|64%|
 
 
 ## Problémy a algoritmy (MI-PAA)
@@ -886,10 +886,10 @@
 
 ## Světová ekonomika a podníkání II. (MI-SEP)
 
-|                          |10.01.2018|
+|                          |15.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/23|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |10/23|
+|**Splněno celkem procent**|43%|
 
 
 ## Síťová bezpečnost (MI-SIB)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 14.01.2018 02:00:07*
+*Stav k 15.01.2018 02:00:17*

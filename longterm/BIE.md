@@ -112,10 +112,10 @@
 
 ## Digital and Analog Circuits (BIE-CAO)
 
-|                          |10.01.2018|
+|                          |15.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |26/34|
-|**Splněno celkem procent**|76%|
+|**Splněno celkem**        |27/34|
+|**Splněno celkem procent**|79%|
 
 
 ## Základy češtiny pro cizince (BIE-CZ0)
@@ -160,10 +160,10 @@
 
 ## Economic and management principles (BIE-EMP)
 
-|                          |18.06.2017|10.01.2018|
+|                          |18.06.2017|15.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |6/10|0/14|
-|**Splněno celkem procent**|60%|0%|
+|**Splněno celkem**        |6/10|8/14|
+|**Splněno celkem procent**|60%|57%|
 
 
 ## Economic project (BIE-EPR)
@@ -248,10 +248,10 @@
 
 ## Law and Informatics (BIE-PAI)
 
-|                          |10.01.2018|
+|                          |15.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/38|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |18/38|
+|**Splněno celkem procent**|47%|
 
 
 ## Programming Languages and Compilers (BIE-PJP)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 14.01.2018 02:00:07*
+*Stav k 15.01.2018 02:00:18*

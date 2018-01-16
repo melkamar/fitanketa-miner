@@ -462,10 +462,10 @@
 
 ## Webové služby a middleware (MI-MDW.16)
 
-|                          |10.01.2018|
+|                          |16.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |7/111|
-|**Splněno celkem procent**|6%|
+|**Splněno celkem**        |26/111|
+|**Splněno celkem procent**|23%|
 
 
 ## Modelování ekonomických procesů (MI-MEP)
@@ -502,10 +502,10 @@
 
 ## Moderní programování v C++ (MI-MPC)
 
-|                          |10.01.2018|
+|                          |16.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/90|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |16/90|
+|**Splněno celkem procent**|18%|
 
 
 ## Matematika pro informatiku (MI-MPI)
@@ -710,10 +710,10 @@
 
 ## Předzpracování dat (MI-PDD.16)
 
-|                          |10.01.2018|
+|                          |16.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/36|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/36|
+|**Splněno celkem procent**|3%|
 
 
 ## Paralelní a distribuované programování (MI-PDP.16)
@@ -886,10 +886,10 @@
 
 ## Světová ekonomika a podníkání II. (MI-SEP)
 
-|                          |15.01.2018|
+|                          |16.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |10/23|
-|**Splněno celkem procent**|43%|
+|**Splněno celkem**        |11/23|
+|**Splněno celkem procent**|48%|
 
 
 ## Síťová bezpečnost (MI-SIB)
@@ -990,10 +990,10 @@
 
 ## Semantický web (MI-SWE.16)
 
-|                          |13.01.2018|
+|                          |16.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |9/31|
-|**Splněno celkem procent**|29%|
+|**Splněno celkem**        |15/31|
+|**Splněno celkem procent**|48%|
 
 
 ## Systémová bezpečnost (MI-SYB.16)
@@ -1014,10 +1014,10 @@
 
 ## Syntaktická analýza a překladače (MI-SYP.16)
 
-|                          |10.01.2018|
+|                          |16.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |6/19|
-|**Splněno celkem procent**|32%|
+|**Splněno celkem**        |9/19|
+|**Splněno celkem procent**|47%|
 
 
 ## Teorie systémů (MI-TES)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 15.01.2018 02:00:17*
+*Stav k 16.01.2018 02:00:13*

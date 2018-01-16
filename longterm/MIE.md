@@ -143,10 +143,10 @@
 
 ## Web Services and Middleware (MIE-MDW.16)
 
-|                          |10.01.2018|
+|                          |16.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/19|
-|**Splněno celkem procent**|11%|
+|**Splněno celkem**        |8/19|
+|**Splněno celkem procent**|42%|
 
 
 ## Mathematics for Cryptology (MIE-MKY.16)
@@ -287,10 +287,10 @@
 
 ## Network Security (MIE-SIB.16)
 
-|                          |14.01.2018|
+|                          |16.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |10/21|
-|**Splněno celkem procent**|48%|
+|**Splněno celkem**        |11/21|
+|**Splněno celkem procent**|52%|
 
 
 ## Digital Circuit Simulation (MIE-SIM.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 15.01.2018 02:00:18*
+*Stav k 16.01.2018 02:00:13*

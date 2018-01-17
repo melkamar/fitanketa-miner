@@ -192,10 +192,10 @@
 
 ## Computer Units (BIE-JPO)
 
-|                          |11.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |4/5|
-|**Splněno celkem procent**|80%|
+|**Splněno celkem**        |5/5|
+|**Splněno celkem procent**|100%|
 
 
 ## Linear Algebra (BIE-LIN)
@@ -232,10 +232,10 @@
 
 ## Programming and Algorithmics 1 (BIE-PA1)
 
-|                          |10.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/45|
-|**Splněno celkem procent**|2%|
+|**Splněno celkem**        |2/45|
+|**Splněno celkem procent**|4%|
 
 
 ## Programming and Algorithmics 2 (BIE-PA2)
@@ -304,10 +304,10 @@
 
 ## Probability and Statistics (BIE-PST)
 
-|                          |11.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |10/13|
-|**Splněno celkem procent**|77%|
+|**Splněno celkem**        |11/13|
+|**Splněno celkem procent**|85%|
 
 
 ## Computer Structures and Architectures (BIE-SAP)
@@ -352,10 +352,10 @@
 
 ## Java Technology (BIE-TJV)
 
-|                          |10.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |3/22|
-|**Splněno celkem procent**|14%|
+|**Splněno celkem**        |6/22|
+|**Splněno celkem procent**|27%|
 
 
 ## User Interface Design (BIE-TUR)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 16.01.2018 11:58:40*
+*Stav k 17.01.2018 02:00:15*

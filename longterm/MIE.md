@@ -135,10 +135,10 @@
 
 ## Cybernality (MIE-KYB.16)
 
-|                          |10.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |4/9|
-|**Splněno celkem procent**|44%|
+|**Splněno celkem**        |6/9|
+|**Splněno celkem procent**|67%|
 
 
 ## Web Services and Middleware (MIE-MDW.16)
@@ -191,10 +191,10 @@
 
 ## Design for the FPGA and ASIC Technology (MIE-NFA.16)
 
-|                          |10.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/4|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/4|
+|**Splněno celkem procent**|25%|
 
 
 ## User Interface Design (MIE-NUR.16)
@@ -295,10 +295,10 @@
 
 ## Digital Circuit Simulation (MIE-SIM.16)
 
-|                          |10.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/5|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |4/5|
+|**Splněno celkem procent**|80%|
 
 
 ## Systems on Chip (MIE-SOC.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 16.01.2018 11:58:40*
+*Stav k 17.01.2018 02:00:15*

@@ -54,10 +54,10 @@
 
 ## Architektonické a návrhové vzory (MI-ADP.16)
 
-|                          |13.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |36/82|
-|**Splněno celkem procent**|44%|
+|**Splněno celkem**        |57/82|
+|**Splněno celkem procent**|70%|
 
 
 ## Případové studie aplikace a řízení IT (MI-AIT)
@@ -126,10 +126,10 @@
 
 ## Bezpečnost a bezpečné programování (MI-BPR.16)
 
-|                          |10.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |9/22|
-|**Splněno celkem procent**|41%|
+|**Splněno celkem**        |12/22|
+|**Splněno celkem procent**|55%|
 
 
 ## Bezdrátové počítačové sítě (MI-BPS)
@@ -150,10 +150,10 @@
 
 ## Teorie složitosti (MI-CPX)
 
-|                          |26.01.2011|26.01.2012|10.01.2018|
+|                          |26.01.2011|26.01.2012|17.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |10/15|19/21|0/12|
-|**Splněno celkem procent**|67%|90%|0%|
+|**Splněno celkem**        |10/15|19/21|9/12|
+|**Splněno celkem procent**|67%|90%|75%|
 
 
 ## Dolování dat z webu (MI-DDW)
@@ -310,10 +310,10 @@
 
 ## Informační bezpečnost (MI-IBE)
 
-|                          |26.01.2011|26.01.2012|15.01.2018|
+|                          |26.01.2011|26.01.2012|17.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |193/199|180/188|45/81|
-|**Splněno celkem procent**|97%|96%|56%|
+|**Splněno celkem**        |193/199|180/188|46/81|
+|**Splněno celkem procent**|97%|96%|57%|
 
 
 ##  Internet a klasifikační metody (MI-IKM)
@@ -390,10 +390,10 @@
 
 ## Kybernalita (MI-KYB.16)
 
-|                          |12.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |106/127|
-|**Splněno celkem procent**|83%|
+|**Splněno celkem**        |120/127|
+|**Splněno celkem procent**|94%|
 
 
 ## Kybernalita (MI-KYB_1)
@@ -574,10 +574,10 @@
 
 ## Návrh obvodů technologií FPGA a ASIC (MI-NFA.16)
 
-|                          |10.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/8|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |8/8|
+|**Splněno celkem procent**|100%|
 
 
 ## Nelineární optimalizace a numerické metody (MI-NON)
@@ -798,10 +798,10 @@
 
 ## Reverzní inženýrství (MI-REV.16)
 
-|                          |10.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |9/45|
-|**Splněno celkem procent**|20%|
+|**Splněno celkem**        |15/45|
+|**Splněno celkem procent**|33%|
 
 
 ## Řízení podnikové informatiky (MI-RIC)
@@ -902,10 +902,10 @@
 
 ## Síťová bezpečnost (MI-SIB.16)
 
-|                          |12.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |30/41|
-|**Splněno celkem procent**|73%|
+|**Splněno celkem**        |34/41|
+|**Splněno celkem procent**|83%|
 
 
 ## Simulace číslicových obvodů (MI-SIM)
@@ -934,10 +934,10 @@
 
 ## Strategické řízení informatiky (MI-SMI.16)
 
-|                          |10.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |5/25|
-|**Splněno celkem procent**|20%|
+|**Splněno celkem**        |16/25|
+|**Splněno celkem procent**|64%|
 
 
 ## Systémy na čipu (MI-SOC)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 16.01.2018 11:58:40*
+*Stav k 17.01.2018 02:00:15*

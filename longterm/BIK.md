@@ -87,10 +87,10 @@
 
 ## Číslicové a analogové obvody (BIK-CAO)
 
-|                          |15.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |19/61|
-|**Splněno celkem procent**|31%|
+|**Splněno celkem**        |20/61|
+|**Splněno celkem procent**|33%|
 
 
 ## Databázové systémy (BIK-DBS)
@@ -167,10 +167,10 @@
 
 ## Matematická logika (BIK-MLO)
 
-|                          |10.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/70|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |7/70|
+|**Splněno celkem procent**|10%|
 
 
 ## Object-Oriented Programming (BIK-OOP)
@@ -191,10 +191,10 @@
 
 ## Programování a algoritmizace 1 (BIK-PA1)
 
-|                          |10.01.2018|
+|                          |17.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |7/78|
-|**Splněno celkem procent**|9%|
+|**Splněno celkem**        |13/78|
+|**Splněno celkem procent**|17%|
 
 
 ## Programování a algoritmizace 2 (BIK-PA2)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 16.01.2018 11:58:40*
+*Stav k 17.01.2018 02:00:15*

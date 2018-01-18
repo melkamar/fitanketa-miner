@@ -64,10 +64,10 @@
 
 ## Architectures of Computer Systems (BIE-APS.1)
 
-|                          |10.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/13|
-|**Splněno celkem procent**|8%|
+|**Splněno celkem**        |4/13|
+|**Splněno celkem procent**|31%|
 
 
 ## Web and Database Server Administration (BIE-AWD)
@@ -120,10 +120,10 @@
 
 ## Základy češtiny pro cizince (BIE-CZ0)
 
-|                          |10.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/17|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |13/18|
+|**Splněno celkem procent**|72%|
 
 
 ## Database Systems (BIE-DBS)
@@ -320,10 +320,10 @@
 
 ## Software Engineering I (BIE-SI1.2)
 
-|                          |30.06.2017|11.01.2018|
+|                          |30.06.2017|18.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |7/19|2/16|
-|**Splněno celkem procent**|37%|12%|
+|**Splněno celkem**        |7/19|4/16|
+|**Splněno celkem procent**|37%|25%|
 
 
 ## Team Software Project 1 (BIE-SP1)
@@ -344,10 +344,10 @@
 
 ## Network Technology 1 (BIE-ST1)
 
-|                          |11.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |9/13|
-|**Splněno celkem procent**|69%|
+|**Splněno celkem**        |11/13|
+|**Splněno celkem procent**|85%|
 
 
 ## Java Technology (BIE-TJV)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 17.01.2018 02:00:15*
+*Stav k 18.01.2018 02:00:16*

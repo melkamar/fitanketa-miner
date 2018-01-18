@@ -54,10 +54,10 @@
 
 ## Architektonické a návrhové vzory (MI-ADP.16)
 
-|                          |17.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |57/82|
-|**Splněno celkem procent**|70%|
+|**Splněno celkem**        |58/82|
+|**Splněno celkem procent**|71%|
 
 
 ## Případové studie aplikace a řízení IT (MI-AIT)
@@ -70,10 +70,10 @@
 
 ## Architektura pocitacovych her (MI-APH)
 
-|                          |11.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |21/47|
-|**Splněno celkem procent**|45%|
+|**Splněno celkem**        |25/47|
+|**Splněno celkem procent**|53%|
 
 
 ## Počítačová aritmetika (MI-ARI)
@@ -238,10 +238,10 @@
 
 ## Efektivní vyhledávání v textech (MI-EVY.16)
 
-|                          |10.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/22|
-|**Splněno celkem procent**|5%|
+|**Splněno celkem**        |5/22|
+|**Splněno celkem procent**|23%|
 
 
 ## Funkcionální a logické programování (MI-FLP)
@@ -374,10 +374,10 @@
 
 ## Pokročilá kryptologie (MI-KRY.16)
 
-|                          |11.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |14/25|
-|**Splněno celkem procent**|56%|
+|**Splněno celkem**        |16/25|
+|**Splněno celkem procent**|64%|
 
 
 ## Kybernalita (MI-KYB)
@@ -534,10 +534,10 @@
 
 ## Moderní technologie Internetu (MI-MTI.16)
 
-|                          |14.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |12/54|
-|**Splněno celkem procent**|22%|
+|**Splněno celkem**        |13/54|
+|**Splněno celkem procent**|24%|
 
 
 ## Metody výpočetní inteligence (MI-MVI)
@@ -622,10 +622,10 @@
 
 ## Problémy a algoritmy (MI-PAA)
 
-|                          |26.01.2011|26.01.2012|10.01.2018|
+|                          |26.01.2011|26.01.2012|18.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |151/181|142/191|13/193|
-|**Splněno celkem procent**|83%|74%|7%|
+|**Splněno celkem**        |151/181|142/191|47/193|
+|**Splněno celkem procent**|83%|74%|24%|
 
 
 ## Pokročilá algoritmizace (MI-PAL)
@@ -782,10 +782,10 @@
 
 ## Pokročilé vestavné systémy (MI-PVS)
 
-|                          |10.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/8|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |2/8|
+|**Splněno celkem procent**|25%|
 
 
 ## Pokročilý Python (MI-PYT)
@@ -862,10 +862,10 @@
 
 ## Runtime systémy (MI-RUN.16)
 
-|                          |10.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/23|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/23|
+|**Splněno celkem procent**|4%|
 
 
 ## IT v době SaaS (MI-SAS)
@@ -1086,10 +1086,10 @@
 
 ## Vyhledávání v multimédiích (MI-VMM.16)
 
-|                          |12.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |21/64|
-|**Splněno celkem procent**|33%|
+|**Splněno celkem**        |36/64|
+|**Splněno celkem procent**|56%|
 
 
 ## Vyhledávání multimediálního obsahu na webu (MI-VMW)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 17.01.2018 02:00:15*
+*Stav k 18.01.2018 02:00:16*

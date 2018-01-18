@@ -87,10 +87,10 @@
 
 ## Číslicové a analogové obvody (BIK-CAO)
 
-|                          |17.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |20/61|
-|**Splněno celkem procent**|33%|
+|**Splněno celkem**        |22/61|
+|**Splněno celkem procent**|36%|
 
 
 ## Databázové systémy (BIK-DBS)
@@ -119,10 +119,10 @@
 
 ## Hardwarová bezpečnost (BIK-HWB)
 
-|                          |10.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/5|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/5|
+|**Splněno celkem procent**|20%|
 
 
 ## Konceptuální modelování (BIK-KOM)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 17.01.2018 02:00:15*
+*Stav k 18.01.2018 02:00:16*

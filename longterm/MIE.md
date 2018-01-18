@@ -71,10 +71,10 @@
 
 ## Efficient Text Pattern Matching (MIE-EVY.16)
 
-|                          |10.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/3|
-|**Splněno celkem procent**|33%|
+|**Splněno celkem**        |2/3|
+|**Splněno celkem procent**|67%|
 
 
 ## Functional and Logical Programming (MIE-FLP)
@@ -127,10 +127,10 @@
 
 ## Advanced Cryptology (MIE-KRY.16)
 
-|                          |10.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |4/6|
-|**Splněno celkem procent**|67%|
+|**Splněno celkem**        |5/6|
+|**Splněno celkem procent**|83%|
 
 
 ## Cybernality (MIE-KYB.16)
@@ -207,10 +207,10 @@
 
 ## Problems and Algorithms (MIE-PAA)
 
-|                          |10.01.2018|
+|                          |18.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/18|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |3/18|
+|**Splněno celkem procent**|17%|
 
 
 ## Parallel Computer Architectures (MIE-PAP.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 17.01.2018 02:00:15*
+*Stav k 18.01.2018 02:00:16*

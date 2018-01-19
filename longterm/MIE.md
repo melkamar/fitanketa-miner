@@ -95,10 +95,10 @@
 
 ## History of Mathematics and Informatics (MIE-HMI)
 
-|                          |10.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/2|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/2|
+|**Splněno celkem procent**|50%|
 
 
 ## Hardware Security (MIE-HWB.16)
@@ -231,10 +231,10 @@
 
 ## Advanced Database Systems (MIE-PDB.16)
 
-|                          |10.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/12|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |8/12|
+|**Splněno celkem procent**|67%|
 
 
 ## Data Preprocessing (MIE-PDD.16)
@@ -303,10 +303,10 @@
 
 ## Systems on Chip (MIE-SOC.16)
 
-|                          |10.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/5|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |5/5|
+|**Splněno celkem procent**|100%|
 
 
 ## Statistics for Informatics (MIE-SPI.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 18.01.2018 02:00:16*
+*Stav k 19.01.2018 02:00:13*

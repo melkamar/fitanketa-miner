@@ -222,10 +222,10 @@
 
 ## Podnikové datové sklady (MI-EDW.16)
 
-|                          |10.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/39|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |17/39|
+|**Splněno celkem procent**|44%|
 
 
 ## Efektivní vyhledávání v textech (MI-EVY)
@@ -478,10 +478,10 @@
 
 ## Modelování ekonomických procesů (MI-MEP.16)
 
-|                          |12.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |4/29|
-|**Splněno celkem procent**|14%|
+|**Splněno celkem**        |5/29|
+|**Splněno celkem procent**|17%|
 
 
 ##  (MI-MKY)
@@ -614,18 +614,18 @@
 
 ## Návrh uživatelského rozhraní (MI-NUR.16)
 
-|                          |15.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |48/75|
-|**Splněno celkem procent**|64%|
+|**Splněno celkem**        |68/75|
+|**Splněno celkem procent**|91%|
 
 
 ## Problémy a algoritmy (MI-PAA)
 
-|                          |26.01.2011|26.01.2012|18.01.2018|
+|                          |26.01.2011|26.01.2012|19.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |151/181|142/191|47/193|
-|**Splněno celkem procent**|83%|74%|24%|
+|**Splněno celkem**        |151/181|142/191|48/193|
+|**Splněno celkem procent**|83%|74%|25%|
 
 
 ## Pokročilá algoritmizace (MI-PAL)
@@ -950,10 +950,10 @@
 
 ## Systémy na čipu (MI-SOC.16)
 
-|                          |10.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/9|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |9/9|
+|**Splněno celkem procent**|100%|
 
 
 ## Statistika pro informatiku (MI-SPI)
@@ -990,10 +990,10 @@
 
 ## Semantický web (MI-SWE.16)
 
-|                          |16.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |15/31|
-|**Splněno celkem procent**|48%|
+|**Splněno celkem**        |20/31|
+|**Splněno celkem procent**|65%|
 
 
 ## Systémová bezpečnost (MI-SYB.16)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 18.01.2018 02:00:16*
+*Stav k 19.01.2018 02:00:13*

@@ -136,10 +136,10 @@
 
 ## English external certificate (BIE-EEC)
 
-|                          |12.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/2|
-|**Splněno celkem procent**|50%|
+|**Splněno celkem**        |2/3|
+|**Splněno celkem procent**|67%|
 
 
 ## Introduction to European Economic History (BIE-EHD)
@@ -208,10 +208,10 @@
 
 ## Mathematical Logic (BIE-MLO)
 
-|                          |10.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/40|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |7/40|
+|**Splněno celkem procent**|18%|
 
 
 ## Object-Oriented Programming (BIE-OOP)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 18.01.2018 02:00:16*
+*Stav k 19.01.2018 02:00:13*

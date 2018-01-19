@@ -47,10 +47,10 @@
 
 ## Architektury počítačových systémů (BIK-APS.1)
 
-|                          |10.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/12|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/12|
+|**Splněno celkem procent**|8%|
 
 
 ## Administrace webového a DB serveru (BIK-AWD)
@@ -87,10 +87,10 @@
 
 ## Číslicové a analogové obvody (BIK-CAO)
 
-|                          |18.01.2018|
+|                          |19.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |22/61|
-|**Splněno celkem procent**|36%|
+|**Splněno celkem**        |24/61|
+|**Splněno celkem procent**|39%|
 
 
 ## Databázové systémy (BIK-DBS)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 18.01.2018 02:00:16*
+*Stav k 19.01.2018 02:00:13*

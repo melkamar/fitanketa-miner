@@ -24,18 +24,18 @@
 
 ## Historie techniky a ekonomiky (FI-HTE)
 
-|                          |18.06.2017|10.01.2018|
+|                          |18.06.2017|19.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |35/51|0/44|
-|**Splněno celkem procent**|69%|0%|
+|**Splněno celkem**        |35/51|24/44|
+|**Splněno celkem procent**|69%|55%|
 
 
 ## Úvod do kulturní a sociální antropologie (FI-KSA)
 
-|                          |30.06.2017|18.01.2018|
+|                          |30.06.2017|19.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |64/81|53/79|
-|**Splněno celkem procent**|79%|67%|
+|**Splněno celkem**        |64/81|66/79|
+|**Splněno celkem procent**|79%|84%|
 
 
 ## Manažerská psychologie (FI-MPL)
@@ -56,4 +56,4 @@
 
 
 
-*Stav k 18.01.2018 02:00:16*
+*Stav k 19.01.2018 02:00:13*

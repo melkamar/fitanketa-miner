@@ -191,10 +191,10 @@
 
 ## Design for the FPGA and ASIC Technology (MIE-NFA.16)
 
-|                          |17.01.2018|
+|                          |20.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/4|
-|**Splněno celkem procent**|25%|
+|**Splněno celkem**        |2/4|
+|**Splněno celkem procent**|50%|
 
 
 ## User Interface Design (MIE-NUR.16)
@@ -287,10 +287,10 @@
 
 ## Network Security (MIE-SIB.16)
 
-|                          |16.01.2018|
+|                          |20.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |11/21|
-|**Splněno celkem procent**|52%|
+|**Splněno celkem**        |14/21|
+|**Splněno celkem procent**|67%|
 
 
 ## Digital Circuit Simulation (MIE-SIM.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 19.01.2018 02:00:13*
+*Stav k 20.01.2018 02:00:12*

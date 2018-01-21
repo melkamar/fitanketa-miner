@@ -1184,6 +1184,16 @@
         "submitted_survey": 5,
         "percent_finished": 0.12790697674418605,
         "timestamp": 1516410012.164765
+      },
+      {
+        "department": 18101,
+        "course_id": "BI-AAG",
+        "course_name": "Automaty a gramatiky",
+        "enrolled": 430,
+        "finished": 67,
+        "submitted_survey": 5,
+        "percent_finished": 0.1558139534883721,
+        "timestamp": 1516496410.29282
       }
     ],
     "BI-ACM3": [
@@ -1802,6 +1812,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.17391304347826086,
         "timestamp": 1516064412.824985
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-MIK",
+        "course_name": "Základy mikroekonomie",
+        "enrolled": 23,
+        "finished": 5,
+        "submitted_survey": 0,
+        "percent_finished": 0.21739130434782608,
+        "timestamp": 1516496410.29282
       }
     ],
     "BI-OMO": [
@@ -1918,6 +1938,16 @@
         "submitted_survey": 49,
         "percent_finished": 0.5636363636363636,
         "timestamp": 1516410012.164765
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-PAI",
+        "course_name": "Právo a informatika",
+        "enrolled": 715,
+        "finished": 404,
+        "submitted_survey": 51,
+        "percent_finished": 0.5650349650349651,
+        "timestamp": 1516496410.29282
       }
     ],
     "BI-PGA": [
@@ -2154,6 +2184,16 @@
         "submitted_survey": 6,
         "percent_finished": 0.4603960396039604,
         "timestamp": 1516237216.442806
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-TJV",
+        "course_name": "Technologie Java",
+        "enrolled": 202,
+        "finished": 97,
+        "submitted_survey": 7,
+        "percent_finished": 0.4801980198019802,
+        "timestamp": 1516496410.29282
       }
     ],
     "BI-TWA.1": [
@@ -4006,6 +4046,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18101,
+        "course_id": "BIK-AAG",
+        "course_name": "Automaty a gramatiky",
+        "enrolled": 40,
+        "finished": 4,
+        "submitted_survey": 0,
+        "percent_finished": 0.1,
+        "timestamp": 1516496410.29282
       }
     ],
     "BIK-AG1": [
@@ -4188,6 +4238,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.08823529411764706,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-TJV",
+        "course_name": "Technologie Java",
+        "enrolled": 34,
+        "finished": 6,
+        "submitted_survey": 0,
+        "percent_finished": 0.17647058823529413,
+        "timestamp": 1516496410.29282
       }
     ],
     "BIK-ZWU": [
@@ -6590,6 +6650,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.9090909090909091,
         "timestamp": 1515632404.967971
+      },
+      {
+        "department": 18104,
+        "course_id": "MIE-MTI.16",
+        "course_name": "Modern Internet Technologies",
+        "enrolled": 11,
+        "finished": 11,
+        "submitted_survey": 0,
+        "percent_finished": 1.0,
+        "timestamp": 1516496410.29282
       }
     ],
     "MIE-REV.16": [
@@ -6796,6 +6866,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.5454545454545454,
         "timestamp": 1516323612.805586
+      },
+      {
+        "department": 18102,
+        "course_id": "FI-HTE",
+        "course_name": "Historie techniky a ekonomiky",
+        "enrolled": 44,
+        "finished": 26,
+        "submitted_survey": 0,
+        "percent_finished": 0.5909090909090909,
+        "timestamp": 1516496410.29282
       }
     ],
     "FI-KSA": [

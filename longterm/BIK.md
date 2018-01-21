@@ -15,10 +15,10 @@
         
 ## Automaty a gramatiky (BIK-AAG)
 
-|                          |10.01.2018|
+|                          |21.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/40|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |4/40|
+|**Splněno celkem procent**|10%|
 
 
 ## Administrace OS Unix (BIK-ADU.1)
@@ -343,10 +343,10 @@
 
 ## Technologie Java (BIK-TJV)
 
-|                          |10.01.2018|
+|                          |21.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |3/34|
-|**Splněno celkem procent**|9%|
+|**Splněno celkem**        |6/34|
+|**Splněno celkem procent**|18%|
 
 
 ## Tvorba uživatelského rozhraní (BIK-TUR)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 20.01.2018 02:00:12*
+*Stav k 21.01.2018 02:00:10*

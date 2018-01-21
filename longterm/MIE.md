@@ -167,10 +167,10 @@
 
 ## Modern Internet Technologies (MIE-MTI.16)
 
-|                          |11.01.2018|
+|                          |21.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |10/11|
-|**Splněno celkem procent**|91%|
+|**Splněno celkem**        |11/11|
+|**Splněno celkem procent**|100%|
 
 
 ## Computational Intelligence Methods (MIE-MVI.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 20.01.2018 02:00:12*
+*Stav k 21.01.2018 02:00:10*

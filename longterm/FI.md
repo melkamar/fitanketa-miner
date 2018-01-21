@@ -24,10 +24,10 @@
 
 ## Historie techniky a ekonomiky (FI-HTE)
 
-|                          |18.06.2017|19.01.2018|
+|                          |18.06.2017|21.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |35/51|24/44|
-|**Splněno celkem procent**|69%|55%|
+|**Splněno celkem**        |35/51|26/44|
+|**Splněno celkem procent**|69%|59%|
 
 
 ## Úvod do kulturní a sociální antropologie (FI-KSA)
@@ -56,4 +56,4 @@
 
 
 
-*Stav k 20.01.2018 02:00:12*
+*Stav k 21.01.2018 02:00:10*

@@ -127,10 +127,10 @@
 
 ## Konceptuální modelování (BIK-KOM)
 
-|                          |13.01.2018|
+|                          |22.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |5/10|
-|**Splněno celkem procent**|50%|
+|**Splněno celkem**        |6/10|
+|**Splněno celkem procent**|60%|
 
 
 ## Úvod do kulturní a sociální antropologie (BIK-KSA)
@@ -175,10 +175,10 @@
 
 ## Object-Oriented Programming (BIK-OOP)
 
-|                          |10.01.2018|
+|                          |22.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/12|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |4/12|
+|**Splněno celkem procent**|33%|
 
 
 ## Operační systémy (BIK-OSY)
@@ -207,10 +207,10 @@
 
 ## Právo a informatika (BIK-PAI)
 
-|                          |14.01.2018|
+|                          |22.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |21/68|
-|**Splněno celkem procent**|31%|
+|**Splněno celkem**        |24/68|
+|**Splněno celkem procent**|35%|
 
 
 ## Programovací jazyky a překladače (BIK-PJP)
@@ -367,10 +367,10 @@
 
 ## Základy matematické analýzy (BIK-ZMA)
 
-|                          |16.01.2018|
+|                          |22.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/85|
-|**Splněno celkem procent**|2%|
+|**Splněno celkem**        |5/85|
+|**Splněno celkem procent**|6%|
 
 
 ## Základy webu a uživatelská rozhraní (BIK-ZWU)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 21.01.2018 02:00:10*
+*Stav k 22.01.2018 02:00:14*

@@ -904,6 +904,16 @@
         "submitted_survey": 2,
         "percent_finished": 0.4626865671641791,
         "timestamp": 1516410012.164765
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-3DT.1",
+        "course_name": "3D Tisk",
+        "enrolled": 67,
+        "finished": 32,
+        "submitted_survey": 2,
+        "percent_finished": 0.47761194029850745,
+        "timestamp": 1516582813.395105
       }
     ],
     "BI-ARD": [
@@ -1292,6 +1302,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.5,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18101,
+        "course_id": "BI-EP1",
+        "course_name": "Efektivní programování 1",
+        "enrolled": 20,
+        "finished": 12,
+        "submitted_survey": 4,
+        "percent_finished": 0.6,
+        "timestamp": 1516582813.395105
       }
     ],
     "BI-PA1": [
@@ -4136,6 +4156,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.5,
         "timestamp": 1515805236.737268
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-KOM",
+        "course_name": "Konceptuální modelování",
+        "enrolled": 10,
+        "finished": 6,
+        "submitted_survey": 0,
+        "percent_finished": 0.6,
+        "timestamp": 1516582813.395105
       }
     ],
     "BIK-MGA": [
@@ -4160,6 +4190,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-OOP",
+        "course_name": "Object-Oriented Programming",
+        "enrolled": 12,
+        "finished": 4,
+        "submitted_survey": 0,
+        "percent_finished": 0.3333333333333333,
+        "timestamp": 1516582813.395105
       }
     ],
     "BIK-PAI": [
@@ -4192,6 +4232,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.3088235294117647,
         "timestamp": 1515891607.325002
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-PAI",
+        "course_name": "Právo a informatika",
+        "enrolled": 68,
+        "finished": 24,
+        "submitted_survey": 2,
+        "percent_finished": 0.35294117647058826,
+        "timestamp": 1516582813.395105
       }
     ],
     "BIK-SI2.3": [
@@ -4472,6 +4522,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.023529411764705882,
         "timestamp": 1516064412.824985
+      },
+      {
+        "department": 18105,
+        "course_id": "BIK-ZMA",
+        "course_name": "Základy matematické analýzy",
+        "enrolled": 85,
+        "finished": 5,
+        "submitted_survey": 0,
+        "percent_finished": 0.058823529411764705,
+        "timestamp": 1516582813.395105
       }
     ]
   },
@@ -6876,6 +6936,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.5909090909090909,
         "timestamp": 1516496410.29282
+      },
+      {
+        "department": 18102,
+        "course_id": "FI-HTE",
+        "course_name": "Historie techniky a ekonomiky",
+        "enrolled": 44,
+        "finished": 27,
+        "submitted_survey": 0,
+        "percent_finished": 0.6136363636363636,
+        "timestamp": 1516582813.395105
       }
     ],
     "FI-KSA": [

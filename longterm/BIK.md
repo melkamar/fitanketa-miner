@@ -167,10 +167,10 @@
 
 ## Matematická logika (BIK-MLO)
 
-|                          |17.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |7/70|
-|**Splněno celkem procent**|10%|
+|**Splněno celkem**        |15/70|
+|**Splněno celkem procent**|21%|
 
 
 ## Object-Oriented Programming (BIK-OOP)
@@ -191,10 +191,10 @@
 
 ## Programování a algoritmizace 1 (BIK-PA1)
 
-|                          |17.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |13/78|
-|**Splněno celkem procent**|17%|
+|**Splněno celkem**        |18/78|
+|**Splněno celkem procent**|23%|
 
 
 ## Programování a algoritmizace 2 (BIK-PA2)
@@ -311,10 +311,10 @@
 
 ## Softwarový týmový projekt 2 (BIK-SP2.1)
 
-|                          |10.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/8|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |6/8|
+|**Splněno celkem procent**|75%|
 
 
 ## Jazyk SQL, pokročilý (BIK-SQL.1)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 22.01.2018 02:00:14*
+*Stav k 23.01.2018 02:00:05*

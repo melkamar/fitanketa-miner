@@ -462,10 +462,10 @@
 
 ## Webové služby a middleware (MI-MDW.16)
 
-|                          |16.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |26/111|
-|**Splněno celkem procent**|23%|
+|**Splněno celkem**        |44/111|
+|**Splněno celkem procent**|40%|
 
 
 ## Modelování ekonomických procesů (MI-MEP)
@@ -862,10 +862,10 @@
 
 ## Runtime systémy (MI-RUN.16)
 
-|                          |18.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/23|
-|**Splněno celkem procent**|4%|
+|**Splněno celkem**        |2/23|
+|**Splněno celkem procent**|9%|
 
 
 ## IT v době SaaS (MI-SAS)
@@ -902,10 +902,10 @@
 
 ## Síťová bezpečnost (MI-SIB.16)
 
-|                          |17.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |34/41|
-|**Splněno celkem procent**|83%|
+|**Splněno celkem**        |35/41|
+|**Splněno celkem procent**|85%|
 
 
 ## Simulace číslicových obvodů (MI-SIM)
@@ -1014,10 +1014,10 @@
 
 ## Syntaktická analýza a překladače (MI-SYP.16)
 
-|                          |16.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |9/19|
-|**Splněno celkem procent**|47%|
+|**Splněno celkem**        |11/19|
+|**Splněno celkem procent**|58%|
 
 
 ## Teorie systémů (MI-TES)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 22.01.2018 02:00:14*
+*Stav k 23.01.2018 02:00:05*

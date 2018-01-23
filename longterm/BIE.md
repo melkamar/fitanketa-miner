@@ -232,10 +232,10 @@
 
 ## Programming and Algorithmics 1 (BIE-PA1)
 
-|                          |17.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/45|
-|**Splněno celkem procent**|4%|
+|**Splněno celkem**        |5/45|
+|**Splněno celkem procent**|11%|
 
 
 ## Programming and Algorithmics 2 (BIE-PA2)
@@ -272,10 +272,10 @@
 
 ## Programming Paradigms (BIE-PPA)
 
-|                          |10.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/12|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |2/12|
+|**Splněno celkem procent**|17%|
 
 
 ## Programming in Shell 1 (BIE-PS1)
@@ -368,10 +368,10 @@
 
 ## Data Mining (BIE-VZD)
 
-|                          |18.06.2017|12.01.2018|
+|                          |18.06.2017|23.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |15/23|6/8|
-|**Splněno celkem procent**|65%|75%|
+|**Splněno celkem**        |15/23|7/8|
+|**Splněno celkem procent**|65%|88%|
 
 
 ## Elements of Discrete Mathematics (BIE-ZDM)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 22.01.2018 02:00:14*
+*Stav k 23.01.2018 02:00:05*

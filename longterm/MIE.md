@@ -143,10 +143,10 @@
 
 ## Web Services and Middleware (MIE-MDW.16)
 
-|                          |16.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |8/19|
-|**Splněno celkem procent**|42%|
+|**Splněno celkem**        |13/19|
+|**Splněno celkem procent**|68%|
 
 
 ## Mathematics for Cryptology (MIE-MKY.16)
@@ -159,10 +159,10 @@
 
 ## Mathematics for Informatics (MIE-MPI)
 
-|                          |10.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/5|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |2/5|
+|**Splněno celkem procent**|40%|
 
 
 ## Modern Internet Technologies (MIE-MTI.16)
@@ -199,10 +199,10 @@
 
 ## User Interface Design (MIE-NUR.16)
 
-|                          |10.01.2018|
+|                          |23.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |4/15|
-|**Splněno celkem procent**|27%|
+|**Splněno celkem**        |11/15|
+|**Splněno celkem procent**|73%|
 
 
 ## Problems and Algorithms (MIE-PAA)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 22.01.2018 02:00:14*
+*Stav k 23.01.2018 02:00:05*

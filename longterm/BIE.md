@@ -352,10 +352,10 @@
 
 ## Java Technology (BIE-TJV)
 
-|                          |17.01.2018|
+|                          |24.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |6/22|
-|**Splněno celkem procent**|27%|
+|**Splněno celkem**        |8/22|
+|**Splněno celkem procent**|36%|
 
 
 ## User Interface Design (BIE-TUR)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 23.01.2018 02:00:05*
+*Stav k 24.01.2018 02:00:06*

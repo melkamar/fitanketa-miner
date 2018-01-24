@@ -54,10 +54,10 @@
 
 ## Architektonické a návrhové vzory (MI-ADP.16)
 
-|                          |18.01.2018|
+|                          |24.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |58/82|
-|**Splněno celkem procent**|71%|
+|**Splněno celkem**        |70/82|
+|**Splněno celkem procent**|85%|
 
 
 ## Případové studie aplikace a řízení IT (MI-AIT)
@@ -174,10 +174,10 @@
 
 ## Pokročilý .NET a projektivní programování (MI-DNP)
 
-|                          |10.01.2018|
+|                          |24.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/22|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |8/22|
+|**Splněno celkem procent**|36%|
 
 
 ## Návrhové vzory a OOP (MI-DPO)
@@ -238,10 +238,10 @@
 
 ## Efektivní vyhledávání v textech (MI-EVY.16)
 
-|                          |18.01.2018|
+|                          |24.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |5/22|
-|**Splněno celkem procent**|23%|
+|**Splněno celkem**        |15/22|
+|**Splněno celkem procent**|68%|
 
 
 ## Funkcionální a logické programování (MI-FLP)
@@ -862,10 +862,10 @@
 
 ## Runtime systémy (MI-RUN.16)
 
-|                          |23.01.2018|
+|                          |24.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/23|
-|**Splněno celkem procent**|9%|
+|**Splněno celkem**        |4/23|
+|**Splněno celkem procent**|17%|
 
 
 ## IT v době SaaS (MI-SAS)
@@ -918,10 +918,10 @@
 
 ## Simulace číslicových obvodů (MI-SIM.16)
 
-|                          |10.01.2018|
+|                          |24.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/12|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |11/12|
+|**Splněno celkem procent**|92%|
 
 
 ## Integrace v informačních systémech (MI-SIN)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 23.01.2018 02:00:05*
+*Stav k 24.01.2018 02:00:06*

@@ -150,10 +150,10 @@
 
 ## Teorie složitosti (MI-CPX)
 
-|                          |26.01.2011|26.01.2012|17.01.2018|
+|                          |26.01.2011|26.01.2012|25.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |10/15|19/21|9/12|
-|**Splněno celkem procent**|67%|90%|75%|
+|**Splněno celkem**        |10/15|19/21|10/12|
+|**Splněno celkem procent**|67%|90%|83%|
 
 
 ## Dolování dat z webu (MI-DDW)
@@ -310,10 +310,10 @@
 
 ## Informační bezpečnost (MI-IBE)
 
-|                          |26.01.2011|26.01.2012|17.01.2018|
+|                          |26.01.2011|26.01.2012|25.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |193/199|180/188|46/81|
-|**Splněno celkem procent**|97%|96%|57%|
+|**Splněno celkem**        |193/199|180/188|47/81|
+|**Splněno celkem procent**|97%|96%|58%|
 
 
 ##  Internet a klasifikační metody (MI-IKM)
@@ -374,10 +374,10 @@
 
 ## Pokročilá kryptologie (MI-KRY.16)
 
-|                          |18.01.2018|
+|                          |25.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |16/25|
-|**Splněno celkem procent**|64%|
+|**Splněno celkem**        |17/25|
+|**Splněno celkem procent**|68%|
 
 
 ## Kybernalita (MI-KYB)
@@ -502,10 +502,10 @@
 
 ## Moderní programování v C++ (MI-MPC)
 
-|                          |20.01.2018|
+|                          |25.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |45/90|
-|**Splněno celkem procent**|50%|
+|**Splněno celkem**        |59/90|
+|**Splněno celkem procent**|66%|
 
 
 ## Matematika pro informatiku (MI-MPI)
@@ -694,10 +694,10 @@
 
 ## Pokročilé databázové systémy (MI-PDB.16)
 
-|                          |12.01.2018|
+|                          |25.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |88/108|
-|**Splněno celkem procent**|81%|
+|**Splněno celkem**        |98/108|
+|**Splněno celkem procent**|91%|
 
 
 ## Předzpracování dat (MI-PDD)
@@ -886,10 +886,10 @@
 
 ## Světová ekonomika a podníkání II. (MI-SEP)
 
-|                          |16.01.2018|
+|                          |25.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |11/23|
-|**Splněno celkem procent**|48%|
+|**Splněno celkem**        |13/23|
+|**Splněno celkem procent**|57%|
 
 
 ## Síťová bezpečnost (MI-SIB)
@@ -1078,18 +1078,18 @@
 
 ## Testování a spolehlivost (MI-TSP.16)
 
-|                          |10.01.2018|
+|                          |25.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |6/13|
-|**Splněno celkem procent**|46%|
+|**Splněno celkem**        |10/13|
+|**Splněno celkem procent**|77%|
 
 
 ## Vyhledávání v multimédiích (MI-VMM.16)
 
-|                          |18.01.2018|
+|                          |25.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |36/64|
-|**Splněno celkem procent**|56%|
+|**Splněno celkem**        |44/64|
+|**Splněno celkem procent**|69%|
 
 
 ## Vyhledávání multimediálního obsahu na webu (MI-VMW)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 24.01.2018 02:00:06*
+*Stav k 25.01.2018 02:00:06*

@@ -351,10 +351,10 @@
 
 ## Testing and Reliability (MIE-TSP.16)
 
-|                          |10.01.2018|
+|                          |25.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/4|
-|**Splněno celkem procent**|25%|
+|**Splněno celkem**        |3/4|
+|**Splněno celkem procent**|75%|
 
 
 ## Retrieval of Multimedia Content on the Web (MIE-VMW)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 24.01.2018 02:00:06*
+*Stav k 25.01.2018 02:00:06*

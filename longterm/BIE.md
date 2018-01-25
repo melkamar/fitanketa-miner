@@ -160,10 +160,10 @@
 
 ## Economic and management principles (BIE-EMP)
 
-|                          |18.06.2017|15.01.2018|
+|                          |18.06.2017|25.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |6/10|8/14|
-|**Splněno celkem procent**|60%|57%|
+|**Splněno celkem**        |6/10|13/14|
+|**Splněno celkem procent**|60%|93%|
 
 
 ## Economic project (BIE-EPR)
@@ -320,10 +320,10 @@
 
 ## Software Engineering I (BIE-SI1.2)
 
-|                          |30.06.2017|18.01.2018|
+|                          |30.06.2017|25.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |7/19|4/16|
-|**Splněno celkem procent**|37%|25%|
+|**Splněno celkem**        |7/19|5/16|
+|**Splněno celkem procent**|37%|31%|
 
 
 ## Team Software Project 1 (BIE-SP1)
@@ -352,10 +352,10 @@
 
 ## Java Technology (BIE-TJV)
 
-|                          |24.01.2018|
+|                          |25.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |8/22|
-|**Splněno celkem procent**|36%|
+|**Splněno celkem**        |9/22|
+|**Splněno celkem procent**|41%|
 
 
 ## User Interface Design (BIE-TUR)
@@ -384,10 +384,10 @@
 
 ## Elements of Calculus (BIE-ZMA)
 
-|                          |12.01.2018|
+|                          |25.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |3/36|
-|**Splněno celkem procent**|8%|
+|**Splněno celkem**        |8/36|
+|**Splněno celkem procent**|22%|
 
 
 ## Basics of System Control (BIE-ZRS)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 24.01.2018 02:00:06*
+*Stav k 25.01.2018 02:00:06*

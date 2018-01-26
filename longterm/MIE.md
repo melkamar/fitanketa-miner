@@ -343,10 +343,10 @@
 
 ## Systems Theory (MIE-TES.16)
 
-|                          |10.01.2018|
+|                          |26.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/2|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |2/2|
+|**Splněno celkem procent**|100%|
 
 
 ## Testing and Reliability (MIE-TSP.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 25.01.2018 02:00:06*
+*Stav k 26.01.2018 02:00:05*

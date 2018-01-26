@@ -8,10 +8,10 @@
         
 ## Filosofie (FI-FIL)
 
-|                          |18.06.2017|24.01.2018|
+|                          |18.06.2017|26.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |21/46|37/60|
-|**Splněno celkem procent**|46%|62%|
+|**Splněno celkem**        |21/46|40/60|
+|**Splněno celkem procent**|46%|67%|
 
 
 ## Základy gnozeologie (FI-GNO)
@@ -32,10 +32,10 @@
 
 ## Úvod do kulturní a sociální antropologie (FI-KSA)
 
-|                          |30.06.2017|24.01.2018|
+|                          |30.06.2017|26.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |64/81|67/79|
-|**Splněno celkem procent**|79%|85%|
+|**Splněno celkem**        |64/81|68/79|
+|**Splněno celkem procent**|79%|86%|
 
 
 ## Manažerská psychologie (FI-MPL)
@@ -56,4 +56,4 @@
 
 
 
-*Stav k 25.01.2018 02:00:06*
+*Stav k 26.01.2018 02:00:05*

@@ -222,10 +222,10 @@
 
 ## Podnikové datové sklady (MI-EDW.16)
 
-|                          |19.01.2018|
+|                          |26.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |17/39|
-|**Splněno celkem procent**|44%|
+|**Splněno celkem**        |23/39|
+|**Splněno celkem procent**|59%|
 
 
 ## Efektivní vyhledávání v textech (MI-EVY)
@@ -478,10 +478,10 @@
 
 ## Modelování ekonomických procesů (MI-MEP.16)
 
-|                          |19.01.2018|
+|                          |26.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |5/29|
-|**Splněno celkem procent**|17%|
+|**Splněno celkem**        |9/29|
+|**Splněno celkem procent**|31%|
 
 
 ##  (MI-MKY)
@@ -534,10 +534,10 @@
 
 ## Moderní technologie Internetu (MI-MTI.16)
 
-|                          |18.01.2018|
+|                          |26.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |13/54|
-|**Splněno celkem procent**|24%|
+|**Splněno celkem**        |26/54|
+|**Splněno celkem procent**|48%|
 
 
 ## Metody výpočetní inteligence (MI-MVI)
@@ -550,10 +550,10 @@
 
 ## Metody výpočetní inteligence (MI-MVI.16)
 
-|                          |06.07.2017|11.01.2018|
+|                          |06.07.2017|26.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |17/25|6/27|
-|**Splněno celkem procent**|68%|22%|
+|**Splněno celkem**        |17/25|13/27|
+|**Splněno celkem procent**|68%|48%|
 
 
 ## Matematika pro znalostní inženýrství (MI-MZI)
@@ -846,10 +846,10 @@
 
 ## Programování v Ruby (MI-RUB)
 
-|                          |26.01.2011|26.01.2012|10.01.2018|
+|                          |26.01.2011|26.01.2012|26.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |36/51|44/67|0/48|
-|**Splněno celkem procent**|71%|66%|0%|
+|**Splněno celkem**        |36/51|44/67|1/48|
+|**Splněno celkem procent**|71%|66%|2%|
 
 
 ## Runtime systémy (MI-RUN)
@@ -934,10 +934,10 @@
 
 ## Strategické řízení informatiky (MI-SMI.16)
 
-|                          |17.01.2018|
+|                          |26.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |16/25|
-|**Splněno celkem procent**|64%|
+|**Splněno celkem**        |22/25|
+|**Splněno celkem procent**|88%|
 
 
 ## Systémy na čipu (MI-SOC)
@@ -990,10 +990,10 @@
 
 ## Semantický web (MI-SWE.16)
 
-|                          |19.01.2018|
+|                          |26.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |20/31|
-|**Splněno celkem procent**|65%|
+|**Splněno celkem**        |22/31|
+|**Splněno celkem procent**|71%|
 
 
 ## Systémová bezpečnost (MI-SYB.16)
@@ -1030,10 +1030,10 @@
 
 ## Teorie systémů (MI-TES.16)
 
-|                          |13.01.2018|
+|                          |26.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |17/31|
-|**Splněno celkem procent**|55%|
+|**Splněno celkem**        |27/31|
+|**Splněno celkem procent**|87%|
 
 
 ## Teorie systémů (MI-TES.2)
@@ -1078,10 +1078,10 @@
 
 ## Testování a spolehlivost (MI-TSP.16)
 
-|                          |25.01.2018|
+|                          |26.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |10/13|
-|**Splněno celkem procent**|77%|
+|**Splněno celkem**        |11/13|
+|**Splněno celkem procent**|85%|
 
 
 ## Vyhledávání v multimédiích (MI-VMM.16)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 25.01.2018 02:00:06*
+*Stav k 26.01.2018 02:00:05*

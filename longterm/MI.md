@@ -206,10 +206,10 @@
 
 ## Distribuované systémy a výpočty (MI-DSV.16)
 
-|                          |13.01.2018|
+|                          |27.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |6/19|
-|**Splněno celkem procent**|32%|
+|**Splněno celkem**        |12/19|
+|**Splněno celkem procent**|63%|
 
 
 ## Digitální zpracování obrazu (MI-DZO)
@@ -502,18 +502,18 @@
 
 ## Moderní programování v C++ (MI-MPC)
 
-|                          |25.01.2018|
+|                          |27.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |59/90|
-|**Splněno celkem procent**|66%|
+|**Splněno celkem**        |66/90|
+|**Splněno celkem procent**|73%|
 
 
 ## Matematika pro informatiku (MI-MPI)
 
-|                          |26.06.2010|26.06.2011|26.01.2012|26.06.2012|20.01.2018|
+|                          |26.06.2010|26.06.2011|26.01.2012|26.06.2012|27.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |175/193|170/197|155/201|4/4|87/198|
-|**Splněno celkem procent**|91%|86%|77%|100%|44%|
+|**Splněno celkem**        |175/193|170/197|155/201|4/4|127/198|
+|**Splněno celkem procent**|91%|86%|77%|100%|64%|
 
 
 ## Magisterský projekt, Master Project (MI-MPR)
@@ -534,10 +534,10 @@
 
 ## Moderní technologie Internetu (MI-MTI.16)
 
-|                          |26.01.2018|
+|                          |27.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |26/54|
-|**Splněno celkem procent**|48%|
+|**Splněno celkem**        |34/54|
+|**Splněno celkem procent**|63%|
 
 
 ## Metody výpočetní inteligence (MI-MVI)
@@ -590,10 +590,10 @@
 
 ## Nelineární optimalizace a numerické metody (MI-NON.16)
 
-|                          |13.01.2018|
+|                          |27.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |7/11|
-|**Splněno celkem procent**|64%|
+|**Splněno celkem**        |9/11|
+|**Splněno celkem procent**|82%|
 
 
 ## Normalized Software Systems (MI-NSS.16)
@@ -822,10 +822,10 @@
 
 ## Rozpoznávaní (MI-ROZ.16)
 
-|                          |13.01.2018|
+|                          |27.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/10|
-|**Splněno celkem procent**|10%|
+|**Splněno celkem**        |2/10|
+|**Splněno celkem procent**|20%|
 
 
 ## Řízení rizik v informatice (MI-RRI)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 26.01.2018 02:00:05*
+*Stav k 27.01.2018 10:54:54*

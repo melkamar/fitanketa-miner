@@ -15,10 +15,10 @@
         
 ## Automaty a gramatiky (BIK-AAG)
 
-|                          |21.01.2018|
+|                          |27.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |4/40|
-|**Splněno celkem procent**|10%|
+|**Splněno celkem**        |5/40|
+|**Splněno celkem procent**|12%|
 
 
 ## Administrace OS Unix (BIK-ADU.1)
@@ -223,10 +223,10 @@
 
 ## Programovací paradigmata (BIK-PPA)
 
-|                          |10.01.2018|
+|                          |27.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/32|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/32|
+|**Splněno celkem procent**|3%|
 
 
 ## Projekt, prezentace a rétorika (BIK-PPR)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 26.01.2018 02:00:05*
+*Stav k 27.01.2018 10:54:54*

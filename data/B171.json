@@ -1374,6 +1374,16 @@
         "submitted_survey": 10,
         "percent_finished": 0.21395348837209302,
         "timestamp": 1517046893.447771
+      },
+      {
+        "department": 18101,
+        "course_id": "BI-AAG",
+        "course_name": "Automaty a gramatiky",
+        "enrolled": 430,
+        "finished": 106,
+        "submitted_survey": 12,
+        "percent_finished": 0.24651162790697675,
+        "timestamp": 1517101202.903126
       }
     ],
     "BI-ACM3": [
@@ -1760,6 +1770,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.3541666666666667,
         "timestamp": 1515978017.370111
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-A2Z",
+        "course_name": "Anglický jazyk 2-1",
+        "enrolled": 48,
+        "finished": 21,
+        "submitted_survey": 0,
+        "percent_finished": 0.4375,
+        "timestamp": 1517101202.903126
       }
     ],
     "BI-BIG": [
@@ -1914,6 +1934,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.27941176470588236,
         "timestamp": 1517046893.447771
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 60,
+        "submitted_survey": 0,
+        "percent_finished": 0.29411764705882354,
+        "timestamp": 1517101202.903126
       }
     ],
     "BI-CS2": [
@@ -2594,6 +2624,16 @@
         "submitted_survey": 10,
         "percent_finished": 0.6188118811881188,
         "timestamp": 1516842005.952131
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-TJV",
+        "course_name": "Technologie Java",
+        "enrolled": 202,
+        "finished": 126,
+        "submitted_survey": 14,
+        "percent_finished": 0.6237623762376238,
+        "timestamp": 1517101202.903126
       }
     ],
     "BI-TWA.1": [
@@ -3832,6 +3872,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18101,
+        "course_id": "BIE-AAG",
+        "course_name": "Automata and Grammars",
+        "enrolled": 20,
+        "finished": 1,
+        "submitted_survey": 0,
+        "percent_finished": 0.05,
+        "timestamp": 1517101202.903126
       }
     ],
     "BIE-AG1": [
@@ -4736,6 +4786,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.125,
         "timestamp": 1517046893.447771
+      },
+      {
+        "department": 18101,
+        "course_id": "BIK-AAG",
+        "course_name": "Automaty a gramatiky",
+        "enrolled": 40,
+        "finished": 9,
+        "submitted_survey": 0,
+        "percent_finished": 0.225,
+        "timestamp": 1517101202.903126
       }
     ],
     "BIK-AG1": [
@@ -4880,6 +4940,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.3333333333333333,
         "timestamp": 1516582813.395105
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-OOP",
+        "course_name": "Object-Oriented Programming",
+        "enrolled": 12,
+        "finished": 6,
+        "submitted_survey": 0,
+        "percent_finished": 0.5,
+        "timestamp": 1517101202.903126
       }
     ],
     "BIK-PAI": [
@@ -4998,6 +5068,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.17647058823529413,
         "timestamp": 1516496410.29282
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-TJV",
+        "course_name": "Technologie Java",
+        "enrolled": 34,
+        "finished": 10,
+        "submitted_survey": 0,
+        "percent_finished": 0.29411764705882354,
+        "timestamp": 1517101202.903126
       }
     ],
     "BIK-ZWU": [
@@ -5062,6 +5142,16 @@
         "submitted_survey": 2,
         "percent_finished": 0.39344262295081966,
         "timestamp": 1516323612.805586
+      },
+      {
+        "department": 18103,
+        "course_id": "BIK-CAO",
+        "course_name": "Číslicové a analogové obvody",
+        "enrolled": 61,
+        "finished": 27,
+        "submitted_survey": 2,
+        "percent_finished": 0.4426229508196721,
+        "timestamp": 1517101202.903126
       }
     ],
     "BIK-ADW.1": [
@@ -6412,6 +6502,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.5652173913043478,
         "timestamp": 1516842005.952131
+      },
+      {
+        "department": 18102,
+        "course_id": "MI-SEP",
+        "course_name": "Světová ekonomika a podníkání II.",
+        "enrolled": 23,
+        "finished": 14,
+        "submitted_survey": 0,
+        "percent_finished": 0.6086956521739131,
+        "timestamp": 1517101202.903126
       }
     ],
     "MI-SMI.16": [
@@ -7394,6 +7494,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18101,
+        "course_id": "MIE-MVI.16",
+        "course_name": "Computational Intelligence Methods",
+        "enrolled": 8,
+        "finished": 5,
+        "submitted_survey": 0,
+        "percent_finished": 0.625,
+        "timestamp": 1517101202.903126
       }
     ],
     "MIE-PDD.16": [

@@ -175,10 +175,10 @@
 
 ## Computational Intelligence Methods (MIE-MVI.16)
 
-|                          |10.01.2018|
+|                          |28.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/8|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |5/8|
+|**Splněno celkem procent**|62%|
 
 
 ## Mathematics for data science (MIE-MZI)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 27.01.2018 10:54:54*
+*Stav k 28.01.2018 02:00:03*

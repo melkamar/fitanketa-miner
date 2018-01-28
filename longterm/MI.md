@@ -886,10 +886,10 @@
 
 ## Světová ekonomika a podníkání II. (MI-SEP)
 
-|                          |25.01.2018|
+|                          |28.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |13/23|
-|**Splněno celkem procent**|57%|
+|**Splněno celkem**        |14/23|
+|**Splněno celkem procent**|61%|
 
 
 ## Síťová bezpečnost (MI-SIB)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 27.01.2018 10:54:54*
+*Stav k 28.01.2018 02:00:03*

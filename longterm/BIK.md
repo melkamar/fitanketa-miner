@@ -15,10 +15,10 @@
         
 ## Automaty a gramatiky (BIK-AAG)
 
-|                          |27.01.2018|
+|                          |28.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |5/40|
-|**Splněno celkem procent**|12%|
+|**Splněno celkem**        |9/40|
+|**Splněno celkem procent**|22%|
 
 
 ## Administrace OS Unix (BIK-ADU.1)
@@ -87,10 +87,10 @@
 
 ## Číslicové a analogové obvody (BIK-CAO)
 
-|                          |19.01.2018|
+|                          |28.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |24/61|
-|**Splněno celkem procent**|39%|
+|**Splněno celkem**        |27/61|
+|**Splněno celkem procent**|44%|
 
 
 ## Databázové systémy (BIK-DBS)
@@ -175,10 +175,10 @@
 
 ## Object-Oriented Programming (BIK-OOP)
 
-|                          |22.01.2018|
+|                          |28.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |4/12|
-|**Splněno celkem procent**|33%|
+|**Splněno celkem**        |6/12|
+|**Splněno celkem procent**|50%|
 
 
 ## Operační systémy (BIK-OSY)
@@ -343,10 +343,10 @@
 
 ## Technologie Java (BIK-TJV)
 
-|                          |21.01.2018|
+|                          |28.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |6/34|
-|**Splněno celkem procent**|18%|
+|**Splněno celkem**        |10/34|
+|**Splněno celkem procent**|29%|
 
 
 ## Tvorba uživatelského rozhraní (BIK-TUR)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 27.01.2018 10:54:54*
+*Stav k 28.01.2018 02:00:03*

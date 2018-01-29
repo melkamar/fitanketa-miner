@@ -174,10 +174,10 @@
 
 ## Pokročilý .NET a projektivní programování (MI-DNP)
 
-|                          |24.01.2018|
+|                          |29.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |8/22|
-|**Splněno celkem procent**|36%|
+|**Splněno celkem**        |10/22|
+|**Splněno celkem procent**|45%|
 
 
 ## Návrhové vzory a OOP (MI-DPO)
@@ -462,10 +462,10 @@
 
 ## Webové služby a middleware (MI-MDW.16)
 
-|                          |23.01.2018|
+|                          |29.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |44/111|
-|**Splněno celkem procent**|40%|
+|**Splněno celkem**        |43/111|
+|**Splněno celkem procent**|39%|
 
 
 ## Modelování ekonomických procesů (MI-MEP)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 28.01.2018 02:00:03*
+*Stav k 29.01.2018 02:00:03*

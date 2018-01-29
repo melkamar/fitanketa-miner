@@ -40,10 +40,10 @@
 
 ## Manažerská psychologie (FI-MPL)
 
-|                          |21.09.2017|15.01.2018|
+|                          |21.09.2017|29.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |43/60|15/79|
-|**Splněno celkem procent**|72%|19%|
+|**Splněno celkem**        |43/60|42/79|
+|**Splněno celkem procent**|72%|53%|
 
 
 ## Úvod do lingvistiky pro informatiky (FI-ULI)
@@ -56,4 +56,4 @@
 
 
 
-*Stav k 28.01.2018 02:00:03*
+*Stav k 29.01.2018 02:00:03*

@@ -359,10 +359,10 @@
 
 ## Základy diskrétní matematiky (BIK-ZDM)
 
-|                          |10.01.2018|
+|                          |29.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/36|
-|**Splněno celkem procent**|3%|
+|**Splněno celkem**        |4/36|
+|**Splněno celkem procent**|11%|
 
 
 ## Základy matematické analýzy (BIK-ZMA)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 28.01.2018 02:00:03*
+*Stav k 29.01.2018 02:00:03*

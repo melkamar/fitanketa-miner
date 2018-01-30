@@ -264,6 +264,16 @@
         "submitted_survey": 0,
         "percent_finished": 1.0,
         "timestamp": 1516928404.977906
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-ANG",
+        "course_name": "Zkouška z angličtiny po zápočtu z BI-A2L",
+        "enrolled": 47,
+        "finished": 47,
+        "submitted_survey": 0,
+        "percent_finished": 1.0,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-ANG1": [
@@ -434,6 +444,16 @@
         "submitted_survey": 0,
         "percent_finished": 1.0227272727272727,
         "timestamp": 1516928404.977906
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-A2L",
+        "course_name": "Anglický jazyk pro IT",
+        "enrolled": 48,
+        "finished": 49,
+        "submitted_survey": 0,
+        "percent_finished": 1.0208333333333333,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-CS1": [
@@ -564,6 +584,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.14457831325301204,
         "timestamp": 1516669204.660446
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-EMP",
+        "course_name": "Ekonomické a manažerské principy",
+        "enrolled": 166,
+        "finished": 28,
+        "submitted_survey": 3,
+        "percent_finished": 0.1686746987951807,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-FIP": [
@@ -718,6 +748,16 @@
         "submitted_survey": 10,
         "percent_finished": 0.7862068965517242,
         "timestamp": 1516323612.805586
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-PJV",
+        "course_name": "Programování v Javě",
+        "enrolled": 145,
+        "finished": 119,
+        "submitted_survey": 15,
+        "percent_finished": 0.8206896551724138,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-PPR": [
@@ -750,6 +790,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.01639344262295082,
         "timestamp": 1516842005.952131
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-PPR",
+        "course_name": "Projekt, prezentace a rétorika",
+        "enrolled": 61,
+        "finished": 53,
+        "submitted_survey": 0,
+        "percent_finished": 0.8688524590163934,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-PRP": [
@@ -1110,6 +1160,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18103,
+        "course_id": "BI-SRC",
+        "course_name": "Systémy reálného času",
+        "enrolled": 16,
+        "finished": 12,
+        "submitted_survey": 0,
+        "percent_finished": 0.75,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-TUR": [
@@ -1554,6 +1614,16 @@
         "submitted_survey": 34,
         "percent_finished": 0.266078184110971,
         "timestamp": 1516755606.164073
+      },
+      {
+        "department": 18101,
+        "course_id": "BI-PA1",
+        "course_name": "Programování a algoritmizace 1",
+        "enrolled": 793,
+        "finished": 244,
+        "submitted_survey": 41,
+        "percent_finished": 0.3076923076923077,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-PMA": [
@@ -1672,6 +1742,16 @@
         "submitted_survey": 2,
         "percent_finished": 0.7340425531914894,
         "timestamp": 1515805236.737268
+      },
+      {
+        "department": 18101,
+        "course_id": "BI-ZNS",
+        "course_name": "Znalostní systémy",
+        "enrolled": 94,
+        "finished": 77,
+        "submitted_survey": 15,
+        "percent_finished": 0.8191489361702128,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-APJ": [
@@ -1954,6 +2034,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.29901960784313725,
         "timestamp": 1517187603.055847
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 66,
+        "submitted_survey": 0,
+        "percent_finished": 0.3235294117647059,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-CS2": [
@@ -2000,6 +2090,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-DPR",
+        "course_name": "Dokumentace, prezentace, rétorika",
+        "enrolled": 3,
+        "finished": 2,
+        "submitted_survey": 0,
+        "percent_finished": 0.6666666666666666,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-EHD": [
@@ -2348,6 +2448,16 @@
         "submitted_survey": 62,
         "percent_finished": 0.6293706293706294,
         "timestamp": 1517187603.055847
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-PAI",
+        "course_name": "Právo a informatika",
+        "enrolled": 715,
+        "finished": 487,
+        "submitted_survey": 65,
+        "percent_finished": 0.6811188811188811,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-PGA": [
@@ -2490,6 +2600,16 @@
         "submitted_survey": 3,
         "percent_finished": 0.358974358974359,
         "timestamp": 1516410012.164765
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-SP2.1",
+        "course_name": "Softwarový týmový projekt 2",
+        "enrolled": 117,
+        "finished": 43,
+        "submitted_survey": 5,
+        "percent_finished": 0.36752136752136755,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-TIS": [
@@ -2582,6 +2702,16 @@
         "submitted_survey": 3,
         "percent_finished": 0.5531914893617021,
         "timestamp": 1517187603.055847
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-TIS",
+        "course_name": "Tvorba informačních systémů",
+        "enrolled": 47,
+        "finished": 28,
+        "submitted_survey": 4,
+        "percent_finished": 0.5957446808510638,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-TJV": [
@@ -2864,6 +2994,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.13333333333333333,
         "timestamp": 1516842005.952131
+      },
+      {
+        "department": 18103,
+        "course_id": "BI-PNO",
+        "course_name": "Praktika v návrhu číslicových obvodů",
+        "enrolled": 15,
+        "finished": 3,
+        "submitted_survey": 0,
+        "percent_finished": 0.2,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-ZIVS": [
@@ -3392,6 +3532,16 @@
         "submitted_survey": 22,
         "percent_finished": 0.6597938144329897,
         "timestamp": 1516755606.164073
+      },
+      {
+        "department": 18105,
+        "course_id": "BI-PST",
+        "course_name": "Pravděpodobnost a statistika",
+        "enrolled": 291,
+        "finished": 211,
+        "submitted_survey": 29,
+        "percent_finished": 0.7250859106529209,
+        "timestamp": 1517274003.800476
       }
     ],
     "BI-ZDM": [
@@ -4130,6 +4280,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.8181818181818182,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18102,
+        "course_id": "BIE-OOP",
+        "course_name": "Object-Oriented Programming",
+        "enrolled": 11,
+        "finished": 10,
+        "submitted_survey": 1,
+        "percent_finished": 0.9090909090909091,
+        "timestamp": 1517274003.800476
       }
     ],
     "BIE-PAI": [
@@ -4152,6 +4312,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.47368421052631576,
         "timestamp": 1515978017.370111
+      },
+      {
+        "department": 18102,
+        "course_id": "BIE-PAI",
+        "course_name": "Law and Informatics",
+        "enrolled": 38,
+        "finished": 25,
+        "submitted_survey": 0,
+        "percent_finished": 0.6578947368421053,
+        "timestamp": 1517274003.800476
       }
     ],
     "BIE-SP2.1": [
@@ -4238,6 +4408,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.8235294117647058,
         "timestamp": 1517187603.055847
+      },
+      {
+        "department": 18103,
+        "course_id": "BIE-CAO",
+        "course_name": "Digital and Analog Circuits",
+        "enrolled": 34,
+        "finished": 30,
+        "submitted_survey": 0,
+        "percent_finished": 0.8823529411764706,
+        "timestamp": 1517274003.800476
       }
     ],
     "BIE-JPO": [
@@ -4626,6 +4806,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-PPR",
+        "course_name": "Projekt, prezentace a rétorika",
+        "enrolled": 1,
+        "finished": 1,
+        "submitted_survey": 0,
+        "percent_finished": 1.0,
+        "timestamp": 1517274003.800476
       }
     ],
     "BIK-PRP": [
@@ -4910,6 +5100,16 @@
         "submitted_survey": 1,
         "percent_finished": 0.23076923076923078,
         "timestamp": 1516669204.660446
+      },
+      {
+        "department": 18101,
+        "course_id": "BIK-PA1",
+        "course_name": "Programování a algoritmizace 1",
+        "enrolled": 78,
+        "finished": 20,
+        "submitted_survey": 1,
+        "percent_finished": 0.2564102564102564,
+        "timestamp": 1517274003.800476
       }
     ],
     "BIK-PPA": [
@@ -5062,6 +5262,16 @@
         "submitted_survey": 2,
         "percent_finished": 0.35294117647058826,
         "timestamp": 1516582813.395105
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-PAI",
+        "course_name": "Právo a informatika",
+        "enrolled": 68,
+        "finished": 30,
+        "submitted_survey": 2,
+        "percent_finished": 0.4411764705882353,
+        "timestamp": 1517274003.800476
       }
     ],
     "BIK-SI2.3": [
@@ -5412,6 +5622,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.058823529411764705,
         "timestamp": 1516582813.395105
+      },
+      {
+        "department": 18105,
+        "course_id": "BIK-ZMA",
+        "course_name": "Základy matematické analýzy",
+        "enrolled": 85,
+        "finished": 7,
+        "submitted_survey": 0,
+        "percent_finished": 0.08235294117647059,
+        "timestamp": 1517274003.800476
       }
     ]
   },
@@ -6048,6 +6268,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.027777777777777776,
         "timestamp": 1516064412.824985
+      },
+      {
+        "department": 18101,
+        "course_id": "MI-PDD.16",
+        "course_name": "Předzpracování dat",
+        "enrolled": 36,
+        "finished": 17,
+        "submitted_survey": 0,
+        "percent_finished": 0.4722222222222222,
+        "timestamp": 1517274003.800476
       }
     ],
     "MI-ROZ.16": [
@@ -6368,6 +6598,16 @@
         "submitted_survey": 6,
         "percent_finished": 0.38738738738738737,
         "timestamp": 1517187603.055847
+      },
+      {
+        "department": 18102,
+        "course_id": "MI-MDW.16",
+        "course_name": "Webové služby a middleware",
+        "enrolled": 111,
+        "finished": 74,
+        "submitted_survey": 6,
+        "percent_finished": 0.6666666666666666,
+        "timestamp": 1517274003.800476
       }
     ],
     "MI-MEP.16": [
@@ -6410,6 +6650,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.3103448275862069,
         "timestamp": 1516928404.977906
+      },
+      {
+        "department": 18102,
+        "course_id": "MI-MEP.16",
+        "course_name": "Modelování ekonomických procesů",
+        "enrolled": 29,
+        "finished": 13,
+        "submitted_survey": 0,
+        "percent_finished": 0.4482758620689655,
+        "timestamp": 1517274003.800476
       }
     ],
     "MI-MPC": [
@@ -6462,6 +6712,16 @@
         "submitted_survey": 7,
         "percent_finished": 0.7333333333333333,
         "timestamp": 1517046893.447771
+      },
+      {
+        "department": 18102,
+        "course_id": "MI-MPC",
+        "course_name": "Moderní programování v C++",
+        "enrolled": 90,
+        "finished": 65,
+        "submitted_survey": 10,
+        "percent_finished": 0.7222222222222222,
+        "timestamp": 1517274003.800476
       }
     ],
     "MI-NUR.16": [
@@ -7040,6 +7300,16 @@
         "submitted_survey": 3,
         "percent_finished": 0.5802469135802469,
         "timestamp": 1516842005.952131
+      },
+      {
+        "department": 18104,
+        "course_id": "MI-IBE",
+        "course_name": "Informační bezpečnost",
+        "enrolled": 81,
+        "finished": 48,
+        "submitted_survey": 4,
+        "percent_finished": 0.5925925925925926,
+        "timestamp": 1517274003.800476
       }
     ],
     "MI-KRY.16": [
@@ -7178,6 +7448,16 @@
         "submitted_survey": 1,
         "percent_finished": 0.6296296296296297,
         "timestamp": 1517046893.447771
+      },
+      {
+        "department": 18104,
+        "course_id": "MI-MTI.16",
+        "course_name": "Moderní technologie Internetu",
+        "enrolled": 54,
+        "finished": 41,
+        "submitted_survey": 1,
+        "percent_finished": 0.7592592592592593,
+        "timestamp": 1517274003.800476
       }
     ],
     "MI-REV.16": [
@@ -7670,6 +7950,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.6842105263157895,
         "timestamp": 1516669204.660446
+      },
+      {
+        "department": 18102,
+        "course_id": "MIE-MDW.16",
+        "course_name": "Web Services and Middleware",
+        "enrolled": 19,
+        "finished": 14,
+        "submitted_survey": 0,
+        "percent_finished": 0.7368421052631579,
+        "timestamp": 1517274003.800476
       }
     ],
     "MIE-NUR.16": [
@@ -7738,6 +8028,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.0,
         "timestamp": 1515546004.114559
+      },
+      {
+        "department": 18103,
+        "course_id": "MIE-ARI",
+        "course_name": "Computer Arithmetic",
+        "enrolled": 1,
+        "finished": 1,
+        "submitted_survey": 0,
+        "percent_finished": 1.0,
+        "timestamp": 1517274003.800476
       }
     ],
     "MIE-NFA.16": [
@@ -8118,6 +8418,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.4,
         "timestamp": 1516669204.660446
+      },
+      {
+        "department": 18105,
+        "course_id": "MIE-MPI",
+        "course_name": "Mathematics for Informatics",
+        "enrolled": 5,
+        "finished": 3,
+        "submitted_survey": 0,
+        "percent_finished": 0.6,
+        "timestamp": 1517274003.800476
       }
     ]
   },

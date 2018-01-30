@@ -15,10 +15,10 @@
         
 ## Computer Arithmetic (MIE-ARI)
 
-|                          |10.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/1|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/1|
+|**Splněno celkem procent**|100%|
 
 
 ## Automata in Text Pattern Matching (MIE-AVY)
@@ -143,10 +143,10 @@
 
 ## Web Services and Middleware (MIE-MDW.16)
 
-|                          |23.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |13/19|
-|**Splněno celkem procent**|68%|
+|**Splněno celkem**        |14/19|
+|**Splněno celkem procent**|74%|
 
 
 ## Mathematics for Cryptology (MIE-MKY.16)
@@ -159,10 +159,10 @@
 
 ## Mathematics for Informatics (MIE-MPI)
 
-|                          |23.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/5|
-|**Splněno celkem procent**|40%|
+|**Splněno celkem**        |3/5|
+|**Splněno celkem procent**|60%|
 
 
 ## Modern Internet Technologies (MIE-MTI.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 29.01.2018 02:00:03*
+*Stav k 30.01.2018 02:00:04*

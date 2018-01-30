@@ -310,10 +310,10 @@
 
 ## Informační bezpečnost (MI-IBE)
 
-|                          |26.01.2011|26.01.2012|25.01.2018|
+|                          |26.01.2011|26.01.2012|30.01.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |193/199|180/188|47/81|
-|**Splněno celkem procent**|97%|96%|58%|
+|**Splněno celkem**        |193/199|180/188|48/81|
+|**Splněno celkem procent**|97%|96%|59%|
 
 
 ##  Internet a klasifikační metody (MI-IKM)
@@ -462,10 +462,10 @@
 
 ## Webové služby a middleware (MI-MDW.16)
 
-|                          |29.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |43/111|
-|**Splněno celkem procent**|39%|
+|**Splněno celkem**        |74/111|
+|**Splněno celkem procent**|67%|
 
 
 ## Modelování ekonomických procesů (MI-MEP)
@@ -478,10 +478,10 @@
 
 ## Modelování ekonomických procesů (MI-MEP.16)
 
-|                          |26.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |9/29|
-|**Splněno celkem procent**|31%|
+|**Splněno celkem**        |13/29|
+|**Splněno celkem procent**|45%|
 
 
 ##  (MI-MKY)
@@ -502,10 +502,10 @@
 
 ## Moderní programování v C++ (MI-MPC)
 
-|                          |27.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |66/90|
-|**Splněno celkem procent**|73%|
+|**Splněno celkem**        |65/90|
+|**Splněno celkem procent**|72%|
 
 
 ## Matematika pro informatiku (MI-MPI)
@@ -534,10 +534,10 @@
 
 ## Moderní technologie Internetu (MI-MTI.16)
 
-|                          |27.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |34/54|
-|**Splněno celkem procent**|63%|
+|**Splněno celkem**        |41/54|
+|**Splněno celkem procent**|76%|
 
 
 ## Metody výpočetní inteligence (MI-MVI)
@@ -710,10 +710,10 @@
 
 ## Předzpracování dat (MI-PDD.16)
 
-|                          |16.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/36|
-|**Splněno celkem procent**|3%|
+|**Splněno celkem**        |17/36|
+|**Splněno celkem procent**|47%|
 
 
 ## Paralelní a distribuované programování (MI-PDP.16)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 29.01.2018 02:00:03*
+*Stav k 30.01.2018 02:00:04*

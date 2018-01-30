@@ -191,10 +191,10 @@
 
 ## Programování a algoritmizace 1 (BIK-PA1)
 
-|                          |23.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |18/78|
-|**Splněno celkem procent**|23%|
+|**Splněno celkem**        |20/78|
+|**Splněno celkem procent**|26%|
 
 
 ## Programování a algoritmizace 2 (BIK-PA2)
@@ -207,10 +207,10 @@
 
 ## Právo a informatika (BIK-PAI)
 
-|                          |22.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |24/68|
-|**Splněno celkem procent**|35%|
+|**Splněno celkem**        |30/68|
+|**Splněno celkem procent**|44%|
 
 
 ## Programovací jazyky a překladače (BIK-PJP)
@@ -231,10 +231,10 @@
 
 ## Projekt, prezentace a rétorika (BIK-PPR)
 
-|                          |18.06.2017|10.01.2018|
+|                          |18.06.2017|30.01.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |9/10|0/1|
-|**Splněno celkem procent**|90%|0%|
+|**Splněno celkem**        |9/10|1/1|
+|**Splněno celkem procent**|90%|100%|
 
 
 ## Právo a podnikání (BIK-PRP)
@@ -367,10 +367,10 @@
 
 ## Základy matematické analýzy (BIK-ZMA)
 
-|                          |22.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |5/85|
-|**Splněno celkem procent**|6%|
+|**Splněno celkem**        |7/85|
+|**Splněno celkem procent**|8%|
 
 
 ## Základy webu a uživatelská rozhraní (BIK-ZWU)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 29.01.2018 02:00:03*
+*Stav k 30.01.2018 02:00:04*

@@ -112,10 +112,10 @@
 
 ## Digital and Analog Circuits (BIE-CAO)
 
-|                          |29.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |28/34|
-|**Splněno celkem procent**|82%|
+|**Splněno celkem**        |30/34|
+|**Splněno celkem procent**|88%|
 
 
 ## Základy češtiny pro cizince (BIE-CZ0)
@@ -216,10 +216,10 @@
 
 ## Object-Oriented Programming (BIE-OOP)
 
-|                          |10.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |9/11|
-|**Splněno celkem procent**|82%|
+|**Splněno celkem**        |10/11|
+|**Splněno celkem procent**|91%|
 
 
 ## Operating Systems (BIE-OSY)
@@ -248,10 +248,10 @@
 
 ## Law and Informatics (BIE-PAI)
 
-|                          |15.01.2018|
+|                          |30.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |18/38|
-|**Splněno celkem procent**|47%|
+|**Splněno celkem**        |25/38|
+|**Splněno celkem procent**|66%|
 
 
 ## Programming Languages and Compilers (BIE-PJP)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 29.01.2018 02:00:03*
+*Stav k 30.01.2018 02:00:04*

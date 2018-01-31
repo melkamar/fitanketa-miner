@@ -126,10 +126,10 @@
 
 ## Bezpečnost a bezpečné programování (MI-BPR.16)
 
-|                          |17.01.2018|
+|                          |31.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |12/22|
-|**Splněno celkem procent**|55%|
+|**Splněno celkem**        |14/22|
+|**Splněno celkem procent**|64%|
 
 
 ## Bezdrátové počítačové sítě (MI-BPS)
@@ -294,10 +294,10 @@
 
 ## Historie matematiky a informatiky 2 (MI-HMI2)
 
-|                          |11.01.2018|
+|                          |31.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |3/12|
-|**Splněno celkem procent**|25%|
+|**Splněno celkem**        |8/12|
+|**Splněno celkem procent**|67%|
 
 
 ## Hardwarová bezpečnost (MI-HWB.16)
@@ -798,10 +798,10 @@
 
 ## Reverzní inženýrství (MI-REV.16)
 
-|                          |17.01.2018|
+|                          |31.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |15/45|
-|**Splněno celkem procent**|33%|
+|**Splněno celkem**        |19/45|
+|**Splněno celkem procent**|42%|
 
 
 ## Řízení podnikové informatiky (MI-RIC)
@@ -918,10 +918,10 @@
 
 ## Simulace číslicových obvodů (MI-SIM.16)
 
-|                          |24.01.2018|
+|                          |31.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |11/12|
-|**Splněno celkem procent**|92%|
+|**Splněno celkem**        |12/12|
+|**Splněno celkem procent**|100%|
 
 
 ## Integrace v informačních systémech (MI-SIN)
@@ -1086,10 +1086,10 @@
 
 ## Vyhledávání v multimédiích (MI-VMM.16)
 
-|                          |25.01.2018|
+|                          |31.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |44/64|
-|**Splněno celkem procent**|69%|
+|**Splněno celkem**        |51/64|
+|**Splněno celkem procent**|80%|
 
 
 ## Vyhledávání multimediálního obsahu na webu (MI-VMW)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 30.01.2018 02:00:04*
+*Stav k 31.01.2018 02:00:05*

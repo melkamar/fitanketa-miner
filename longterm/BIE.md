@@ -136,10 +136,10 @@
 
 ## English external certificate (BIE-EEC)
 
-|                          |19.01.2018|
+|                          |31.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/3|
-|**Splněno celkem procent**|67%|
+|**Splněno celkem**        |3/4|
+|**Splněno celkem procent**|75%|
 
 
 ## Introduction to European Economic History (BIE-EHD)
@@ -384,10 +384,10 @@
 
 ## Elements of Calculus (BIE-ZMA)
 
-|                          |25.01.2018|
+|                          |31.01.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |8/36|
-|**Splněno celkem procent**|22%|
+|**Splněno celkem**        |10/36|
+|**Splněno celkem procent**|28%|
 
 
 ## Basics of System Control (BIE-ZRS)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 30.01.2018 02:00:04*
+*Stav k 31.01.2018 02:00:05*

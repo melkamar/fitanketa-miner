@@ -48,10 +48,10 @@
 
 ## Algorithms and Graphs 1 (BIE-AG1)
 
-|                          |11.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/17|
-|**Splněno celkem procent**|6%|
+|**Splněno celkem**        |4/17|
+|**Splněno celkem procent**|24%|
 
 
 ## Algorithms and Graphs 2 (BIE-AG2)
@@ -320,10 +320,10 @@
 
 ## Software Engineering I (BIE-SI1.2)
 
-|                          |30.06.2017|25.01.2018|
+|                          |30.06.2017|01.02.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |7/19|5/16|
-|**Splněno celkem procent**|37%|31%|
+|**Splněno celkem**        |7/19|6/16|
+|**Splněno celkem procent**|37%|38%|
 
 
 ## Team Software Project 1 (BIE-SP1)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 31.01.2018 02:00:05*
+*Stav k 01.02.2018 02:00:04*

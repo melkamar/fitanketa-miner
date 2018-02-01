@@ -310,10 +310,10 @@
 
 ## Informační bezpečnost (MI-IBE)
 
-|                          |26.01.2011|26.01.2012|30.01.2018|
+|                          |26.01.2011|26.01.2012|01.02.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |193/199|180/188|48/81|
-|**Splněno celkem procent**|97%|96%|59%|
+|**Splněno celkem**        |193/199|180/188|70/81|
+|**Splněno celkem procent**|97%|96%|86%|
 
 
 ##  Internet a klasifikační metody (MI-IKM)
@@ -614,10 +614,10 @@
 
 ## Návrh uživatelského rozhraní (MI-NUR.16)
 
-|                          |19.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |68/75|
-|**Splněno celkem procent**|91%|
+|**Splněno celkem**        |72/75|
+|**Splněno celkem procent**|96%|
 
 
 ## Problémy a algoritmy (MI-PAA)
@@ -694,10 +694,10 @@
 
 ## Pokročilé databázové systémy (MI-PDB.16)
 
-|                          |25.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |98/108|
-|**Splněno celkem procent**|91%|
+|**Splněno celkem**        |103/108|
+|**Splněno celkem procent**|95%|
 
 
 ## Předzpracování dat (MI-PDD)
@@ -790,10 +790,10 @@
 
 ## Pokročilý Python (MI-PYT)
 
-|                          |10.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/44|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/44|
+|**Splněno celkem procent**|2%|
 
 
 ## Reverzní inženýrství (MI-REV.16)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 31.01.2018 02:00:05*
+*Stav k 01.02.2018 02:00:04*

@@ -199,18 +199,18 @@
 
 ## User Interface Design (MIE-NUR.16)
 
-|                          |23.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |11/15|
-|**Splněno celkem procent**|73%|
+|**Splněno celkem**        |13/15|
+|**Splněno celkem procent**|87%|
 
 
 ## Problems and Algorithms (MIE-PAA)
 
-|                          |18.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |3/18|
-|**Splněno celkem procent**|17%|
+|**Splněno celkem**        |11/18|
+|**Splněno celkem procent**|61%|
 
 
 ## Parallel Computer Architectures (MIE-PAP.16)
@@ -239,10 +239,10 @@
 
 ## Data Preprocessing (MIE-PDD.16)
 
-|                          |13.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/10|
-|**Splněno celkem procent**|10%|
+|**Splněno celkem**        |4/10|
+|**Splněno celkem procent**|40%|
 
 
 ## Parallel and Distributed Programming (MIE-PDP.16)
@@ -287,10 +287,10 @@
 
 ## Network Security (MIE-SIB.16)
 
-|                          |20.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |14/21|
-|**Splněno celkem procent**|67%|
+|**Splněno celkem**        |15/21|
+|**Splněno celkem procent**|71%|
 
 
 ## Digital Circuit Simulation (MIE-SIM.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 31.01.2018 02:00:05*
+*Stav k 01.02.2018 02:00:04*

@@ -31,10 +31,10 @@
 
 ## Administrace OS Windows (BIK-ADW.1)
 
-|                          |10.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |11/22|
-|**Splněno celkem procent**|50%|
+|**Splněno celkem**        |12/22|
+|**Splněno celkem procent**|55%|
 
 
 ## Algoritmy a grafy 1 (BIK-AG1)
@@ -247,10 +247,10 @@
 
 ## Programování v shellu 1 (BIK-PS1)
 
-|                          |10.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |18/68|
-|**Splněno celkem procent**|26%|
+|**Splněno celkem**        |20/68|
+|**Splněno celkem procent**|29%|
 
 
 ## Programování v shellu 2 (BIK-PS2)
@@ -335,10 +335,10 @@
 
 ## Datová úložiště a systémy souborů (BIK-STO)
 
-|                          |10.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/7|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |3/7|
+|**Splněno celkem procent**|43%|
 
 
 ## Technologie Java (BIK-TJV)
@@ -367,10 +367,10 @@
 
 ## Základy matematické analýzy (BIK-ZMA)
 
-|                          |30.01.2018|
+|                          |01.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |7/85|
-|**Splněno celkem procent**|8%|
+|**Splněno celkem**        |6/85|
+|**Splněno celkem procent**|7%|
 
 
 ## Základy webu a uživatelská rozhraní (BIK-ZWU)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 31.01.2018 02:00:05*
+*Stav k 01.02.2018 02:00:04*

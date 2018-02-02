@@ -231,10 +231,10 @@
 
 ## Advanced Database Systems (MIE-PDB.16)
 
-|                          |19.01.2018|
+|                          |02.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |8/12|
-|**Splněno celkem procent**|67%|
+|**Splněno celkem**        |10/12|
+|**Splněno celkem procent**|83%|
 
 
 ## Data Preprocessing (MIE-PDD.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 01.02.2018 02:00:04*
+*Stav k 02.02.2018 02:00:04*

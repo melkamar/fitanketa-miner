@@ -222,10 +222,10 @@
 
 ## Podnikové datové sklady (MI-EDW.16)
 
-|                          |26.01.2018|
+|                          |02.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |23/39|
-|**Splněno celkem procent**|59%|
+|**Splněno celkem**        |27/39|
+|**Splněno celkem procent**|69%|
 
 
 ## Efektivní vyhledávání v textech (MI-EVY)
@@ -934,10 +934,10 @@
 
 ## Strategické řízení informatiky (MI-SMI.16)
 
-|                          |26.01.2018|
+|                          |02.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |22/25|
-|**Splněno celkem procent**|88%|
+|**Splněno celkem**        |23/25|
+|**Splněno celkem procent**|92%|
 
 
 ## Systémy na čipu (MI-SOC)
@@ -1030,10 +1030,10 @@
 
 ## Teorie systémů (MI-TES.16)
 
-|                          |26.01.2018|
+|                          |02.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |27/31|
-|**Splněno celkem procent**|87%|
+|**Splněno celkem**        |28/31|
+|**Splněno celkem procent**|90%|
 
 
 ## Teorie systémů (MI-TES.2)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 01.02.2018 02:00:04*
+*Stav k 02.02.2018 02:00:04*

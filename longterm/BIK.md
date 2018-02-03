@@ -47,10 +47,10 @@
 
 ## Architektury počítačových systémů (BIK-APS.1)
 
-|                          |19.01.2018|
+|                          |03.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/12|
-|**Splněno celkem procent**|8%|
+|**Splněno celkem**        |2/12|
+|**Splněno celkem procent**|17%|
 
 
 ## Administrace webového a DB serveru (BIK-AWD)
@@ -367,10 +367,10 @@
 
 ## Základy matematické analýzy (BIK-ZMA)
 
-|                          |01.02.2018|
+|                          |03.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |6/85|
-|**Splněno celkem procent**|7%|
+|**Splněno celkem**        |7/85|
+|**Splněno celkem procent**|8%|
 
 
 ## Základy webu a uživatelská rozhraní (BIK-ZWU)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 02.02.2018 02:00:04*
+*Stav k 03.02.2018 02:00:03*

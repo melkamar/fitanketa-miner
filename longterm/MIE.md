@@ -111,10 +111,10 @@
 
 ## Information Security (MIE-IBE)
 
-|                          |15.01.2018|
+|                          |03.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |5/13|
-|**Splněno celkem procent**|38%|
+|**Splněno celkem**        |6/13|
+|**Splněno celkem procent**|46%|
 
 
 ## Data Compression (MIE-KOD)
@@ -359,10 +359,10 @@
 
 ## Retrieval of Multimedia Content on the Web (MIE-VMW)
 
-|                          |10.01.2018|
+|                          |03.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/2|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/2|
+|**Splněno celkem procent**|50%|
 
 
 ## Web 2.0 (MIE-W20)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 02.02.2018 02:00:04*
+*Stav k 03.02.2018 02:00:03*

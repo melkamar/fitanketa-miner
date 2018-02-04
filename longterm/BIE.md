@@ -248,10 +248,10 @@
 
 ## Law and Informatics (BIE-PAI)
 
-|                          |30.01.2018|
+|                          |04.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |25/38|
-|**Splněno celkem procent**|66%|
+|**Splněno celkem**        |29/38|
+|**Splněno celkem procent**|76%|
 
 
 ## Programming Languages and Compilers (BIE-PJP)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 03.02.2018 02:00:03*
+*Stav k 04.02.2018 02:00:03*

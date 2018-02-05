@@ -798,10 +798,10 @@
 
 ## Reverzní inženýrství (MI-REV.16)
 
-|                          |31.01.2018|
+|                          |05.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |19/45|
-|**Splněno celkem procent**|42%|
+|**Splněno celkem**        |18/45|
+|**Splněno celkem procent**|40%|
 
 
 ## Řízení podnikové informatiky (MI-RIC)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 04.02.2018 02:00:03*
+*Stav k 05.02.2018 02:00:04*

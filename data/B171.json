@@ -694,6 +694,16 @@
         "submitted_survey": 3,
         "percent_finished": 0.1686746987951807,
         "timestamp": 1517274003.800476
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-EMP",
+        "course_name": "Ekonomické a manažerské principy",
+        "enrolled": 166,
+        "finished": 100,
+        "submitted_survey": 4,
+        "percent_finished": 0.6024096385542169,
+        "timestamp": 1517792403.71171
       }
     ],
     "BI-FIP": [
@@ -2314,6 +2324,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.4264705882352941,
         "timestamp": 1517706002.823152
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 88,
+        "submitted_survey": 0,
+        "percent_finished": 0.43137254901960786,
+        "timestamp": 1517792403.71171
       }
     ],
     "BI-CS2": [
@@ -3484,6 +3504,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.4666666666666667,
         "timestamp": 1517533203.96919
+      },
+      {
+        "department": 18103,
+        "course_id": "BI-PNO",
+        "course_name": "Praktika v návrhu číslicových obvodů",
+        "enrolled": 15,
+        "finished": 8,
+        "submitted_survey": 0,
+        "percent_finished": 0.5333333333333333,
+        "timestamp": 1517792403.71171
       }
     ],
     "BI-ZIVS": [
@@ -5202,6 +5232,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.25,
         "timestamp": 1516928404.977906
+      },
+      {
+        "department": 18105,
+        "course_id": "BIE-MLO",
+        "course_name": "Mathematical Logic",
+        "enrolled": 40,
+        "finished": 12,
+        "submitted_survey": 0,
+        "percent_finished": 0.3,
+        "timestamp": 1517792403.71171
       }
     ],
     "BIE-PST": [
@@ -8320,6 +8360,16 @@
         "submitted_survey": 4,
         "percent_finished": 0.4222222222222222,
         "timestamp": 1517360404.723237
+      },
+      {
+        "department": 18104,
+        "course_id": "MI-REV.16",
+        "course_name": "Reverzní inženýrství",
+        "enrolled": 45,
+        "finished": 18,
+        "submitted_survey": 7,
+        "percent_finished": 0.4,
+        "timestamp": 1517792403.71171
       }
     ],
     "MI-SIB.16": [

@@ -111,10 +111,10 @@
 
 ## Information Security (MIE-IBE)
 
-|                          |03.02.2018|
+|                          |06.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |6/13|
-|**Splněno celkem procent**|46%|
+|**Splněno celkem**        |11/13|
+|**Splněno celkem procent**|85%|
 
 
 ## Data Compression (MIE-KOD)
@@ -143,10 +143,10 @@
 
 ## Web Services and Middleware (MIE-MDW.16)
 
-|                          |30.01.2018|
+|                          |06.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |14/19|
-|**Splněno celkem procent**|74%|
+|**Splněno celkem**        |16/19|
+|**Splněno celkem procent**|84%|
 
 
 ## Mathematics for Cryptology (MIE-MKY.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 05.02.2018 02:00:04*
+*Stav k 06.02.2018 02:00:03*

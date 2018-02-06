@@ -208,10 +208,10 @@
 
 ## Mathematical Logic (BIE-MLO)
 
-|                          |05.02.2018|
+|                          |06.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |12/40|
-|**Splněno celkem procent**|30%|
+|**Splněno celkem**        |19/40|
+|**Splněno celkem procent**|48%|
 
 
 ## Object-Oriented Programming (BIE-OOP)
@@ -232,10 +232,10 @@
 
 ## Programming and Algorithmics 1 (BIE-PA1)
 
-|                          |23.01.2018|
+|                          |06.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |5/45|
-|**Splněno celkem procent**|11%|
+|**Splněno celkem**        |9/45|
+|**Splněno celkem procent**|20%|
 
 
 ## Programming and Algorithmics 2 (BIE-PA2)
@@ -384,10 +384,10 @@
 
 ## Elements of Calculus (BIE-ZMA)
 
-|                          |31.01.2018|
+|                          |06.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |10/36|
-|**Splněno celkem procent**|28%|
+|**Splněno celkem**        |13/36|
+|**Splněno celkem procent**|36%|
 
 
 ## Basics of System Control (BIE-ZRS)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 05.02.2018 02:00:04*
+*Stav k 06.02.2018 02:00:03*

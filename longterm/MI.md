@@ -462,10 +462,10 @@
 
 ## Webové služby a middleware (MI-MDW.16)
 
-|                          |30.01.2018|
+|                          |06.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |74/111|
-|**Splněno celkem procent**|67%|
+|**Splněno celkem**        |84/111|
+|**Splněno celkem procent**|76%|
 
 
 ## Modelování ekonomických procesů (MI-MEP)
@@ -550,10 +550,10 @@
 
 ## Metody výpočetní inteligence (MI-MVI.16)
 
-|                          |06.07.2017|26.01.2018|
+|                          |06.07.2017|06.02.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |17/25|13/27|
-|**Splněno celkem procent**|68%|48%|
+|**Splněno celkem**        |17/25|14/27|
+|**Splněno celkem procent**|68%|52%|
 
 
 ## Matematika pro znalostní inženýrství (MI-MZI)
@@ -622,10 +622,10 @@
 
 ## Problémy a algoritmy (MI-PAA)
 
-|                          |26.01.2011|26.01.2012|19.01.2018|
+|                          |26.01.2011|26.01.2012|06.02.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |151/181|142/191|48/193|
-|**Splněno celkem procent**|83%|74%|25%|
+|**Splněno celkem**        |151/181|142/191|100/193|
+|**Splněno celkem procent**|83%|74%|52%|
 
 
 ## Pokročilá algoritmizace (MI-PAL)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 05.02.2018 02:00:04*
+*Stav k 06.02.2018 02:00:03*

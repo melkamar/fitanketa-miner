@@ -31,10 +31,10 @@
 
 ## Administrace OS Windows (BIK-ADW.1)
 
-|                          |01.02.2018|
+|                          |06.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |12/22|
-|**Splněno celkem procent**|55%|
+|**Splněno celkem**        |13/22|
+|**Splněno celkem procent**|59%|
 
 
 ## Algoritmy a grafy 1 (BIK-AG1)
@@ -359,10 +359,10 @@
 
 ## Základy diskrétní matematiky (BIK-ZDM)
 
-|                          |29.01.2018|
+|                          |06.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |4/36|
-|**Splněno celkem procent**|11%|
+|**Splněno celkem**        |9/36|
+|**Splněno celkem procent**|25%|
 
 
 ## Základy matematické analýzy (BIK-ZMA)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 05.02.2018 02:00:04*
+*Stav k 06.02.2018 02:00:03*

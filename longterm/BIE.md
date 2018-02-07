@@ -136,10 +136,10 @@
 
 ## English external certificate (BIE-EEC)
 
-|                          |31.01.2018|
+|                          |07.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |3/4|
-|**Splněno celkem procent**|75%|
+|**Splněno celkem**        |4/5|
+|**Splněno celkem procent**|80%|
 
 
 ## Introduction to European Economic History (BIE-EHD)
@@ -248,10 +248,10 @@
 
 ## Law and Informatics (BIE-PAI)
 
-|                          |04.02.2018|
+|                          |07.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |29/38|
-|**Splněno celkem procent**|76%|
+|**Splněno celkem**        |31/38|
+|**Splněno celkem procent**|82%|
 
 
 ## Programming Languages and Compilers (BIE-PJP)
@@ -352,10 +352,10 @@
 
 ## Java Technology (BIE-TJV)
 
-|                          |25.01.2018|
+|                          |07.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |9/22|
-|**Splněno celkem procent**|41%|
+|**Splněno celkem**        |10/22|
+|**Splněno celkem procent**|45%|
 
 
 ## User Interface Design (BIE-TUR)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 06.02.2018 02:00:03*
+*Stav k 07.02.2018 02:00:03*

@@ -126,10 +126,10 @@
 
 ## Bezpečnost a bezpečné programování (MI-BPR.16)
 
-|                          |31.01.2018|
+|                          |07.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |14/22|
-|**Splněno celkem procent**|64%|
+|**Splněno celkem**        |16/22|
+|**Splněno celkem procent**|73%|
 
 
 ## Bezdrátové počítačové sítě (MI-BPS)
@@ -798,10 +798,10 @@
 
 ## Reverzní inženýrství (MI-REV.16)
 
-|                          |05.02.2018|
+|                          |07.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |18/45|
-|**Splněno celkem procent**|40%|
+|**Splněno celkem**        |24/45|
+|**Splněno celkem procent**|53%|
 
 
 ## Řízení podnikové informatiky (MI-RIC)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 06.02.2018 02:00:03*
+*Stav k 07.02.2018 02:00:03*

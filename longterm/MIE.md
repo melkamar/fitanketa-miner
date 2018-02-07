@@ -63,18 +63,18 @@
 
 ## Distributed Systems and Computing (MIE-DSV.16)
 
-|                          |27.01.2018|
+|                          |07.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |8/18|
-|**Splněno celkem procent**|44%|
+|**Splněno celkem**        |9/18|
+|**Splněno celkem procent**|50%|
 
 
 ## Efficient Text Pattern Matching (MIE-EVY.16)
 
-|                          |18.01.2018|
+|                          |07.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/3|
-|**Splněno celkem procent**|67%|
+|**Splněno celkem**        |3/3|
+|**Splněno celkem procent**|100%|
 
 
 ## Functional and Logical Programming (MIE-FLP)
@@ -271,10 +271,10 @@
 
 ## Reverse Engineering (MIE-REV.16)
 
-|                          |10.01.2018|
+|                          |07.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/3|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/3|
+|**Splněno celkem procent**|33%|
 
 
 ## Pattern Recognition (MIE-ROZ)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 06.02.2018 02:00:03*
+*Stav k 07.02.2018 02:00:03*

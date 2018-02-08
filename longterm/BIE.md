@@ -136,10 +136,10 @@
 
 ## English external certificate (BIE-EEC)
 
-|                          |07.02.2018|
+|                          |08.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |4/5|
-|**Splněno celkem procent**|80%|
+|**Splněno celkem**        |6/7|
+|**Splněno celkem procent**|86%|
 
 
 ## Introduction to European Economic History (BIE-EHD)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 07.02.2018 02:00:03*
+*Stav k 08.02.2018 02:00:04*

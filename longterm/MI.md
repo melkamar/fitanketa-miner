@@ -694,10 +694,10 @@
 
 ## Pokročilé databázové systémy (MI-PDB.16)
 
-|                          |01.02.2018|
+|                          |08.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |103/108|
-|**Splněno celkem procent**|95%|
+|**Splněno celkem**        |104/108|
+|**Splněno celkem procent**|96%|
 
 
 ## Předzpracování dat (MI-PDD)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 07.02.2018 02:00:03*
+*Stav k 08.02.2018 02:00:04*

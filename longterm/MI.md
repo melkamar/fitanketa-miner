@@ -502,10 +502,10 @@
 
 ## Moderní programování v C++ (MI-MPC)
 
-|                          |30.01.2018|
+|                          |09.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |65/90|
-|**Splněno celkem procent**|72%|
+|**Splněno celkem**        |68/90|
+|**Splněno celkem procent**|76%|
 
 
 ## Matematika pro informatiku (MI-MPI)
@@ -710,10 +710,10 @@
 
 ## Předzpracování dat (MI-PDD.16)
 
-|                          |30.01.2018|
+|                          |09.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |17/36|
-|**Splněno celkem procent**|47%|
+|**Splněno celkem**        |18/37|
+|**Splněno celkem procent**|49%|
 
 
 ## Paralelní a distribuované programování (MI-PDP.16)
@@ -758,10 +758,10 @@
 
 ## Programování v CUDA (MI-PRC)
 
-|                          |26.06.2011|26.06.2012|18.06.2017|11.01.2018|
+|                          |26.06.2011|26.06.2012|18.06.2017|09.02.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |13/17|11/15|11/19|11/15|
-|**Splněno celkem procent**|76%|73%|58%|73%|
+|**Splněno celkem**        |13/17|11/15|11/19|12/15|
+|**Splněno celkem procent**|76%|73%|58%|80%|
 
 
 ## Projektové manažerství (MI-PRM)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 08.02.2018 02:00:04*
+*Stav k 09.02.2018 02:00:03*

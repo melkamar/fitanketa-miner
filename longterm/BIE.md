@@ -48,10 +48,10 @@
 
 ## Algorithms and Graphs 1 (BIE-AG1)
 
-|                          |01.02.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |4/17|
-|**Splněno celkem procent**|24%|
+|**Splněno celkem**        |6/17|
+|**Splněno celkem procent**|35%|
 
 
 ## Algorithms and Graphs 2 (BIE-AG2)
@@ -136,10 +136,10 @@
 
 ## English external certificate (BIE-EEC)
 
-|                          |08.02.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |6/7|
-|**Splněno celkem procent**|86%|
+|**Splněno celkem**        |7/8|
+|**Splněno celkem procent**|88%|
 
 
 ## Introduction to European Economic History (BIE-EHD)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 09.02.2018 02:00:03*
+*Stav k 10.02.2018 02:00:04*

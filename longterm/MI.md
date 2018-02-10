@@ -206,10 +206,10 @@
 
 ## Distribuované systémy a výpočty (MI-DSV.16)
 
-|                          |27.01.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |12/19|
-|**Splněno celkem procent**|63%|
+|**Splněno celkem**        |14/19|
+|**Splněno celkem procent**|74%|
 
 
 ## Digitální zpracování obrazu (MI-DZO)
@@ -478,10 +478,10 @@
 
 ## Modelování ekonomických procesů (MI-MEP.16)
 
-|                          |30.01.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |13/29|
-|**Splněno celkem procent**|45%|
+|**Splněno celkem**        |18/29|
+|**Splněno celkem procent**|62%|
 
 
 ##  (MI-MKY)
@@ -510,10 +510,10 @@
 
 ## Matematika pro informatiku (MI-MPI)
 
-|                          |26.06.2010|26.06.2011|26.01.2012|26.06.2012|03.02.2018|
+|                          |26.06.2010|26.06.2011|26.01.2012|26.06.2012|10.02.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |175/193|170/197|155/201|4/4|150/198|
-|**Splněno celkem procent**|91%|86%|77%|100%|76%|
+|**Splněno celkem**        |175/193|170/197|155/201|4/4|156/198|
+|**Splněno celkem procent**|91%|86%|77%|100%|79%|
 
 
 ## Magisterský projekt, Master Project (MI-MPR)
@@ -710,10 +710,10 @@
 
 ## Předzpracování dat (MI-PDD.16)
 
-|                          |09.02.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |18/37|
-|**Splněno celkem procent**|49%|
+|**Splněno celkem**        |21/37|
+|**Splněno celkem procent**|57%|
 
 
 ## Paralelní a distribuované programování (MI-PDP.16)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 09.02.2018 02:00:03*
+*Stav k 10.02.2018 02:00:04*

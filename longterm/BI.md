@@ -88,10 +88,10 @@
 
 ## Automaty a gramatiky (BI-AAG)
 
-|                          |26.01.2010|26.01.2011|26.01.2012|04.02.2018|
+|                          |26.01.2010|26.01.2011|26.01.2012|10.02.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |179/255|282/419|250/451|146/430|
-|**Splněno celkem procent**|70%|67%|55%|34%|
+|**Splněno celkem**        |179/255|282/419|250/451|183/430|
+|**Splněno celkem procent**|70%|67%|55%|43%|
 
 
 ## Programovací praktika (BI-ACM)
@@ -280,10 +280,10 @@
 
 ## Bakalářský projekt (BI-BPR)
 
-|                          |09.02.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |112/204|
-|**Splněno celkem procent**|55%|
+|**Splněno celkem**        |118/204|
+|**Splněno celkem procent**|58%|
 
 
 ## Číslicové a analogové obvody (BI-CAO)
@@ -304,10 +304,10 @@
 
 ## Jazyk C# - přístup k datům (BI-CS2)
 
-|                          |10.01.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/52|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |46/51|
+|**Splněno celkem procent**|90%|
 
 
 ## Jazyk C# - tvorba webových aplikací (BI-CS3)
@@ -552,9 +552,9 @@
 
 ## Matematická logika (BI-MLO)
 
-|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|09.02.2018|
+|                          |26.01.2009|26.01.2010|26.01.2011|26.01.2012|10.02.2018|
 |--------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |274/447|501/609|518/680|436/686|405/770|
+|**Splněno celkem**        |274/447|501/609|518/680|436/686|407/770|
 |**Splněno celkem procent**|61%|82%|76%|64%|53%|
 
 
@@ -584,10 +584,10 @@
 
 ## Object-Oriented Programming (BI-OOP)
 
-|                          |03.02.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |123/142|
-|**Splněno celkem procent**|87%|
+|**Splněno celkem**        |127/142|
+|**Splněno celkem procent**|89%|
 
 
 ## Objektové programování v Javě (BI-OPJ)
@@ -912,10 +912,10 @@
 
 ## Systémová a síťová bezpečnost (BI-SSB)
 
-|                          |06.02.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |27/34|
-|**Splněno celkem procent**|79%|
+|**Splněno celkem**        |28/34|
+|**Splněno celkem procent**|82%|
 
 
 ## Síťové technologie 1 (BI-ST1)
@@ -1144,10 +1144,10 @@
 
 ## Znalostní systémy (BI-ZNS)
 
-|                          |30.01.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |77/94|
-|**Splněno celkem procent**|82%|
+|**Splněno celkem**        |80/94|
+|**Splněno celkem procent**|85%|
 
 
 ## Základy procesního inženýrství (BI-ZPI)
@@ -1208,4 +1208,4 @@
 
 
 
-*Stav k 09.02.2018 02:00:03*
+*Stav k 10.02.2018 02:00:04*

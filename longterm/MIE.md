@@ -63,10 +63,10 @@
 
 ## Distributed Systems and Computing (MIE-DSV.16)
 
-|                          |07.02.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |9/18|
-|**Splněno celkem procent**|50%|
+|**Splněno celkem**        |10/18|
+|**Splněno celkem procent**|56%|
 
 
 ## Efficient Text Pattern Matching (MIE-EVY.16)
@@ -191,10 +191,10 @@
 
 ## Design for the FPGA and ASIC Technology (MIE-NFA.16)
 
-|                          |20.01.2018|
+|                          |10.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/4|
-|**Splněno celkem procent**|50%|
+|**Splněno celkem**        |4/4|
+|**Splněno celkem procent**|100%|
 
 
 ## User Interface Design (MIE-NUR.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 09.02.2018 02:00:03*
+*Stav k 10.02.2018 02:00:04*

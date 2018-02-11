@@ -24,10 +24,10 @@
 
 ## Automata and Grammars (BIE-AAG)
 
-|                          |28.01.2018|
+|                          |11.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/20|
-|**Splněno celkem procent**|5%|
+|**Splněno celkem**        |2/20|
+|**Splněno celkem procent**|10%|
 
 
 ## Unix Administration (BIE-ADU.1)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 10.02.2018 02:00:04*
+*Stav k 11.02.2018 02:00:03*

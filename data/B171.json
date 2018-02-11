@@ -1038,6 +1038,16 @@
         "submitted_survey": 29,
         "percent_finished": 0.8344827586206897,
         "timestamp": 1517965203.375514
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-PJV",
+        "course_name": "Programování v Javě",
+        "enrolled": 145,
+        "finished": 127,
+        "submitted_survey": 32,
+        "percent_finished": 0.8758620689655172,
+        "timestamp": 1518310803.211228
       }
     ],
     "BI-PPR": [
@@ -1884,6 +1894,16 @@
         "submitted_survey": 40,
         "percent_finished": 0.4255813953488372,
         "timestamp": 1518224403.777115
+      },
+      {
+        "department": 18101,
+        "course_id": "BI-AAG",
+        "course_name": "Automaty a gramatiky",
+        "enrolled": 430,
+        "finished": 199,
+        "submitted_survey": 47,
+        "percent_finished": 0.4627906976744186,
+        "timestamp": 1518310803.211228
       }
     ],
     "BI-ACM3": [
@@ -5362,6 +5382,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.05,
         "timestamp": 1517101202.903126
+      },
+      {
+        "department": 18101,
+        "course_id": "BIE-AAG",
+        "course_name": "Automata and Grammars",
+        "enrolled": 20,
+        "finished": 2,
+        "submitted_survey": 0,
+        "percent_finished": 0.1,
+        "timestamp": 1518310803.211228
       }
     ],
     "BIE-AG1": [
@@ -6902,6 +6932,16 @@
         "submitted_survey": 2,
         "percent_finished": 0.4426229508196721,
         "timestamp": 1517101202.903126
+      },
+      {
+        "department": 18103,
+        "course_id": "BIK-CAO",
+        "course_name": "Číslicové a analogové obvody",
+        "enrolled": 61,
+        "finished": 29,
+        "submitted_survey": 3,
+        "percent_finished": 0.47540983606557374,
+        "timestamp": 1518310803.211228
       }
     ],
     "BIK-ADW.1": [

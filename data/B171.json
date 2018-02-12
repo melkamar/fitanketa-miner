@@ -844,6 +844,16 @@
         "submitted_survey": 7,
         "percent_finished": 0.6566265060240963,
         "timestamp": 1518138003.391593
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-EMP",
+        "course_name": "Ekonomické a manažerské principy",
+        "enrolled": 166,
+        "finished": 114,
+        "submitted_survey": 10,
+        "percent_finished": 0.6867469879518072,
+        "timestamp": 1518397203.550554
       }
     ],
     "BI-FIP": [
@@ -1270,6 +1280,16 @@
         "submitted_survey": 9,
         "percent_finished": 0.8769230769230769,
         "timestamp": 1518138003.391593
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-SI1.2",
+        "course_name": "Softwarové inženýrství I",
+        "enrolled": 65,
+        "finished": 58,
+        "submitted_survey": 9,
+        "percent_finished": 0.8923076923076924,
+        "timestamp": 1518397203.550554
       }
     ],
     "BI-SP1": [
@@ -3104,6 +3124,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.6666666666666666,
         "timestamp": 1515632404.967971
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-OMO",
+        "course_name": "Objektové modelování",
+        "enrolled": 3,
+        "finished": 3,
+        "submitted_survey": 0,
+        "percent_finished": 1.0,
+        "timestamp": 1518397203.550554
       }
     ],
     "BI-OOP": [
@@ -3490,6 +3520,16 @@
         "submitted_survey": 7,
         "percent_finished": 0.49572649572649574,
         "timestamp": 1518138003.391593
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-SP2.1",
+        "course_name": "Softwarový týmový projekt 2",
+        "enrolled": 117,
+        "finished": 62,
+        "submitted_survey": 9,
+        "percent_finished": 0.5299145299145299,
+        "timestamp": 1518397203.550554
       }
     ],
     "BI-TIS": [

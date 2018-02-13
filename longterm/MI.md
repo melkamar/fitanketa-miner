@@ -462,10 +462,10 @@
 
 ## Webové služby a middleware (MI-MDW.16)
 
-|                          |06.02.2018|
+|                          |13.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |84/111|
-|**Splněno celkem procent**|76%|
+|**Splněno celkem**        |86/111|
+|**Splněno celkem procent**|77%|
 
 
 ## Modelování ekonomických procesů (MI-MEP)
@@ -534,10 +534,10 @@
 
 ## Moderní technologie Internetu (MI-MTI.16)
 
-|                          |30.01.2018|
+|                          |13.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |41/54|
-|**Splněno celkem procent**|76%|
+|**Splněno celkem**        |42/54|
+|**Splněno celkem procent**|78%|
 
 
 ## Metody výpočetní inteligence (MI-MVI)
@@ -622,10 +622,10 @@
 
 ## Problémy a algoritmy (MI-PAA)
 
-|                          |26.01.2011|26.01.2012|06.02.2018|
+|                          |26.01.2011|26.01.2012|13.02.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |151/181|142/191|100/193|
-|**Splněno celkem procent**|83%|74%|52%|
+|**Splněno celkem**        |151/181|142/191|142/193|
+|**Splněno celkem procent**|83%|74%|74%|
 
 
 ## Pokročilá algoritmizace (MI-PAL)
@@ -710,10 +710,10 @@
 
 ## Předzpracování dat (MI-PDD.16)
 
-|                          |10.02.2018|
+|                          |13.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |21/37|
-|**Splněno celkem procent**|57%|
+|**Splněno celkem**        |23/37|
+|**Splněno celkem procent**|62%|
 
 
 ## Paralelní a distribuované programování (MI-PDP.16)
@@ -790,10 +790,10 @@
 
 ## Pokročilý Python (MI-PYT)
 
-|                          |01.02.2018|
+|                          |13.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/44|
-|**Splněno celkem procent**|2%|
+|**Splněno celkem**        |11/44|
+|**Splněno celkem procent**|25%|
 
 
 ## Reverzní inženýrství (MI-REV.16)
@@ -846,10 +846,10 @@
 
 ## Programování v Ruby (MI-RUB)
 
-|                          |26.01.2011|26.01.2012|26.01.2018|
+|                          |26.01.2011|26.01.2012|13.02.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |36/51|44/67|1/48|
-|**Splněno celkem procent**|71%|66%|2%|
+|**Splněno celkem**        |36/51|44/67|5/48|
+|**Splněno celkem procent**|71%|66%|10%|
 
 
 ## Runtime systémy (MI-RUN)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 12.02.2018 02:00:03*
+*Stav k 13.02.2018 02:00:03*

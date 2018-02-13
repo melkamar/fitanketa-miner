@@ -79,10 +79,10 @@
 
 ## Bakalářský projekt (BIK-BPR)
 
-|                          |10.01.2018|
+|                          |13.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/6|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |1/6|
+|**Splněno celkem procent**|17%|
 
 
 ## Číslicové a analogové obvody (BIK-CAO)
@@ -191,10 +191,10 @@
 
 ## Programování a algoritmizace 1 (BIK-PA1)
 
-|                          |30.01.2018|
+|                          |13.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |20/78|
-|**Splněno celkem procent**|26%|
+|**Splněno celkem**        |23/78|
+|**Splněno celkem procent**|29%|
 
 
 ## Programování a algoritmizace 2 (BIK-PA2)
@@ -367,10 +367,10 @@
 
 ## Základy matematické analýzy (BIK-ZMA)
 
-|                          |03.02.2018|
+|                          |13.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |7/85|
-|**Splněno celkem procent**|8%|
+|**Splněno celkem**        |11/85|
+|**Splněno celkem procent**|13%|
 
 
 ## Základy webu a uživatelská rozhraní (BIK-ZWU)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 12.02.2018 02:00:03*
+*Stav k 13.02.2018 02:00:03*

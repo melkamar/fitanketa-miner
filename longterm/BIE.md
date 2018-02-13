@@ -104,10 +104,10 @@
 
 ## Bachelor Project (BIE-BPR)
 
-|                          |13.01.2018|
+|                          |13.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/4|
-|**Splněno celkem procent**|25%|
+|**Splněno celkem**        |2/4|
+|**Splněno celkem procent**|50%|
 
 
 ## Digital and Analog Circuits (BIE-CAO)
@@ -384,10 +384,10 @@
 
 ## Elements of Calculus (BIE-ZMA)
 
-|                          |06.02.2018|
+|                          |13.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |13/36|
-|**Splněno celkem procent**|36%|
+|**Splněno celkem**        |19/36|
+|**Splněno celkem procent**|53%|
 
 
 ## Basics of System Control (BIE-ZRS)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 12.02.2018 02:00:03*
+*Stav k 13.02.2018 02:00:03*

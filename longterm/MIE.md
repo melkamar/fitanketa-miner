@@ -111,10 +111,10 @@
 
 ## Information Security (MIE-IBE)
 
-|                          |06.02.2018|
+|                          |14.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |11/13|
-|**Splněno celkem procent**|85%|
+|**Splněno celkem**        |13/13|
+|**Splněno celkem procent**|100%|
 
 
 ## Data Compression (MIE-KOD)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 13.02.2018 02:00:03*
+*Stav k 14.02.2018 02:00:04*

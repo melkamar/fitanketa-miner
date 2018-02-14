@@ -126,10 +126,10 @@
 
 ## Bezpečnost a bezpečné programování (MI-BPR.16)
 
-|                          |07.02.2018|
+|                          |14.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |16/22|
-|**Splněno celkem procent**|73%|
+|**Splněno celkem**        |17/22|
+|**Splněno celkem procent**|77%|
 
 
 ## Bezdrátové počítačové sítě (MI-BPS)
@@ -478,10 +478,10 @@
 
 ## Modelování ekonomických procesů (MI-MEP.16)
 
-|                          |10.02.2018|
+|                          |14.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |18/29|
-|**Splněno celkem procent**|62%|
+|**Splněno celkem**        |19/29|
+|**Splněno celkem procent**|66%|
 
 
 ##  (MI-MKY)
@@ -550,10 +550,10 @@
 
 ## Metody výpočetní inteligence (MI-MVI.16)
 
-|                          |06.07.2017|06.02.2018|
+|                          |06.07.2017|14.02.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |17/25|14/27|
-|**Splněno celkem procent**|68%|52%|
+|**Splněno celkem**        |17/25|15/27|
+|**Splněno celkem procent**|68%|56%|
 
 
 ## Matematika pro znalostní inženýrství (MI-MZI)
@@ -790,18 +790,18 @@
 
 ## Pokročilý Python (MI-PYT)
 
-|                          |13.02.2018|
+|                          |14.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |11/44|
-|**Splněno celkem procent**|25%|
+|**Splněno celkem**        |17/44|
+|**Splněno celkem procent**|39%|
 
 
 ## Reverzní inženýrství (MI-REV.16)
 
-|                          |07.02.2018|
+|                          |14.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |24/45|
-|**Splněno celkem procent**|53%|
+|**Splněno celkem**        |25/45|
+|**Splněno celkem procent**|56%|
 
 
 ## Řízení podnikové informatiky (MI-RIC)
@@ -846,10 +846,10 @@
 
 ## Programování v Ruby (MI-RUB)
 
-|                          |26.01.2011|26.01.2012|13.02.2018|
+|                          |26.01.2011|26.01.2012|14.02.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |36/51|44/67|5/48|
-|**Splněno celkem procent**|71%|66%|10%|
+|**Splněno celkem**        |36/51|44/67|7/48|
+|**Splněno celkem procent**|71%|66%|15%|
 
 
 ## Runtime systémy (MI-RUN)
@@ -862,10 +862,10 @@
 
 ## Runtime systémy (MI-RUN.16)
 
-|                          |03.02.2018|
+|                          |14.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |10/23|
-|**Splněno celkem procent**|43%|
+|**Splněno celkem**        |18/23|
+|**Splněno celkem procent**|78%|
 
 
 ## IT v době SaaS (MI-SAS)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 13.02.2018 02:00:03*
+*Stav k 14.02.2018 02:00:04*

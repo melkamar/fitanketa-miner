@@ -367,10 +367,10 @@
 
 ## Základy matematické analýzy (BIK-ZMA)
 
-|                          |13.02.2018|
+|                          |14.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |11/85|
-|**Splněno celkem procent**|13%|
+|**Splněno celkem**        |16/85|
+|**Splněno celkem procent**|19%|
 
 
 ## Základy webu a uživatelská rozhraní (BIK-ZWU)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 13.02.2018 02:00:03*
+*Stav k 14.02.2018 02:00:04*

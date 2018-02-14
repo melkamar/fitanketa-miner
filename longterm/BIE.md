@@ -208,10 +208,10 @@
 
 ## Mathematical Logic (BIE-MLO)
 
-|                          |09.02.2018|
+|                          |14.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |20/40|
-|**Splněno celkem procent**|50%|
+|**Splněno celkem**        |22/40|
+|**Splněno celkem procent**|55%|
 
 
 ## Object-Oriented Programming (BIE-OOP)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 13.02.2018 02:00:03*
+*Stav k 14.02.2018 02:00:04*

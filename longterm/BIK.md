@@ -167,10 +167,10 @@
 
 ## Matematická logika (BIK-MLO)
 
-|                          |31.01.2018|
+|                          |15.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |21/70|
-|**Splněno celkem procent**|30%|
+|**Splněno celkem**        |24/70|
+|**Splněno celkem procent**|34%|
 
 
 ## Object-Oriented Programming (BIK-OOP)
@@ -247,10 +247,10 @@
 
 ## Programování v shellu 1 (BIK-PS1)
 
-|                          |01.02.2018|
+|                          |15.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |20/68|
-|**Splněno celkem procent**|29%|
+|**Splněno celkem**        |24/68|
+|**Splněno celkem procent**|35%|
 
 
 ## Programování v shellu 2 (BIK-PS2)
@@ -271,10 +271,10 @@
 
 ## Pravděpodobnost a statistika (BIK-PST)
 
-|                          |10.01.2018|
+|                          |15.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/12|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |3/12|
+|**Splněno celkem procent**|25%|
 
 
 ## Struktura a architektura počítačů (BIK-SAP)
@@ -343,10 +343,10 @@
 
 ## Technologie Java (BIK-TJV)
 
-|                          |08.02.2018|
+|                          |15.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |13/34|
-|**Splněno celkem procent**|38%|
+|**Splněno celkem**        |14/34|
+|**Splněno celkem procent**|41%|
 
 
 ## Tvorba uživatelského rozhraní (BIK-TUR)
@@ -359,10 +359,10 @@
 
 ## Základy diskrétní matematiky (BIK-ZDM)
 
-|                          |07.02.2018|
+|                          |15.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |11/36|
-|**Splněno celkem procent**|31%|
+|**Splněno celkem**        |13/36|
+|**Splněno celkem procent**|36%|
 
 
 ## Základy matematické analýzy (BIK-ZMA)
@@ -375,12 +375,12 @@
 
 ## Základy webu a uživatelská rozhraní (BIK-ZWU)
 
-|                          |10.01.2018|
+|                          |15.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/13|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |5/13|
+|**Splněno celkem procent**|38%|
 
 
 
 
-*Stav k 14.02.2018 02:00:04*
+*Stav k 15.02.2018 02:00:04*

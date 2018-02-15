@@ -174,10 +174,10 @@
 
 ## Pokročilý .NET a projektivní programování (MI-DNP)
 
-|                          |29.01.2018|
+|                          |15.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |10/22|
-|**Splněno celkem procent**|45%|
+|**Splněno celkem**        |13/22|
+|**Splněno celkem procent**|59%|
 
 
 ## Návrhové vzory a OOP (MI-DPO)
@@ -550,10 +550,10 @@
 
 ## Metody výpočetní inteligence (MI-MVI.16)
 
-|                          |06.07.2017|14.02.2018|
+|                          |06.07.2017|15.02.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |17/25|15/27|
-|**Splněno celkem procent**|68%|56%|
+|**Splněno celkem**        |17/25|16/27|
+|**Splněno celkem procent**|68%|59%|
 
 
 ## Matematika pro znalostní inženýrství (MI-MZI)
@@ -710,10 +710,10 @@
 
 ## Předzpracování dat (MI-PDD.16)
 
-|                          |13.02.2018|
+|                          |15.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |23/37|
-|**Splněno celkem procent**|62%|
+|**Splněno celkem**        |24/37|
+|**Splněno celkem procent**|65%|
 
 
 ## Paralelní a distribuované programování (MI-PDP.16)
@@ -790,10 +790,10 @@
 
 ## Pokročilý Python (MI-PYT)
 
-|                          |14.02.2018|
+|                          |15.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |17/44|
-|**Splněno celkem procent**|39%|
+|**Splněno celkem**        |20/44|
+|**Splněno celkem procent**|45%|
 
 
 ## Reverzní inženýrství (MI-REV.16)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 14.02.2018 02:00:04*
+*Stav k 15.02.2018 02:00:04*

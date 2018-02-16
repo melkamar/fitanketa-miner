@@ -1030,10 +1030,10 @@
 
 ## Teorie systémů (MI-TES.16)
 
-|                          |02.02.2018|
+|                          |16.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |28/31|
-|**Splněno celkem procent**|90%|
+|**Splněno celkem**        |29/31|
+|**Splněno celkem procent**|94%|
 
 
 ## Teorie systémů (MI-TES.2)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 15.02.2018 02:00:04*
+*Stav k 16.02.2018 02:00:04*

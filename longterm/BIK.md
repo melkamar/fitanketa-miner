@@ -119,10 +119,10 @@
 
 ## Hardwarová bezpečnost (BIK-HWB)
 
-|                          |18.01.2018|
+|                          |16.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/5|
-|**Splněno celkem procent**|20%|
+|**Splněno celkem**        |2/5|
+|**Splněno celkem procent**|40%|
 
 
 ## Konceptuální modelování (BIK-KOM)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 15.02.2018 02:00:04*
+*Stav k 16.02.2018 02:00:04*

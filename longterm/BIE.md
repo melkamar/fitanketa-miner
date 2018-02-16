@@ -40,10 +40,10 @@
 
 ## Windows Administration (BIE-ADW.1)
 
-|                          |14.01.2018|
+|                          |16.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |6/8|
-|**Splněno celkem procent**|75%|
+|**Splněno celkem**        |7/8|
+|**Splněno celkem procent**|88%|
 
 
 ## Algorithms and Graphs 1 (BIE-AG1)
@@ -280,10 +280,10 @@
 
 ## Programming in Shell 1 (BIE-PS1)
 
-|                          |12.01.2018|
+|                          |16.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |23/47|
-|**Splněno celkem procent**|49%|
+|**Splněno celkem**        |24/47|
+|**Splněno celkem procent**|51%|
 
 
 ## Programming in shell 2 (BIE-PS2)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 15.02.2018 02:00:04*
+*Stav k 16.02.2018 02:00:04*

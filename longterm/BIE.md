@@ -104,10 +104,10 @@
 
 ## Bachelor Project (BIE-BPR)
 
-|                          |13.02.2018|
+|                          |17.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/4|
-|**Splněno celkem procent**|50%|
+|**Splněno celkem**        |3/4|
+|**Splněno celkem procent**|75%|
 
 
 ## Digital and Analog Circuits (BIE-CAO)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 16.02.2018 02:00:04*
+*Stav k 17.02.2018 02:00:03*

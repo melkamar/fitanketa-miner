@@ -15,10 +15,10 @@
         
 ## Automaty a gramatiky (BIK-AAG)
 
-|                          |04.02.2018|
+|                          |17.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |13/40|
-|**Splněno celkem procent**|32%|
+|**Splněno celkem**        |14/40|
+|**Splněno celkem procent**|35%|
 
 
 ## Administrace OS Unix (BIK-ADU.1)
@@ -79,10 +79,10 @@
 
 ## Bakalářský projekt (BIK-BPR)
 
-|                          |13.02.2018|
+|                          |17.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |1/6|
-|**Splněno celkem procent**|17%|
+|**Splněno celkem**        |2/6|
+|**Splněno celkem procent**|33%|
 
 
 ## Číslicové a analogové obvody (BIK-CAO)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 16.02.2018 02:00:04*
+*Stav k 17.02.2018 02:00:03*

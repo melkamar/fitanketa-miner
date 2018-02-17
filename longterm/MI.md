@@ -174,10 +174,10 @@
 
 ## Pokročilý .NET a projektivní programování (MI-DNP)
 
-|                          |15.02.2018|
+|                          |17.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |13/22|
-|**Splněno celkem procent**|59%|
+|**Splněno celkem**        |16/22|
+|**Splněno celkem procent**|73%|
 
 
 ## Návrhové vzory a OOP (MI-DPO)
@@ -206,10 +206,10 @@
 
 ## Distribuované systémy a výpočty (MI-DSV.16)
 
-|                          |10.02.2018|
+|                          |17.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |14/19|
-|**Splněno celkem procent**|74%|
+|**Splněno celkem**        |16/19|
+|**Splněno celkem procent**|84%|
 
 
 ## Digitální zpracování obrazu (MI-DZO)
@@ -622,10 +622,10 @@
 
 ## Problémy a algoritmy (MI-PAA)
 
-|                          |26.01.2011|26.01.2012|13.02.2018|
+|                          |26.01.2011|26.01.2012|17.02.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |151/181|142/191|142/193|
-|**Splněno celkem procent**|83%|74%|74%|
+|**Splněno celkem**        |151/181|142/191|145/193|
+|**Splněno celkem procent**|83%|74%|75%|
 
 
 ## Pokročilá algoritmizace (MI-PAL)
@@ -846,10 +846,10 @@
 
 ## Programování v Ruby (MI-RUB)
 
-|                          |26.01.2011|26.01.2012|14.02.2018|
+|                          |26.01.2011|26.01.2012|17.02.2018|
 |--------------------------|--------------------|--------------------|--------------------|
-|**Splněno celkem**        |36/51|44/67|7/48|
-|**Splněno celkem procent**|71%|66%|15%|
+|**Splněno celkem**        |36/51|44/67|27/48|
+|**Splněno celkem procent**|71%|66%|56%|
 
 
 ## Runtime systémy (MI-RUN)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 16.02.2018 02:00:04*
+*Stav k 17.02.2018 02:00:03*

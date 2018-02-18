@@ -31,26 +31,26 @@
 
 ## Administrace OS Windows (BIK-ADW.1)
 
-|                          |06.02.2018|
+|                          |18.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |13/22|
-|**Splněno celkem procent**|59%|
+|**Splněno celkem**        |14/22|
+|**Splněno celkem procent**|64%|
 
 
 ## Algoritmy a grafy 1 (BIK-AG1)
 
-|                          |10.01.2018|
+|                          |18.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |0/42|
-|**Splněno celkem procent**|0%|
+|**Splněno celkem**        |16/42|
+|**Splněno celkem procent**|38%|
 
 
 ## Architektury počítačových systémů (BIK-APS.1)
 
-|                          |03.02.2018|
+|                          |18.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/12|
-|**Splněno celkem procent**|17%|
+|**Splněno celkem**        |4/12|
+|**Splněno celkem procent**|33%|
 
 
 ## Administrace webového a DB serveru (BIK-AWD)
@@ -79,10 +79,10 @@
 
 ## Bakalářský projekt (BIK-BPR)
 
-|                          |17.02.2018|
+|                          |18.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/6|
-|**Splněno celkem procent**|33%|
+|**Splněno celkem**        |3/6|
+|**Splněno celkem procent**|50%|
 
 
 ## Číslicové a analogové obvody (BIK-CAO)
@@ -223,10 +223,10 @@
 
 ## Programovací paradigmata (BIK-PPA)
 
-|                          |04.02.2018|
+|                          |18.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |5/32|
-|**Splněno celkem procent**|16%|
+|**Splněno celkem**        |18/32|
+|**Splněno celkem procent**|56%|
 
 
 ## Projekt, prezentace a rétorika (BIK-PPR)
@@ -271,10 +271,10 @@
 
 ## Pravděpodobnost a statistika (BIK-PST)
 
-|                          |15.02.2018|
+|                          |18.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |3/12|
-|**Splněno celkem procent**|25%|
+|**Splněno celkem**        |4/12|
+|**Splněno celkem procent**|33%|
 
 
 ## Struktura a architektura počítačů (BIK-SAP)
@@ -367,10 +367,10 @@
 
 ## Základy matematické analýzy (BIK-ZMA)
 
-|                          |14.02.2018|
+|                          |18.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |16/85|
-|**Splněno celkem procent**|19%|
+|**Splněno celkem**        |24/85|
+|**Splněno celkem procent**|28%|
 
 
 ## Základy webu a uživatelská rozhraní (BIK-ZWU)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 17.02.2018 02:00:03*
+*Stav k 18.02.2018 02:00:04*

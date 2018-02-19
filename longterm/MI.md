@@ -478,10 +478,10 @@
 
 ## Modelování ekonomických procesů (MI-MEP.16)
 
-|                          |14.02.2018|
+|                          |19.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |19/29|
-|**Splněno celkem procent**|66%|
+|**Splněno celkem**        |21/29|
+|**Splněno celkem procent**|72%|
 
 
 ##  (MI-MKY)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 18.02.2018 02:00:04*
+*Stav k 19.02.2018 02:00:04*

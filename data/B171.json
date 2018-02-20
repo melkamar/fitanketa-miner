@@ -994,6 +994,16 @@
         "submitted_survey": 29,
         "percent_finished": 0.8373493975903614,
         "timestamp": 1519002004.569793
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-EMP",
+        "course_name": "Ekonomické a manažerské principy",
+        "enrolled": 165,
+        "finished": 140,
+        "submitted_survey": 35,
+        "percent_finished": 0.8484848484848485,
+        "timestamp": 1519088404.289612
       }
     ],
     "BI-FIP": [
@@ -3174,6 +3184,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.7647058823529411,
         "timestamp": 1519002004.569793
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 158,
+        "submitted_survey": 0,
+        "percent_finished": 0.7745098039215687,
+        "timestamp": 1519088404.289612
       }
     ],
     "BI-CS2": [
@@ -5046,6 +5066,16 @@
         "submitted_survey": 154,
         "percent_finished": 0.5637755102040817,
         "timestamp": 1518742804.057319
+      },
+      {
+        "department": 18104,
+        "course_id": "BI-PS1",
+        "course_name": "Programování v shellu 1",
+        "enrolled": 784,
+        "finished": 443,
+        "submitted_survey": 171,
+        "percent_finished": 0.5650510204081632,
+        "timestamp": 1519088404.289612
       }
     ],
     "BI-SM": [
@@ -6240,6 +6270,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.16666666666666666,
         "timestamp": 1516669204.660446
+      },
+      {
+        "department": 18101,
+        "course_id": "BIE-PPA",
+        "course_name": "Programming Paradigms",
+        "enrolled": 12,
+        "finished": 7,
+        "submitted_survey": 1,
+        "percent_finished": 0.5833333333333334,
+        "timestamp": 1519088404.289612
       }
     ],
     "BIE-BIG": [
@@ -6294,6 +6334,16 @@
         "submitted_survey": 1,
         "percent_finished": 0.75,
         "timestamp": 1518829202.863935
+      },
+      {
+        "department": 18102,
+        "course_id": "BIE-BPR",
+        "course_name": "Bachelor Project",
+        "enrolled": 4,
+        "finished": 4,
+        "submitted_survey": 1,
+        "percent_finished": 1.0,
+        "timestamp": 1519088404.289612
       }
     ],
     "BIE-CZ0": [
@@ -6388,6 +6438,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.875,
         "timestamp": 1518224403.777115
+      },
+      {
+        "department": 18102,
+        "course_id": "BIE-EEC",
+        "course_name": "English external certificate",
+        "enrolled": 9,
+        "finished": 8,
+        "submitted_survey": 0,
+        "percent_finished": 0.8888888888888888,
+        "timestamp": 1519088404.289612
       }
     ],
     "BIE-OOP": [
@@ -6876,6 +6936,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.23076923076923078,
         "timestamp": 1515718803.924191
+      },
+      {
+        "department": 18105,
+        "course_id": "BIE-ZDM",
+        "course_name": "Elements of Discrete Mathematics",
+        "enrolled": 13,
+        "finished": 5,
+        "submitted_survey": 1,
+        "percent_finished": 0.38461538461538464,
+        "timestamp": 1519088404.289612
       }
     ],
     "BIE-ZMA": [
@@ -11442,6 +11512,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.5555555555555556,
         "timestamp": 1518224403.777115
+      },
+      {
+        "department": 18104,
+        "course_id": "MIE-DSV.16",
+        "course_name": "Distributed Systems and Computing",
+        "enrolled": 18,
+        "finished": 11,
+        "submitted_survey": 0,
+        "percent_finished": 0.6111111111111112,
+        "timestamp": 1519088404.289612
       }
     ],
     "MIE-IBE": [

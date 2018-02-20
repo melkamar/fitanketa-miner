@@ -104,10 +104,10 @@
 
 ## Bachelor Project (BIE-BPR)
 
-|                          |17.02.2018|
+|                          |20.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |3/4|
-|**Splněno celkem procent**|75%|
+|**Splněno celkem**        |4/4|
+|**Splněno celkem procent**|100%|
 
 
 ## Digital and Analog Circuits (BIE-CAO)
@@ -136,10 +136,10 @@
 
 ## English external certificate (BIE-EEC)
 
-|                          |10.02.2018|
+|                          |20.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |7/8|
-|**Splněno celkem procent**|88%|
+|**Splněno celkem**        |8/9|
+|**Splněno celkem procent**|89%|
 
 
 ## Introduction to European Economic History (BIE-EHD)
@@ -272,10 +272,10 @@
 
 ## Programming Paradigms (BIE-PPA)
 
-|                          |23.01.2018|
+|                          |20.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |2/12|
-|**Splněno celkem procent**|17%|
+|**Splněno celkem**        |7/12|
+|**Splněno celkem procent**|58%|
 
 
 ## Programming in Shell 1 (BIE-PS1)
@@ -376,10 +376,10 @@
 
 ## Elements of Discrete Mathematics (BIE-ZDM)
 
-|                          |12.01.2018|
+|                          |20.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |3/13|
-|**Splněno celkem procent**|23%|
+|**Splněno celkem**        |5/13|
+|**Splněno celkem procent**|38%|
 
 
 ## Elements of Calculus (BIE-ZMA)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 19.02.2018 02:00:05*
+*Stav k 20.02.2018 02:00:04*

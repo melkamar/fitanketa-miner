@@ -63,10 +63,10 @@
 
 ## Distributed Systems and Computing (MIE-DSV.16)
 
-|                          |10.02.2018|
+|                          |20.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |10/18|
-|**Splněno celkem procent**|56%|
+|**Splněno celkem**        |11/18|
+|**Splněno celkem procent**|61%|
 
 
 ## Efficient Text Pattern Matching (MIE-EVY.16)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 19.02.2018 02:00:05*
+*Stav k 20.02.2018 02:00:04*

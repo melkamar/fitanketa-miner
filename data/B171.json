@@ -1218,6 +1218,16 @@
         "submitted_survey": 32,
         "percent_finished": 0.8758620689655172,
         "timestamp": 1518310803.211228
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-PJV",
+        "course_name": "Programování v Javě",
+        "enrolled": 145,
+        "finished": 128,
+        "submitted_survey": 58,
+        "percent_finished": 0.8827586206896552,
+        "timestamp": 1519174803.96579
       }
     ],
     "BI-PPR": [
@@ -3194,6 +3204,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.7745098039215687,
         "timestamp": 1519088404.289612
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 160,
+        "submitted_survey": 0,
+        "percent_finished": 0.7843137254901961,
+        "timestamp": 1519174803.96579
       }
     ],
     "BI-CS2": [
@@ -3490,6 +3510,16 @@
         "submitted_survey": 7,
         "percent_finished": 0.5957446808510638,
         "timestamp": 1518915603.728835
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-MGA",
+        "course_name": "Multimediální a grafické aplikace",
+        "enrolled": 47,
+        "finished": 29,
+        "submitted_survey": 11,
+        "percent_finished": 0.6170212765957447,
+        "timestamp": 1519174803.96579
       }
     ],
     "BI-MIK": [
@@ -8126,6 +8156,16 @@
         "submitted_survey": 2,
         "percent_finished": 0.34285714285714286,
         "timestamp": 1518656404.560869
+      },
+      {
+        "department": 18105,
+        "course_id": "BIK-MLO",
+        "course_name": "Matematická logika",
+        "enrolled": 70,
+        "finished": 25,
+        "submitted_survey": 2,
+        "percent_finished": 0.35714285714285715,
+        "timestamp": 1519174803.96579
       }
     ],
     "BIK-PST": [
@@ -9988,6 +10028,16 @@
         "submitted_survey": 3,
         "percent_finished": 0.796875,
         "timestamp": 1517360404.723237
+      },
+      {
+        "department": 18102,
+        "course_id": "MI-VMM.16",
+        "course_name": "Vyhledávání v multimédiích",
+        "enrolled": 64,
+        "finished": 52,
+        "submitted_survey": 9,
+        "percent_finished": 0.8125,
+        "timestamp": 1519174803.96579
       }
     ],
     "MI-ARI": [
@@ -11094,6 +11144,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.625,
         "timestamp": 1517101202.903126
+      },
+      {
+        "department": 18101,
+        "course_id": "MIE-MVI.16",
+        "course_name": "Computational Intelligence Methods",
+        "enrolled": 8,
+        "finished": 6,
+        "submitted_survey": 1,
+        "percent_finished": 0.75,
+        "timestamp": 1519174803.96579
       }
     ],
     "MIE-PDD.16": [

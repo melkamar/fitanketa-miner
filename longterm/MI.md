@@ -1086,10 +1086,10 @@
 
 ## Vyhledávání v multimédiích (MI-VMM.16)
 
-|                          |31.01.2018|
+|                          |21.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |51/64|
-|**Splněno celkem procent**|80%|
+|**Splněno celkem**        |52/64|
+|**Splněno celkem procent**|81%|
 
 
 ## Vyhledávání multimediálního obsahu na webu (MI-VMW)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 20.02.2018 02:00:04*
+*Stav k 21.02.2018 02:00:04*

@@ -167,10 +167,10 @@
 
 ## Matematická logika (BIK-MLO)
 
-|                          |15.02.2018|
+|                          |21.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |24/70|
-|**Splněno celkem procent**|34%|
+|**Splněno celkem**        |25/70|
+|**Splněno celkem procent**|36%|
 
 
 ## Object-Oriented Programming (BIK-OOP)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 20.02.2018 02:00:04*
+*Stav k 21.02.2018 02:00:04*

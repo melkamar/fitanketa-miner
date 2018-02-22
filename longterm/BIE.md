@@ -48,10 +48,10 @@
 
 ## Algorithms and Graphs 1 (BIE-AG1)
 
-|                          |10.02.2018|
+|                          |22.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |6/17|
-|**Splněno celkem procent**|35%|
+|**Splněno celkem**        |7/17|
+|**Splněno celkem procent**|41%|
 
 
 ## Algorithms and Graphs 2 (BIE-AG2)
@@ -416,4 +416,4 @@
 
 
 
-*Stav k 21.02.2018 02:00:04*
+*Stav k 22.02.2018 02:00:05*

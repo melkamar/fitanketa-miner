@@ -1004,6 +1004,16 @@
         "submitted_survey": 35,
         "percent_finished": 0.8484848484848485,
         "timestamp": 1519088404.289612
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-EMP",
+        "course_name": "Ekonomické a manažerské principy",
+        "enrolled": 165,
+        "finished": 141,
+        "submitted_survey": 40,
+        "percent_finished": 0.8545454545454545,
+        "timestamp": 1519261204.829224
       }
     ],
     "BI-FIP": [
@@ -3214,6 +3224,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.7843137254901961,
         "timestamp": 1519174803.96579
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 161,
+        "submitted_survey": 0,
+        "percent_finished": 0.7892156862745098,
+        "timestamp": 1519261204.829224
       }
     ],
     "BI-CS2": [
@@ -6224,6 +6244,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.35294117647058826,
         "timestamp": 1518224403.777115
+      },
+      {
+        "department": 18101,
+        "course_id": "BIE-AG1",
+        "course_name": "Algorithms and Graphs 1",
+        "enrolled": 17,
+        "finished": 7,
+        "submitted_survey": 1,
+        "percent_finished": 0.4117647058823529,
+        "timestamp": 1519261204.829224
       }
     ],
     "BIE-EIA": [

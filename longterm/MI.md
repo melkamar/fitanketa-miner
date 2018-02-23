@@ -550,10 +550,10 @@
 
 ## Metody výpočetní inteligence (MI-MVI.16)
 
-|                          |06.07.2017|15.02.2018|
+|                          |06.07.2017|23.02.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |17/25|16/27|
-|**Splněno celkem procent**|68%|59%|
+|**Splněno celkem**        |17/25|17/27|
+|**Splněno celkem procent**|68%|63%|
 
 
 ## Matematika pro znalostní inženýrství (MI-MZI)
@@ -1126,4 +1126,4 @@
 
 
 
-*Stav k 22.02.2018 02:00:05*
+*Stav k 23.02.2018 02:00:04*

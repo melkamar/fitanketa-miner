@@ -8530,6 +8530,16 @@
         "submitted_survey": 3,
         "percent_finished": 0.5925925925925926,
         "timestamp": 1518656404.560869
+      },
+      {
+        "department": 18101,
+        "course_id": "MI-MVI.16",
+        "course_name": "Metody výpočetní inteligence",
+        "enrolled": 27,
+        "finished": 17,
+        "submitted_survey": 4,
+        "percent_finished": 0.6296296296296297,
+        "timestamp": 1519347604.083003
       }
     ],
     "MI-PAL": [

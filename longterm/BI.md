@@ -280,10 +280,10 @@
 
 ## Bakalářský projekt (BI-BPR)
 
-|                          |22.02.2018|
+|                          |24.02.2018|
 |--------------------------|--------------------|
-|**Splněno celkem**        |161/204|
-|**Splněno celkem procent**|79%|
+|**Splněno celkem**        |163/204|
+|**Splněno celkem procent**|80%|
 
 
 ## Číslicové a analogové obvody (BI-CAO)
@@ -400,10 +400,10 @@
 
 ## Ekonomické a manažerské principy (BI-EMP)
 
-|                          |01.07.2017|22.02.2018|
+|                          |01.07.2017|24.02.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |258/305|141/165|
-|**Splněno celkem procent**|85%|85%|
+|**Splněno celkem**        |258/305|142/165|
+|**Splněno celkem procent**|85%|86%|
 
 
 ## Efektivní programování 1 (BI-EP1)
@@ -1208,4 +1208,4 @@
 
 
 
-*Stav k 23.02.2018 02:00:04*
+*Stav k 24.02.2018 02:00:07*

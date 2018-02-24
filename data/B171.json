@@ -1014,6 +1014,16 @@
         "submitted_survey": 40,
         "percent_finished": 0.8545454545454545,
         "timestamp": 1519261204.829224
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-EMP",
+        "course_name": "Ekonomické a manažerské principy",
+        "enrolled": 165,
+        "finished": 142,
+        "submitted_survey": 40,
+        "percent_finished": 0.8606060606060606,
+        "timestamp": 1519434006.646626
       }
     ],
     "BI-FIP": [
@@ -3234,6 +3244,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.7892156862745098,
         "timestamp": 1519261204.829224
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 163,
+        "submitted_survey": 0,
+        "percent_finished": 0.7990196078431373,
+        "timestamp": 1519434006.646626
       }
     ],
     "BI-CS2": [

@@ -2224,6 +2224,16 @@
         "submitted_survey": 91,
         "percent_finished": 0.5767441860465117,
         "timestamp": 1518915603.728835
+      },
+      {
+        "department": 18101,
+        "course_id": "BI-AAG",
+        "course_name": "Automaty a gramatiky",
+        "enrolled": 430,
+        "finished": 249,
+        "submitted_survey": 129,
+        "percent_finished": 0.5790697674418605,
+        "timestamp": 1519606803.964906
       }
     ],
     "BI-ACM3": [
@@ -3254,6 +3264,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.7990196078431373,
         "timestamp": 1519434006.646626
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 164,
+        "submitted_survey": 0,
+        "percent_finished": 0.803921568627451,
+        "timestamp": 1519606803.964906
       }
     ],
     "BI-CS2": [

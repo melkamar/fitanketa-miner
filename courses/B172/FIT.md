@@ -1,4 +1,4 @@
-# Zimní semestr 2017/2018 - předměty programu FIT
+# Letní semestr 2017/2018 - předměty programu FIT
 
 
 | | | | | | |
@@ -11,7 +11,7 @@
 
 **Přihlášeno studentů**: 2
 
-|                          |10.01.2018|
+|                          |04.03.2018|
 |--------------------------|--------------------|
 |**Splněno celkem**        |0 (+0)|
 |**Splněno celkem procent**|0% (+0%)|

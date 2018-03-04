@@ -15,10 +15,10 @@
         
 ## Computer Arithmetic (MIE-ARI)
 
-|                          |30.01.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |1/1|
-|**Splněno celkem procent**|100%|
+|                          |30.01.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |1/1|1/1|
+|**Splněno celkem procent**|100%|100%|
 
 
 ## Automata in Text Pattern Matching (MIE-AVY)
@@ -63,18 +63,18 @@
 
 ## Distributed Systems and Computing (MIE-DSV.16)
 
-|                          |20.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |11/18|
-|**Splněno celkem procent**|61%|
+|                          |20.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |11/18|11/18|
+|**Splněno celkem procent**|61%|61%|
 
 
 ## Efficient Text Pattern Matching (MIE-EVY.16)
 
-|                          |07.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |3/3|
-|**Splněno celkem procent**|100%|
+|                          |07.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |3/3|3/3|
+|**Splněno celkem procent**|100%|100%|
 
 
 ## Functional and Logical Programming (MIE-FLP)
@@ -95,10 +95,10 @@
 
 ## History of Mathematics and Informatics (MIE-HMI)
 
-|                          |19.01.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |1/2|
-|**Splněno celkem procent**|50%|
+|                          |19.01.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |1/2|1/2|
+|**Splněno celkem procent**|50%|50%|
 
 
 ## Hardware Security (MIE-HWB.16)
@@ -111,10 +111,10 @@
 
 ## Information Security (MIE-IBE)
 
-|                          |14.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |13/13|
-|**Splněno celkem procent**|100%|
+|                          |14.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |13/13|13/13|
+|**Splněno celkem procent**|100%|100%|
 
 
 ## Data Compression (MIE-KOD)
@@ -127,26 +127,26 @@
 
 ## Advanced Cryptology (MIE-KRY.16)
 
-|                          |18.01.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |5/6|
-|**Splněno celkem procent**|83%|
+|                          |18.01.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |5/6|5/6|
+|**Splněno celkem procent**|83%|83%|
 
 
 ## Cybernality (MIE-KYB.16)
 
-|                          |17.01.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |6/9|
-|**Splněno celkem procent**|67%|
+|                          |17.01.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |6/9|6/9|
+|**Splněno celkem procent**|67%|67%|
 
 
 ## Web Services and Middleware (MIE-MDW.16)
 
-|                          |06.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |16/19|
-|**Splněno celkem procent**|84%|
+|                          |06.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |16/19|16/19|
+|**Splněno celkem procent**|84%|84%|
 
 
 ## Mathematics for Cryptology (MIE-MKY.16)
@@ -159,26 +159,26 @@
 
 ## Mathematics for Informatics (MIE-MPI)
 
-|                          |30.01.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |3/5|
-|**Splněno celkem procent**|60%|
+|                          |30.01.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |3/5|3/5|
+|**Splněno celkem procent**|60%|60%|
 
 
 ## Modern Internet Technologies (MIE-MTI.16)
 
-|                          |21.01.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |11/11|
-|**Splněno celkem procent**|100%|
+|                          |21.01.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |11/11|11/11|
+|**Splněno celkem procent**|100%|100%|
 
 
 ## Computational Intelligence Methods (MIE-MVI.16)
 
-|                          |21.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |6/8|
-|**Splněno celkem procent**|75%|
+|                          |21.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |6/8|6/8|
+|**Splněno celkem procent**|75%|75%|
 
 
 ## Mathematics for data science (MIE-MZI)
@@ -191,26 +191,26 @@
 
 ## Design for the FPGA and ASIC Technology (MIE-NFA.16)
 
-|                          |10.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |4/4|
-|**Splněno celkem procent**|100%|
+|                          |10.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |4/4|4/4|
+|**Splněno celkem procent**|100%|100%|
 
 
 ## User Interface Design (MIE-NUR.16)
 
-|                          |01.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |13/15|
-|**Splněno celkem procent**|87%|
+|                          |01.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |13/15|13/15|
+|**Splněno celkem procent**|87%|87%|
 
 
 ## Problems and Algorithms (MIE-PAA)
 
-|                          |01.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |11/18|
-|**Splněno celkem procent**|61%|
+|                          |01.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |11/18|11/18|
+|**Splněno celkem procent**|61%|61%|
 
 
 ## Parallel Computer Architectures (MIE-PAP.16)
@@ -231,18 +231,18 @@
 
 ## Advanced Database Systems (MIE-PDB.16)
 
-|                          |02.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |10/12|
-|**Splněno celkem procent**|83%|
+|                          |02.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |10/12|10/12|
+|**Splněno celkem procent**|83%|83%|
 
 
 ## Data Preprocessing (MIE-PDD.16)
 
-|                          |01.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |4/10|
-|**Splněno celkem procent**|40%|
+|                          |01.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |4/10|4/10|
+|**Splněno celkem procent**|40%|40%|
 
 
 ## Parallel and Distributed Programming (MIE-PDP.16)
@@ -271,10 +271,10 @@
 
 ## Reverse Engineering (MIE-REV.16)
 
-|                          |07.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |1/3|
-|**Splněno celkem procent**|33%|
+|                          |07.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |1/3|1/3|
+|**Splněno celkem procent**|33%|33%|
 
 
 ## Pattern Recognition (MIE-ROZ)
@@ -287,26 +287,26 @@
 
 ## Network Security (MIE-SIB.16)
 
-|                          |19.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |16/21|
-|**Splněno celkem procent**|76%|
+|                          |19.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |16/21|16/21|
+|**Splněno celkem procent**|76%|76%|
 
 
 ## Digital Circuit Simulation (MIE-SIM.16)
 
-|                          |17.01.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |4/5|
-|**Splněno celkem procent**|80%|
+|                          |17.01.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |4/5|4/5|
+|**Splněno celkem procent**|80%|80%|
 
 
 ## Systems on Chip (MIE-SOC.16)
 
-|                          |19.01.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |5/5|
-|**Splněno celkem procent**|100%|
+|                          |19.01.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |5/5|5/5|
+|**Splněno celkem procent**|100%|100%|
 
 
 ## Statistics for Informatics (MIE-SPI.16)
@@ -335,34 +335,34 @@
 
 ## Parsing and Compilers (MIE-SYP.16)
 
-|                          |10.01.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |0/1|
-|**Splněno celkem procent**|0%|
+|                          |10.01.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |0/1|0/1|
+|**Splněno celkem procent**|0%|0%|
 
 
 ## Systems Theory (MIE-TES.16)
 
-|                          |26.01.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |2/2|
-|**Splněno celkem procent**|100%|
+|                          |26.01.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |2/2|2/2|
+|**Splněno celkem procent**|100%|100%|
 
 
 ## Testing and Reliability (MIE-TSP.16)
 
-|                          |25.01.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |3/4|
-|**Splněno celkem procent**|75%|
+|                          |25.01.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |3/4|3/4|
+|**Splněno celkem procent**|75%|75%|
 
 
 ## Retrieval of Multimedia Content on the Web (MIE-VMW)
 
-|                          |03.02.2018|
-|--------------------------|--------------------|
-|**Splněno celkem**        |1/2|
-|**Splněno celkem procent**|50%|
+|                          |03.02.2018|04.03.2018|
+|--------------------------|--------------------|--------------------|
+|**Splněno celkem**        |1/2|1/2|
+|**Splněno celkem procent**|50%|50%|
 
 
 ## Web 2.0 (MIE-W20)
@@ -375,4 +375,4 @@
 
 
 
-*Stav k 26.02.2018 02:00:04*
+*Stav k 04.03.2018 02:00:05*

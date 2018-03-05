@@ -238,6 +238,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.8235294117647058,
         "timestamp": 1520125205.076534
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 169,
+        "submitted_survey": 0,
+        "percent_finished": 0.8284313725490197,
+        "timestamp": 1520211603.990911
       }
     ],
     "BI-CS1": [

@@ -248,6 +248,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.8284313725490197,
         "timestamp": 1520211603.990911
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 171,
+        "submitted_survey": 0,
+        "percent_finished": 0.8382352941176471,
+        "timestamp": 1520298003.38323
       }
     ],
     "BI-CS1": [
@@ -1814,6 +1824,16 @@
         "submitted_survey": 3,
         "percent_finished": 0.5833333333333334,
         "timestamp": 1520125205.076534
+      },
+      {
+        "department": 18102,
+        "course_id": "MI-RUB",
+        "course_name": "Programování v Ruby",
+        "enrolled": 48,
+        "finished": 29,
+        "submitted_survey": 3,
+        "percent_finished": 0.6041666666666666,
+        "timestamp": 1520298003.38323
       }
     ],
     "MI-SEP": [

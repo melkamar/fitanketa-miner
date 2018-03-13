@@ -1414,6 +1414,16 @@
         "submitted_survey": 3,
         "percent_finished": 0.4117647058823529,
         "timestamp": 1520125205.076534
+      },
+      {
+        "department": 18102,
+        "course_id": "BIK-TJV",
+        "course_name": "Technologie Java",
+        "enrolled": 34,
+        "finished": 15,
+        "submitted_survey": 3,
+        "percent_finished": 0.4411764705882353,
+        "timestamp": 1520902805.167855
       }
     ],
     "BIK-ZWU": [

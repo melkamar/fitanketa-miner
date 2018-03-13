@@ -343,10 +343,10 @@
 
 ## Technologie Java (BIK-TJV)
 
-|                          |15.02.2018|04.03.2018|
+|                          |15.02.2018|13.03.2018|
 |--------------------------|--------------------|--------------------|
-|**Splněno celkem**        |14/34|14/34|
-|**Splněno celkem procent**|41%|41%|
+|**Splněno celkem**        |14/34|15/34|
+|**Splněno celkem procent**|41%|44%|
 
 
 ## Tvorba uživatelského rozhraní (BIK-TUR)
@@ -383,4 +383,4 @@
 
 
 
-*Stav k 12.03.2018 02:00:04*
+*Stav k 13.03.2018 02:00:05*

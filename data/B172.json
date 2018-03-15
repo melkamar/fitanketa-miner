@@ -258,6 +258,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.8382352941176471,
         "timestamp": 1520298003.38323
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 172,
+        "submitted_survey": 0,
+        "percent_finished": 0.8431372549019608,
+        "timestamp": 1521075604.734003
       }
     ],
     "BI-CS1": [
@@ -810,6 +820,16 @@
         "submitted_survey": 12,
         "percent_finished": 0.8235294117647058,
         "timestamp": 1520125205.076534
+      },
+      {
+        "department": 18104,
+        "course_id": "BI-SSB",
+        "course_name": "Systémová a síťová bezpečnost",
+        "enrolled": 34,
+        "finished": 29,
+        "submitted_survey": 12,
+        "percent_finished": 0.8529411764705882,
+        "timestamp": 1521075604.734003
       }
     ],
     "BI-STO": [
@@ -894,6 +914,16 @@
         "submitted_survey": 132,
         "percent_finished": 0.6165413533834586,
         "timestamp": 1520125205.076534
+      },
+      {
+        "department": 18105,
+        "course_id": "BI-ZDM",
+        "course_name": "Základy diskrétní matematiky",
+        "enrolled": 399,
+        "finished": 255,
+        "submitted_survey": 132,
+        "percent_finished": 0.6390977443609023,
+        "timestamp": 1521075604.734003
       }
     ],
     "BI-ZMA": [

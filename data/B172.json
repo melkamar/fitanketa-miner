@@ -924,6 +924,16 @@
         "submitted_survey": 132,
         "percent_finished": 0.6390977443609023,
         "timestamp": 1521075604.734003
+      },
+      {
+        "department": 18105,
+        "course_id": "BI-ZDM",
+        "course_name": "Základy diskrétní matematiky",
+        "enrolled": 399,
+        "finished": 257,
+        "submitted_survey": 132,
+        "percent_finished": 0.6441102756892231,
+        "timestamp": 1521162004.248923
       }
     ],
     "BI-ZMA": [

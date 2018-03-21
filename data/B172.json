@@ -268,6 +268,16 @@
         "submitted_survey": 0,
         "percent_finished": 0.8431372549019608,
         "timestamp": 1521075604.734003
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-BPR",
+        "course_name": "Bakalářský projekt",
+        "enrolled": 204,
+        "finished": 173,
+        "submitted_survey": 0,
+        "percent_finished": 0.8480392156862745,
+        "timestamp": 1521594002.936477
       }
     ],
     "BI-CS1": [
@@ -1606,6 +1616,16 @@
         "submitted_survey": 4,
         "percent_finished": 0.3611111111111111,
         "timestamp": 1520125205.076534
+      },
+      {
+        "department": 18105,
+        "course_id": "BIK-ZDM",
+        "course_name": "Základy diskrétní matematiky",
+        "enrolled": 36,
+        "finished": 14,
+        "submitted_survey": 4,
+        "percent_finished": 0.3888888888888889,
+        "timestamp": 1521594002.936477
       }
     ],
     "BIK-ZMA": [

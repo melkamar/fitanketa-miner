@@ -494,6 +494,16 @@
         "submitted_survey": 7,
         "percent_finished": 0.3181818181818182,
         "timestamp": 1520125205.076534
+      },
+      {
+        "department": 18102,
+        "course_id": "BI-PGA",
+        "course_name": "Programování grafických aplikací",
+        "enrolled": 22,
+        "finished": 10,
+        "submitted_survey": 7,
+        "percent_finished": 0.45454545454545453,
+        "timestamp": 1521680403.089714
       }
     ],
     "BI-PGR": [
@@ -1868,6 +1878,16 @@
         "submitted_survey": 8,
         "percent_finished": 1.0,
         "timestamp": 1520125205.076534
+      },
+      {
+        "department": 18102,
+        "course_id": "MI-PCM.16",
+        "course_name": "Projektové a změnové řízení",
+        "enrolled": 28,
+        "finished": 28,
+        "submitted_survey": 8,
+        "percent_finished": 1.0,
+        "timestamp": 1521680403.089714
       }
     ],
     "MI-PDB.16": [
